@@ -4,42 +4,42 @@
     {
       "elementId": 1,
       "elementName": "燃烧",
-      "elementIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/Fire.png"
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png"
     },
     {
       "elementId": 2,
       "elementName": "浊刻",
-      "elementIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/Water.png"
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
     },
     {
       "elementId": 3,
       "elementName": "冷凝",
-      "elementIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/Ice.png"
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
     },
     {
       "elementId": 4,
       "elementName": "电导",
-      "elementIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/Electric.png"
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png"
     },
     {
       "elementId": 5,
       "elementName": "物理",
-      "elementIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/Physical.png"
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png"
     },
     {
       "elementId": 6,
       "elementName": "酸蚀",
-      "elementIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/Poison.png"
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
     },
     {
       "elementId": 7,
       "elementName": "草元",
-      "elementIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/Grass.png"
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Grass.png"
     },
     {
       "elementId": 8,
       "elementName": "土元",
-      "elementIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/Soil.png"
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Soil.png"
     }
   ],
   "msg": "成功"

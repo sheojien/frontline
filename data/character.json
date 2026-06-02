@@ -9,32 +9,32 @@
             "characterEnName": "QIONGJIU",
             "characterQuality": "SSR",
             "characterDesc": "利用支援攻击（协击）强力输出，伤害多为回合外攻击，跃键可将回合外攻击改为燃烧伤害",
-            "classIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/classtype/SENTINEL-BLACK.png",
-            "elementIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/Fire.png",
+            "classIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/SENTINEL-BLACK.png",
+            "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png",
             "image": {
-                "imageArt": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/QIONGJIU/QIONGJIU-ART.png",
-                "imageAvatar": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/QIONGJIU/QIONGJIU-AVATAR.png",
-                "imagePanel": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/QIONGJIU/QIONGJIU-PANEL.png",
-                "imageUpper": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/QIONGJIU/QIONGJIU-UPPER.png"
+                "imageArt": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/character/QIONGJIU/QIONGJIU-ART.png",
+                "imageAvatar": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/character/QIONGJIU/QIONGJIU-AVATAR.png",
+                "imagePanel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/character/QIONGJIU/QIONGJIU-PANEL.png",
+                "imageUpper": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/character/QIONGJIU/QIONGJIU-UPPER.png"
             },
             "weaknessInfo": [
                 {
                     "title": "重型弹",
-                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+                    "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
                 },
                 {
                     "title": "冷凝",
-                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Ice_Weakpoint.png"
+                    "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Ice_Weakpoint.png"
                 }
             ],
             "features": [
                 {
                     "title": "中型弹",
-                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+                    "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
                 },
                 {
                     "title": "燃烧",
-                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Fire_Weakpoint.png"
+                    "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Fire_Weakpoint.png"
                 }
             ],
             "weapons": [
@@ -62,7 +62,7 @@
                     "skillSummary": "普攻 / 精准",
                     "skillBullet": "中型弹",
                     "skillAttribute": "",
-                    "skillIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/skills/common/ordinary.png",
+                    "skillIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/skills/common/ordinary.png",
                     "steadyState": 1,
                     "skills": [
                         {
@@ -77,7 +77,7 @@
                     "skillSummary": "主动 / 精准 / 增益",
                     "skillBullet": "中型弹",
                     "skillAttribute": "燃烧",
-                    "skillIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/skills/common/Skill_E.png",
+                    "skillIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/skills/common/Skill_E.png",
                     "steadyState": 3,
                     "skills": [
                         {
@@ -96,7 +96,7 @@
                     "skillSummary": "主动 / 范围 / 减益",
                     "skillBullet": "",
                     "skillAttribute": "燃烧",
-                    "skillIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/skills/common/Skill_Q.png",
+                    "skillIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/skills/common/Skill_Q.png",
                     "steadyState": 3,
                     "skills": [
                         {
@@ -115,7 +115,7 @@
                     "skillSummary": "制胜 / 增益 / 减益",
                     "skillBullet": "",
                     "skillAttribute": "",
-                    "skillIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/skills/common/Skill_R.png",
+                    "skillIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/skills/common/Skill_R.png",
                     "steadyState": 0,
                     "skills": [
                         {
@@ -139,7 +139,7 @@
                     "skillSummary": "被动 / 支援 / 增益",
                     "skillBullet": "",
                     "skillAttribute": "",
-                    "skillIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/skills/common/Skill_A.png",
+                    "skillIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/skills/common/Skill_A.png",
                     "steadyState": 0,
                     "skills": [
                         {
@@ -196,28 +196,28 @@
             "characterEnName": "MOSINNAGANT",
             "characterQuality": "SSR",
             "characterDesc": "",
-            "classIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/classtype/SENTINEL-BLACK.png",
-            "elementIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/Electric.png",
+            "classIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/SENTINEL-BLACK.png",
+            "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png",
             "image": {
-                "imageArt": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/MOSINNAGANT/MOSINNAGANT-ART.png",
-                "imageAvatar": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/MOSINNAGANT/MOSINNAGANT-AVATAR.png",
-                "imagePanel": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/MOSINNAGANT/MOSINNAGANT-PANEL.png",
-                "imageUpper": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/MOSINNAGANT/MOSINNAGANT-UPPER.png"
+                "imageArt": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/character/MOSINNAGANT/MOSINNAGANT-ART.png",
+                "imageAvatar": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/character/MOSINNAGANT/MOSINNAGANT-AVATAR.png",
+                "imagePanel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/character/MOSINNAGANT/MOSINNAGANT-PANEL.png",
+                "imageUpper": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/character/MOSINNAGANT/MOSINNAGANT-UPPER.png"
             },
             "weaknessInfo": [
                 {
                     "title": "轻型弹",
-                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+                    "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
                 },
                 {
                     "title": "酸蚀",
-                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Poison_Weakpoint.png"
+                    "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Poison_Weakpoint.png"
                 }
             ],
             "features": [
                 {
                     "title": "重型弹",
-                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+                    "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
                 }
             ],
             "weapons": [],

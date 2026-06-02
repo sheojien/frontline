@@ -7,7 +7,7 @@
       "weaponEnName": "SUBORDINATE",
       "weaponType": "手枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-01.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-01.png",
       "weaponDesc": "若满生命值，则治疗和造成伤害提高15%。",
       "weaponTrait": "普通攻击射程增加1格，攻击后获得1点导染指数。",
       "weaponBrand": ""
@@ -18,7 +18,7 @@
       "weaponEnName": "SUBORDINATE",
       "weaponType": "冲锋枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-02.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-02.png",
       "weaponDesc": "每移动1格，无视目标5%防御力，至多25%。若移动大于5格，则攻击前随机驱散目标1个增益效果。",
       "weaponTrait": "若移动5格及以上，则下次行动开始时，获得移动提升II，持续1回合。",
       "weaponBrand": ""
@@ -29,7 +29,7 @@
       "weaponEnName": "SUBORDINATE",
       "weaponType": "狙击枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-03.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-03.png",
       "weaponDesc": "造成伤害时，若敌方目标周围半径4格范围内不存在其他敌方单位，则对其造成伤害提高15%。",
       "weaponTrait": "攻击无视1点稳态指数，拥有洞察时，额外无视1点稳态指数。",
       "weaponBrand": ""
@@ -40,7 +40,7 @@
       "weaponEnName": "SUBORDINATE",
       "weaponType": "突击步枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-04.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-04.png",
       "weaponDesc": "周围半径5格内每有1个友方单位（不包含自身），治疗和造成伤害提高5%，至多15%，大于2个时，主动攻击后获得2格移动追加。",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
       "weaponBrand": ""
@@ -51,7 +51,7 @@
       "weaponEnName": "SUBORDINATE",
       "weaponType": "刀",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-05.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-05.png",
       "weaponDesc": "对满生命值或生命值百分比低于自身的敌方单位造成伤害提高15%，若目标附近没有掩体，则攻击前对其造成2点稳态伤害。",
       "weaponTrait": "主动攻击每造成3次击杀，则获得1次行动追加。",
       "weaponBrand": ""
@@ -62,7 +62,7 @@
       "weaponEnName": "SUBORDINATE",
       "weaponType": "机枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-06.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-06.png",
       "weaponDesc": "若未进行过移动，则造成伤害提高15%，且行动结束时恢复最大生命值的10%，1点稳态指数。",
       "weaponTrait": "若造成范围伤害，则施加1个减益效果，持续1回合。",
       "weaponBrand": ""
@@ -73,7 +73,7 @@
       "weaponEnName": "SUBORDINATE",
       "weaponType": "霰弹枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-07.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-07.png",
       "weaponDesc": "若目标满稳态指数或拥有暴露，则对其造成伤害提高15%。造成伤害时，对目标施加稳态失衡I，持续1回合。冷却3回合。",
       "weaponTrait": "破坏掩体时，获得速效屏障。",
       "weaponBrand": ""
@@ -84,7 +84,7 @@
       "weaponEnName": "UMP9",
       "weaponType": "冲锋枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-08.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-08.png",
       "weaponDesc": "施加导电时，追加一次9%攻击力的固定伤害，并有15%的概率施加麻痹，持续1回合。",
       "weaponTrait": "造成伤害时，目标每拥有1个减益效果，无视其5%的防御，至多20%。",
       "weaponBrand": "对瓦良格帮造成伤害提高2.5%，若目标拥有麻痹，额外提高2.5%。"
@@ -95,7 +95,7 @@
       "weaponEnName": "ASVK",
       "weaponType": "狙击枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-09.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-09.png",
       "weaponDesc": "拥有洞察时，造成伤害提高10%。友方单位主动攻击前若目标拥有冷凝类减益时，则造成的冷凝伤害提高5%目标拥有僵冷时:造成的冷凝伤害提高增加至10%。",
       "weaponTrait": "若产生克制，则无视目标10%防御，产生冷凝克制时，额外无视其10%防御。",
       "weaponBrand": "对马利热电厂造成伤害提高2.5%；若目标拥有凝固，额外提高2.5%。"
@@ -106,7 +106,7 @@
       "weaponEnName": "Mosin-Nagant",
       "weaponType": "狙击枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-10.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-10.png",
       "weaponDesc": "造成异位伤害提高10%。若造成电导伤害，则额外提高10%。",
       "weaponTrait": "攻击无视1点稳态指数，拥有洞察时，额外无视1点稳态指数。",
       "weaponBrand": "对P.M.C.造成伤害提高2.5%，若目标拥有麻痹，额外提高2.5%。"
@@ -117,7 +117,7 @@
       "weaponEnName": "WA2000",
       "weaponType": "狙击枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-11.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-11.png",
       "weaponDesc": "造成冷凝伤害提高10%，回合外每造成4次伤害，自身下一次主动攻击造成伤害提高10%。",
       "weaponTrait": "攻击无视目标10%防御，若目标拥有冷凝类减益，额外无视其10%防御。",
       "weaponBrand": "对帕拉蒂斯造成伤害提高2.5%，若目标拥有凝固，额外提高2.5%。"
@@ -128,7 +128,7 @@
       "weaponEnName": "QBZ-97",
       "weaponType": "突击步枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-12.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-12.png",
       "weaponDesc": "造成异位伤害提高10%。造成异位伤害时，异位伤害永久提高2%，若造成电导伤害，则额外获得1层，至多叠加6层。叠加至6层时，主动精准物理攻击造成电导伤害，冷却4回合。",
       "weaponTrait": "释放制胜技能后，获得3格移动追加。每回合至多生效1次。",
       "weaponBrand": "对P.M.C.造成伤害提高2.5%，若目标拥有防御减益，额外提高2.5%。"
@@ -139,7 +139,7 @@
       "weaponEnName": "SUBORDINATE",
       "weaponType": "刀",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-13.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-13.png",
       "weaponDesc": "主动攻击时，对生命值不满的目标追加一次10%攻击力的固定伤害，对生命值百分比低于自身的目标暴击伤害提高20%。",
       "weaponTrait": "主动攻击后自身获得1点导染，每回合至多触发1次。",
       "weaponBrand": "对马利热电厂造成伤害提高2.5%；若目标生命值不满，额外提高2.5%。"
@@ -150,7 +150,7 @@
       "weaponEnName": "M1931",
       "weaponType": "冲锋枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-14.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-14.png",
       "weaponDesc": "全体友方单位造成的冷凝伤害提高10%。施加护盾的效果提高10%。若自身稳态指数大于0，施放制胜技能前，施加护盾的效果增加10%。\r\n护盾:能吸收一定量的伤害。护盾之间无法叠加，但可以进行覆盖，当后施加的护盾持续回合数或者伤害吸收量大于前者时，则进行覆盖。护盾包含寒霜屏障等效果。",
       "weaponTrait": "若移动5格及以上，则下次行动开始时，获得移动提升II，持续1回合。\r\n移动提升II：行动力提高2格。增益效果。",
       "weaponBrand": "对马利热电厂造成伤害提高2.5%；若目标拥有僵冷，额外提高2.5%。\r\n僵冷：无法移动、无法主动位移。冷凝类移动减益。"
@@ -161,7 +161,7 @@
       "weaponEnName": "PPSh-41",
       "weaponType": "冲锋枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-15.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-15.png",
       "weaponDesc": "护城卫士造成的精准伤害提高15%。自身或友方单位进行支援攻击后，自身下一次主动攻击暴击率提高10%，至多提高30%。",
       "weaponTrait": "造成伤害时，目标每拥有1个减益效果，无视其5%的防御，至多20%。",
       "weaponBrand": "对P.M.C.造成伤害提高2.5%，对大型目标，额外提高2.5%。"
@@ -172,7 +172,7 @@
       "weaponEnName": "G36",
       "weaponType": "突击步枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-16.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-16.png",
       "weaponDesc": "全体友军造成电导伤害提高10%;行动结束时恢复自身5%最大生命值:若自身拥有正电荷，则自身及召唤物造成电导伤害均提高20%。",
       "weaponTrait": "受到伤害时目标每有一个电导类减益降低2%伤害，最大6%。",
       "weaponBrand": "对罗联造成伤害提高2.5%，若目标拥有电导类减益，额外提高2.5%。"
@@ -183,7 +183,7 @@
       "weaponEnName": "CZ75",
       "weaponType": "手枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-17.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-17.png",
       "weaponDesc": "物理伤害提高10%；攻击时若与目标距离小于等于3格，造成的伤害提高10%。",
       "weaponTrait": "使自身周围半径3格内的敌方单位受到的稳态伤害提高1点。",
       "weaponBrand": "对持有防御减益的目标造成伤害提高2.5%，对赛卡科技造成的伤害提高2.5%。"
@@ -194,7 +194,7 @@
       "weaponEnName": "Vector",
       "weaponType": "冲锋枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-18.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-18.png",
       "weaponDesc": "友方单位攻击前，若目标拥有燃烧类减益，则造成伤害提高10%，若造成燃烧伤害，则额外提高10%；若目标拥有过热自然，则精准支援攻击造成的伤害提高5%。",
       "weaponTrait": "行动开始是，若自身满生命值，则随机获得一个增益效果，持续1回合。",
       "weaponBrand": "对罗联造成伤害提高2.5%；若目标拥有燃烧类减益，额外提高2.5%。"
@@ -205,7 +205,7 @@
       "weaponEnName": "G28",
       "weaponType": "突击步枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-19.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-19.png",
       "weaponDesc": "攻击前，每消耗1格行动力，造成伤害提高5%，至多提高10%。若目标拥有负电荷，则造成的电导伤害提高15%。",
       "weaponTrait": "行动结束时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
       "weaponBrand": "对罗联造成伤害提高2.5%，若使用的技能拥有电导属性，额外提高2.5%。"
@@ -216,7 +216,7 @@
       "weaponEnName": "M1903",
       "weaponType": "狙击枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-20.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-20.png",
       "weaponDesc": "全体友方单位造成的浊刻伤害提高5%。自身最大生命值提高15%。主动治疗时，为目标施加攻击提升II，持续2回合。",
       "weaponTrait": "治疗友军后，自身恢复2稳态，每回合最多触发一次。",
       "weaponBrand": "对拥有浊刻类减益的目标造成伤害提高2.5%，对塞卡科技造成的伤害提高2.5%。"
@@ -227,7 +227,7 @@
       "weaponEnName": "HP9-1",
       "weaponType": "霰弹枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-21.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-21.png",
       "weaponDesc": "造成的燃烧伤害提高10%。每造成1次燃烧伤害，造成的燃烧伤害提高2%，至多提高10%。",
       "weaponTrait": "使用主动技能前，驱散自身1个减益效果，若驱散成功，则获得1个随机攻击增益，持续1回合。",
       "weaponBrand": "对塞卡科技造成的伤害提高2.5%，若目标拥有燃烧类减益，额外提高2.5%。"
@@ -238,7 +238,7 @@
       "weaponEnName": "CS/LS06",
       "weaponType": "冲锋枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-22.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-22.png",
       "weaponDesc": "克制时，造成伤害提高10%。对有浊刻类减益的目标暴击伤害提高10%。",
       "weaponTrait": "若移动5格及以上，则下次行动开始时，获得移动提升II，持续1回合。",
       "weaponBrand": "对P.M.C.造成伤害提高2.5%；若目标拥有浊刻类减益，额外提高2.5%。"
@@ -249,7 +249,7 @@
       "weaponEnName": "G11",
       "weaponType": "突击步枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-23.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-23.png",
       "weaponDesc": "普攻后，造成酸蚀伤害提高15%。所有友方单位造成的酸蚀伤害提高10%。",
       "weaponTrait": "普攻时，无视目标20%防御。",
       "weaponBrand": "对罗联造成的伤害提高2.5%，若目标拥有酸蚀类减益，额外提高2.5%。"
@@ -260,7 +260,7 @@
       "weaponEnName": "416",
       "weaponType": "突击步枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-24.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-24.png",
       "weaponDesc": "造成的范围伤害提高15%，每造成1次酸蚀伤害，造成伤害提高2%，至多提高10%。",
       "weaponTrait": "若产生克制，则无视目标10%防御，产生酸蚀克制时，额外无视其10%防御。",
       "weaponBrand": "对罗联造成的伤害提高2.5%，若目标拥有酸蚀类减益，额外提高2.5%。"
@@ -271,7 +271,7 @@
       "weaponEnName": "MP5",
       "weaponType": "冲锋枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-25.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-25.png",
       "weaponDesc": "普通攻击造成的暴击伤害提高15%，每使用1次普通攻击暴击伤害提高2%，至多提高至25%。",
       "weaponTrait": "受到伤害时，攻击者每拥有1个燃烧类减益，自身受到伤害降低2%，至多降低6%。",
       "weaponBrand": "对塞卡科技造成的伤害提高2.5%，若目标拥有燃烧类减益，额外提高2.5%。"
@@ -282,7 +282,7 @@
       "weaponEnName": "K2",
       "weaponType": "突击步枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-26.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-26.png",
       "weaponDesc": "所有友方单位主动物理攻击时，无视目标10%防御力。每为友方单位:(不包含自身)施加1个增益，自身主动物理攻击时:无视目标4%防御力:至多无视20%。",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
       "weaponBrand": "对持有防御减益的目标造成伤害提高2.5%，对塞卡科技造成的伤害提高2.5%。"
@@ -293,7 +293,7 @@
       "weaponEnName": "VSK-94",
       "weaponType": "狙击枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-27.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-27.png",
       "weaponDesc": "行动结束时，给自身和自身的实体召唤物施加浸润I，持续2回合。制胜技能造成的伤害提高15%。",
       "weaponTrait": "攻击无视1点稳态指数，拥有洞察时，额外无视1点稳态指数。",
       "weaponBrand": "对拥有浊刻类减益的目标造成伤害提高2.5%，对塞卡科技造成的伤害提高2.5%。"
@@ -304,7 +304,7 @@
       "weaponEnName": "UMP45",
       "weaponType": "冲锋枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-28.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-28.png",
       "weaponDesc": "对拥有负电荷的敌方目标，造成的电导伤害提高10%;对稳态崩溃的敌方目标，造成的电导伤害提高15%。",
       "weaponTrait": "造成的稳态伤害提高1点，若目标为首领单位，则额外提高1点，",
       "weaponBrand": "对拥有电导类减益的目标造成伤害提高2.5%，对吉拉尔集团造成的伤害提高2.5%。"
@@ -315,7 +315,7 @@
       "weaponEnName": "Model 635",
       "weaponType": "冲锋枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-29.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-29.png",
       "weaponDesc": "冷凝伤害提高15%，每进行1次回合外攻击，回合外攻击造成的伤害提高7%，至多提高至14%。",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合",
       "weaponBrand": "对拥有冷凝类减益的目标造成伤害提高2.5%，对吉拉尔集团造成的伤害提高2.5%。"
@@ -326,7 +326,7 @@
       "weaponEnName": "UMP40",
       "weaponType": "冲锋枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-30.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-30.png",
       "weaponDesc": "主动物理攻击时无视目标20%防御力，若有其他友方单位持有此效果:额外无视15%防御力，不可叠加。",
       "weaponTrait": "攻击防御力小于等于0的敌方目标后，造成1点固定稳态伤害。",
       "weaponBrand": "对拥有防御类减益的目标造成伤害提高2.5%，对P.M.C.造成的伤害提高2.5%。"
@@ -337,7 +337,7 @@
       "weaponEnName": "PA-15",
       "weaponType": "手枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-31.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-31.png",
       "weaponDesc": "全场实体召唤物造成伤害提高10%。友方单位攻击前，若目标拥有浊刻类减益，则造成的浊刻伤害提高10%，若此次攻击是反击，则额外提高10%。",
       "weaponTrait": "使用主动技能前，驱散自身1个减益效果，若驱散成功，则获得1个随机增益，持续1回合。",
       "weaponBrand": "对拥有浊刻类减益的目标造成伤害提高2.5%，对P.M.C.造成的伤害提高2.5%。"
@@ -348,7 +348,7 @@
       "weaponEnName": "VERP-12",
       "weaponType": "霰弹枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-32.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-32.png",
       "weaponDesc": "主动技能造成伤害后额外追加10%攻击力的固定伤害。对拥有移动类减益的目标，造成伤害提高10%。受到精准伤害时，若攻击者拥有移动类减益，则受到伤害前对其施加伤害降低I，持续1回合，每回合至多生效1次。",
       "weaponTrait": "破坏掩体时，获得速效屏障。",
       "weaponBrand": "对帕拉蒂斯造成伤害提高2.5%，若目标身上无增益效果，额外提高2.5%。"
@@ -359,7 +359,7 @@
       "weaponEnName": "RPK",
       "weaponType": "机枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-33.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-33.png",
       "weaponDesc": "攻击每累计命中3个目标，下一次主动技能造成伤害提高10%，范围技能伤害额外提高10%。造成伤害后，有20%的概率对目标施加1个减益效果。",
       "weaponTrait": "若造成范围伤害，则施加1个减益效果，持续1回合；若目标拥有3个以上减益效果，则此次攻击无视其15%的掩体减伤。",
       "weaponBrand": "对瓦良格帮造成伤害提高2.5%，若使用的技能为基础类技能，则额外提高2.5%。"
@@ -370,7 +370,7 @@
       "weaponEnName": "AK-Alpha",
       "weaponType": "突击步枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-34.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-34.png",
       "weaponDesc": "造成击杀时或当自身再动结束后，技能伤害提高4%,至多叠加5层。叠加至5层时，主动攻击后获得2格移动追加。",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个攻击类增益，持续1回合。",
       "weaponBrand": "对生骸造成伤害提高2.5%，若自身处于满稳态，则额外提高2.5%。"
@@ -381,7 +381,7 @@
       "weaponEnName": "QBU-191",
       "weaponType": "突击步枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-35.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-35.png",
       "weaponDesc": "造成伤害提高10%。获得增益效果时，下一次支援攻击造成伤害提高10%，至多叠加2层。",
       "weaponTrait": "行动结束时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
       "weaponBrand": "对生骸造成伤害提高2.5%，若对方不受掩体保护，则额外提高2.5%。"
@@ -392,7 +392,7 @@
       "weaponEnName": "SPAS-12",
       "weaponType": "霰弹枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-36.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-36.png",
       "weaponDesc": "若处于稳态崩溃，则稳态恢复时，额外恢复2点稳态指数。若自身稳态指数大于10，则造成伤害提高20%。行动结束时，对周围半径6格内攻击力最高的敌方目标施加攻击降低I，持续1回合。",
       "weaponTrait": "破坏掩体时，获得速效屏障。",
       "weaponBrand": "对瓦良格帮造成伤害提高2.5%，若使用的技能为导染类技能，则额外提高2.5%。"
@@ -403,7 +403,7 @@
       "weaponEnName": "QBZ-95",
       "weaponType": "突击步枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-37.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-37.png",
       "weaponDesc": "攻击前，有20%的概率驱散目标1个增益效果，每移动3格，造成伤害提高5%，至多提高10%。对未受到掩体保护的目标暴击伤害提高10%。",
       "weaponTrait": "行动开始前，若自身满生命值，则随机获得1个增益效果，持续1回合。",
       "weaponBrand": "对P.M.C.造成伤害提高2.5%，暴击伤害提高5%。"
@@ -414,7 +414,7 @@
       "weaponEnName": "G36",
       "weaponType": "突击步枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-38.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-38.png",
       "weaponDesc": "主动治疗时，若目标稳态指数小于1，则额外为其恢复2点稳态指数，每回合至多触发1次。自身满稳态指数时，治疗和造成伤害提高20%。",
       "weaponTrait": "治疗友军后，自身恢复2点稳态，每回合最多触发1次。",
       "weaponBrand": "对帕拉蒂斯造成伤害提高2.5%，若使用的技能拥有异位属性，额外提高2.5%。"
@@ -425,7 +425,7 @@
       "weaponEnName": "AA-12",
       "weaponType": "霰弹枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-39.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-39.png",
       "weaponDesc": "攻击前，敌方每有1个减益效果，对其造成的伤害提高3%，至多提高18%，若造成酸蚀伤害，则造成的酸蚀伤害提高10%。",
       "weaponTrait": "造成范围伤害提高5%，若造成酸蚀范围伤害，则造成的范围伤害额外提高5%。",
       "weaponBrand": "对拥有酸蚀类减益的目标造成伤害提高2.5%，对P.M.C.造成的伤害提高2.5%。"
@@ -436,7 +436,7 @@
       "weaponEnName": "AN-94",
       "weaponType": "突击步枪",
       "weaponBullet": "",
-      "weaponIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/weapons/WEAPON-01-40.png",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/weapons/WEAPON-01-40.png",
       "weaponDesc": "友方单位造成冷凝伤害时，暴击伤害提高10%，若拥有护盾，造成的伤害提高10%。",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合",
       "weaponBrand": "对拥有冷凝类减益的目标造成伤害提高2.5%，对吉拉尔集团造成的伤害提高2.5%"
