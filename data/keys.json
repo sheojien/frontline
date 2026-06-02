@@ -1,0 +1,3016 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "keyId": 1,
+      "keyName": "凝神瞬息",
+      "keySource": "克罗丽科",
+      "characterId": 1,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能杀戮序列的导染消耗减少1点。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 2,
+      "keyName": "凶猛掠食",
+      "keySource": "克罗丽科",
+      "characterId": 1,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能粉碎回旋若只命中1个目标，造成伤害提高30%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 3,
+      "keyName": "炽热的怒火",
+      "keySource": "克罗丽科",
+      "characterId": 1,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若自身周围半径3格内没有其他友方单位，则造成伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 4,
+      "keyName": "高傲的挑战者",
+      "keySource": "克罗丽科",
+      "characterId": 1,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若使用主动技能淬火斩造成击杀，则此技能冷却时间减少2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 5,
+      "keyName": "追击本能",
+      "keySource": "克罗丽科",
+      "characterId": 1,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "行动开始时，若场上存在拥有溢火的敌方单位，则获得火热攻势II，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 6,
+      "keyName": "积势潜行",
+      "keySource": "克罗丽科",
+      "characterId": 1,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "攻击前，若移动了3格以上，则自身暴击率提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 7,
+      "keyName": "暴力美学",
+      "keySource": "克罗丽科",
+      "characterId": 1,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "暴击 3.0%;若自身拥有燃烧类增益，则免疫凝固和僵冷，且造成伤害提高5%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 8,
+      "keyName": "灵验的诅咒",
+      "keySource": "纳美西丝",
+      "characterId": 2,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若目标拥有悼亡预言，则主动攻击前对其施加防御降低II。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 9,
+      "keyName": "流转的运势",
+      "keySource": "纳美西丝",
+      "characterId": 2,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "拥有洞察时，主动技能启星和隧穿之匣的射程增加1格。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 10,
+      "keyName": "好运的呼唤",
+      "keySource": "纳美西丝",
+      "characterId": 2,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "拥有洞察时，若自身附近存在掩体，则受到的范围伤害降低20％。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 11,
+      "keyName": "无声的灾厄",
+      "keySource": "纳美西丝",
+      "characterId": 2,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "击杀拥有悼亡预言标记的目标时，获得攻击提升I和伤害提升I，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 12,
+      "keyName": "命定的劫难",
+      "keySource": "纳美西丝",
+      "characterId": 2,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "击杀拥有悼亡预言标记的目标时，额外获得1点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 13,
+      "keyName": "凝注的目光",
+      "keySource": "纳美西丝",
+      "characterId": 2,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "拥有洞察时，免疫敌方单位施加的位移效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 14,
+      "keyName": "晨星的祝福",
+      "keySource": "纳美西丝",
+      "characterId": 2,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 3.0%;主动攻击造成击杀时，若自身拥有洞察，则获得3格移动追加。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 15,
+      "keyName": "谨遵医嘱",
+      "keySource": "寇尔芙",
+      "characterId": 3,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能危情救护为目标施加防御提升I和掩护，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 16,
+      "keyName": "快速手术",
+      "keySource": "寇尔芙",
+      "characterId": 3,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若友方目标被攻击后陷入稳态崩溃，则自身获得移动提升II，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 17,
+      "keyName": "急救直通车",
+      "keySource": "寇尔芙",
+      "characterId": 3,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能战场微芒效果增加，同时为自身周围半径3格内的友方目标恢复生命值。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 18,
+      "keyName": "战斗医疗兵",
+      "keySource": "寇尔芙",
+      "characterId": 3,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "自身生命值高于80%时，攻击力提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 19,
+      "keyName": "静息愈疗",
+      "keySource": "寇尔芙",
+      "characterId": 3,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "治疗后，随机为目标驱散1个减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 20,
+      "keyName": "速效痊愈",
+      "keySource": "寇尔芙",
+      "characterId": 3,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动治疗时，若目标生命值低于50%，则此次治疗效果提高20%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 21,
+      "keyName": "虚构生命",
+      "keySource": "寇尔芙",
+      "characterId": 3,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "生命加成 3.0%;主动单体治疗前，驱散目标身上随机1个减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 22,
+      "keyName": "制敌有妙招",
+      "keySource": "莱娜",
+      "characterId": 4,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "攻击拥有导电但免疫麻痹的敌方目标时，无视其15%防御力。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 23,
+      "keyName": "攻击动作要帅气",
+      "keySource": "莱娜",
+      "characterId": 4,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能野性扑灭造成击杀时，获得2点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 24,
+      "keyName": "万全的处事方式",
+      "keySource": "莱娜",
+      "characterId": 4,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "施加导电时，将目标身上的1个增益效果转换为随机减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 25,
+      "keyName": "还可以更厉害",
+      "keySource": "莱娜",
+      "characterId": 4,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能跃动追踪时，对自身周围半径5格内最近的2个敌方单位施加导电，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 26,
+      "keyName": "化为前进的动力",
+      "keySource": "莱娜",
+      "characterId": 4,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "拥有电导类减益的敌方单位死亡时，自身获得1点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 27,
+      "keyName": "顶级临场反应",
+      "keySource": "莱娜",
+      "characterId": 4,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "受到攻击后若稳态崩溃，则对周围半径5格内的所有敌方目标施加麻痹，持续1回合。每场战斗至多触发1次。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 28,
+      "keyName": "尖利的爪牙",
+      "keySource": "莱娜",
+      "characterId": 4,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "暴击概率 5.0%;造成精准伤害后，对目标施加导电,持续1回合。每回合至多触发2次。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 29,
+      "keyName": "安全观演距离",
+      "keySource": "维普蕾",
+      "characterId": 5,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "对拥有移动类减益的敌方目标造成的稳态伤害增加2点。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 30,
+      "keyName": "污染区巡演",
+      "keySource": "维普蕾",
+      "characterId": 5,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能全力演出的范围修改为5x3格，击退格数修改为1格。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 31,
+      "keyName": "偶像的好运",
+      "keySource": "维普蕾",
+      "characterId": 5,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若自身周围半径6格内没有友方单位，则行动结束时获得1层速效屏障。增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 32,
+      "keyName": "小恐龙突袭",
+      "keySource": "维普蕾",
+      "characterId": 5,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能专属舞台时，对拥有移动类减益的目标，无视其10%的掩体减伤。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 33,
+      "keyName": "抗压能力特训",
+      "keySource": "维普蕾",
+      "characterId": 5,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若自身附近存在掩体，则受到的范围伤害降低20%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 34,
+      "keyName": "舞台坚守",
+      "keySource": "维普蕾",
+      "characterId": 5,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "对大型目标施加移动类减益时，追加1次15%攻击力的固定伤害。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 35,
+      "keyName": "直击心灵",
+      "keySource": "维普蕾",
+      "characterId": 5,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 5.0%;若行动力大于等于目标，则造成伤害提高7%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 36,
+      "keyName": "多方位考量",
+      "keySource": "闪电",
+      "characterId": 6,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若造成稳态崩溃，则对其施加防御降低I和攻击降低I，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 37,
+      "keyName": "稳步进军指令",
+      "keySource": "闪电",
+      "characterId": 6,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能完美掩护时，同时施加攻击提升I，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 38,
+      "keyName": "自适应策略",
+      "keySource": "闪电",
+      "characterId": 6,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "自身生命值低于30％时，受到的治疗效果提高50％。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 39,
+      "keyName": "火力优势战术",
+      "keySource": "闪电",
+      "characterId": 6,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能强力压制，造成敌方目标稳态崩溃时，对目标施加嘲讽，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 40,
+      "keyName": "天可持续行动",
+      "keySource": "闪电",
+      "characterId": 6,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "自身拥有掩护时，受到的范围伤害降低20％。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 41,
+      "keyName": "标准回避法则",
+      "keySource": "闪电",
+      "characterId": 6,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "稳态崩溃时，恢复自身最大生命值的20％，5点稳态指数，同时驱散自身4个减益效果，每场战斗至多触发1次。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 42,
+      "keyName": "持久续航",
+      "keySource": "闪电",
+      "characterId": 6,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "拥有掩护时，免疫1次位移，冷却1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 43,
+      "keyName": "临时系统维护",
+      "keySource": "佩里缇亚",
+      "characterId": 7,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "每造成10点稳态伤害，获得1点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 44,
+      "keyName": "即兴猫鼠游戏",
+      "keySource": "佩里缇亚",
+      "characterId": 7,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若攻击前有剩余行动力，则行动结束时获得移动提升II，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 45,
+      "keyName": "自动修复程序",
+      "keySource": "佩里缇亚",
+      "characterId": 7,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "攻击前若未进行移动，则驱散自身2个减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 46,
+      "keyName": "慵懒的抵抗",
+      "keySource": "佩里缇亚",
+      "characterId": 7,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能领域压制对免疫位移的目标，造成伤害提高15%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 47,
+      "keyName": "片刻的安宁",
+      "keySource": "佩里缇亚",
+      "characterId": 7,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 48,
+      "keyName": "友善的接触",
+      "keySource": "佩里缇亚",
+      "characterId": 7,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能定点侵蚀对主目标造成的稳态伤害提高4点。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 49,
+      "keyName": "全点了伤害",
+      "keySource": "佩里缇亚",
+      "characterId": 7,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "暴击 5%;主动技能若命中2个以上敌方目标，则造成伤害提高7%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 50,
+      "keyName": "小恶魔的低语",
+      "keySource": "夏克里",
+      "characterId": 8,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 51,
+      "keyName": "热浪回馈",
+      "keySource": "夏克里",
+      "characterId": 8,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "射程内有敌方目标被施加溢火时，对其进行1次临机支援，造成80%攻击力的物理伤害和2点稳态伤害。每回合至多触发3次。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 52,
+      "keyName": "致命诱惑",
+      "keySource": "夏克里",
+      "characterId": 8,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "行动开始时，若场上有敌方单位拥有溢火，则自身获得火热攻势II，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 53,
+      "keyName": "偶像进修日",
+      "keySource": "夏克里",
+      "characterId": 8,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能完美升调时，若目标拥有溢火，则攻击前获得火热攻势II，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 54,
+      "keyName": "目标是你的心",
+      "keySource": "夏克里",
+      "characterId": 8,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能滚烫音浪时，若造成击杀，则获得1层聚焦。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 55,
+      "keyName": "掌心的飞吻",
+      "keySource": "夏克里",
+      "characterId": 8,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "攻击拥有溢火的目标后，恢复自身最大生命值的20%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 56,
+      "keyName": "暖场烟花",
+      "keySource": "夏克里",
+      "characterId": 8,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "暴击 3.0%;自身拥有的增益效果大于1个，则造成伤害提7%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 57,
+      "keyName": "祝福之枪",
+      "keySource": "杜莎妮",
+      "characterId": 9,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "每层溢出的寒冰的祝福将提高主动技能勇者守则5%暴击率，至多提高30%。\n寒冰的祝福：叠至4层时，主动技能勇者守则获得额外效果，无视目标15%的掩体减伤，伤害修改为冷凝伤害，造成伤害提升至140%，若目标处于我方冷凝地格上时，造成伤害提高至160%。至多叠加4层，生效1次。不可驱散。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 58,
+      "keyName": "冒险者意志",
+      "keySource": "杜莎妮",
+      "characterId": 9,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动攻击仅命中1个目标时，造成冷凝伤害提高20%，造成的稳态伤害提高2点。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 59,
+      "keyName": "魔法援护",
+      "keySource": "杜莎妮",
+      "characterId": 9,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能产生冷凝类地格时，若范围内已有冷凝类地格，则触发地格反应，消除敌方目标脚下地格并驱散1个增益效果。每消除1个地格，获得1层寒冰的祝福，至多获得3层。\n寒冰的祝福：叠至4层时，主动技能勇者守则获得额外效果，无视目标15%的掩体减伤，伤害修改为冷凝伤害，造成伤害提升至140%，若目标处于我方冷凝地格上时，造成伤害提高至160%。至多叠加4层，生效1次。不可驱散。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 60,
+      "keyName": "勇气重剑",
+      "keySource": "杜莎妮",
+      "characterId": 9,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能冬神的许可时，技能后若造成目标稳态崩溃，则对其施加防御降低II，持续2回合。\n防御降低II：防御力降低30%。防御类减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 61,
+      "keyName": "贤者之心",
+      "keySource": "杜莎妮",
+      "characterId": 9,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "拥有极寒领域时，免疫移动类减益。\n极寒领域：当射程内的敌方单位受到来自友方的精准伤害时，对其进行1次行动支援，造成80%攻击力的物理伤害和2点稳态伤害。每回合至多生效3次。不可驱散。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 62,
+      "keyName": "神圣光芒",
+      "keySource": "杜莎妮",
+      "characterId": 9,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "回合开始时，若处于我方冷凝类地格上，则驱散自身2个减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 63,
+      "keyName": "艺术感召",
+      "keySource": "杜莎妮",
+      "characterId": 9,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击力加成 5.0%;对行动力小于等于自身或无法移动目标，造成的异位伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 64,
+      "keyName": "正经科研经费",
+      "keySource": "奇塔",
+      "characterId": 10,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 65,
+      "keyName": "超级有益发明",
+      "keySource": "奇塔",
+      "characterId": 10,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "行动支援的射程增加2格。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 66,
+      "keyName": "金手指",
+      "keySource": "奇塔",
+      "characterId": 10,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能辣味糖果新增效果，自身拥有火热攻势时，为最近的1个友方目标（不包含自身）恢复100%攻击力的生命值。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 67,
+      "keyName": "天才的尊严",
+      "keySource": "奇塔",
+      "characterId": 10,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "每拥有1个增益效果，攻击力提高3％，至多提高15％。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 68,
+      "keyName": "天才辅助方案",
+      "keySource": "奇塔",
+      "characterId": 10,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能烟火嘉年华不再对敌方目标造成伤害，效果修改为恢复范围内友方目标90％攻击力的生命值，并驱散1个减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 69,
+      "keyName": "大大的恶作剧",
+      "keySource": "奇塔",
+      "characterId": 10,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若行动结束时，拥有火热攻势，则恢复自身20％攻击力的生命值。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 70,
+      "keyName": "微妙的发明",
+      "keySource": "奇塔",
+      "characterId": 10,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 3.0%;主动治疗时，有50%概率对目标随机施加1个增益效果，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 71,
+      "keyName": "彗尾过境",
+      "keySource": "托洛洛",
+      "characterId": 11,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "行动追加时,行动力提高1格。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 72,
+      "keyName": "观测法则",
+      "keySource": "托洛洛",
+      "characterId": 11,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能黑洞反演时,对目标施加淤滞,持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 73,
+      "keyName": "不可见光线",
+      "keySource": "托洛洛",
+      "characterId": 11,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "行动追加时，获得攻击提升II和伤害提升II,持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 74,
+      "keyName": "逆行轨迹线",
+      "keySource": "托洛洛",
+      "characterId": 11,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能超新星冲击时，若有友方单位在自身攻击前进行支援射击，则对目标施加眩晕，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 75,
+      "keyName": "星河游弋",
+      "keySource": "托洛洛",
+      "characterId": 11,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若产生克制,攻击前驱散目标2个增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 76,
+      "keyName": "掩星",
+      "keySource": "托洛洛",
+      "characterId": 11,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "满生命值和稳态指数时,无视目标10%的掩体减伤。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 77,
+      "keyName": "余辉",
+      "keySource": "托洛洛",
+      "characterId": 11,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 5.0%;导染指数不满时,造成伤害提高7%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 78,
+      "keyName": "英勇出击",
+      "keySource": "纳甘",
+      "characterId": 12,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 79,
+      "keyName": "前辈的经验",
+      "keySource": "纳甘",
+      "characterId": 12,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若攻击拥有防御类减益效果的敌方目标，则自身所有主动技能的冷却时间减少1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 80,
+      "keyName": "隐形防弹衣",
+      "keySource": "纳甘",
+      "characterId": 12,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若被拥有减益的敌方目标攻击，则受到的伤害降低10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 81,
+      "keyName": "守护者传说",
+      "keySource": "纳甘",
+      "characterId": 12,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能正义的伙伴时，若攻击2次，则第一次造成10%，第二次造成130%攻击力的物理伤害。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 82,
+      "keyName": "一枪定胜负",
+      "keySource": "纳甘",
+      "characterId": 12,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "对拥有防御类减益的敌方目标，暴击率和暴击伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 83,
+      "keyName": "正义的子弹",
+      "keySource": "纳甘",
+      "characterId": 12,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能前辈的劝诫时，若造成敌方目标稳态崩溃，则对其追加一次50%攻击力的固定伤害。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 84,
+      "keyName": "前辈常谈",
+      "keySource": "纳甘",
+      "characterId": 12,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 3%;若目标的稳态指数低于自身，则对其造成伤害提高7%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 85,
+      "keyName": "专注性",
+      "keySource": "琼玖",
+      "characterId": 13,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 86,
+      "keyName": "高效规划",
+      "keySource": "琼玖",
+      "characterId": 13,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "行动支援前，驱散目标身上1个增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 87,
+      "keyName": "针对性训练",
+      "keySource": "琼玖",
+      "characterId": 13,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "处于支援状态时，在友方单位攻击前，对目标施加防御降低II，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 88,
+      "keyName": "弱点标记",
+      "keySource": "琼玖",
+      "characterId": 13,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能胜利指引效果修改为对所选方向8格内的所有敌方目标造成伤害，第一个目标外的敌方目标受到伤害降低30%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 89,
+      "keyName": "必要的调整",
+      "keySource": "琼玖",
+      "characterId": 13,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能共轨时，若产生克制，则获得火热攻势II，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 90,
+      "keyName": "稳定性",
+      "keySource": "琼玖",
+      "characterId": 13,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "拥有支援增幅时，免疫敌方单位施加的位移效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 91,
+      "keyName": "攻坚谈判",
+      "keySource": "琼玖",
+      "characterId": 13,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "暴击 5.0%;自身行动回合外造成伤害提高7%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 92,
+      "keyName": "餐前甜品",
+      "keySource": "桑朵莱希",
+      "characterId": 14,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 93,
+      "keyName": "女仆的决心",
+      "keySource": "桑朵莱希",
+      "characterId": 14,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若自身周围半径7格内有友方单位受到伤害后处于稳态崩溃，则消耗自身热态回复，并为其施加热态回复。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 94,
+      "keyName": "高效处理",
+      "keySource": "桑朵莱希",
+      "characterId": 14,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "触发热态回复效果时，随机驱散攻击者1个增益效果。触发热态回复效果前，驱散拥有者自身2个减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 95,
+      "keyName": "舒心特调",
+      "keySource": "桑朵莱希",
+      "characterId": 14,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能方糖特饮的治疗系数提高75%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 96,
+      "keyName": "周全准备",
+      "keySource": "桑朵莱希",
+      "characterId": 14,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "丰动治疗友方目标时，为其驱散1个减益效果，对拥有热态回复的目标，额外驱散1个减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 97,
+      "keyName": "幸运菜单",
+      "keySource": "桑朵莱希",
+      "characterId": 14,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动治疗友方目标时，若目标拥有热态回复，则为其随机施加1个强力增益效果，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 98,
+      "keyName": "必备热饮",
+      "keySource": "桑朵莱希",
+      "characterId": 14,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "生命加成 5.0%;行动结束时，为最近的1个没有热态回复的友方单位施加热态回复。冷却2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 99,
+      "keyName": "能吃是福",
+      "keySource": "塞布丽娜",
+      "characterId": 15,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "受到攻击时，防御力提高20%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 100,
+      "keyName": "美味分享",
+      "keySource": "塞布丽娜",
+      "characterId": 15,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 101,
+      "keyName": "温水煮一切",
+      "keySource": "塞布丽娜",
+      "characterId": 15,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "在浊刻类地格上时，防御力提高30%，并免疫敌方单位施加的位移效果和所有浊刻类异常地面效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 102,
+      "keyName": "吃饱饱睡好好",
+      "keySource": "塞布丽娜",
+      "characterId": 15,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "导染指数未满时，每获得1点导染指数，恢复2点稳态指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 103,
+      "keyName": "卡路里超标",
+      "keySource": "塞布丽娜",
+      "characterId": 15,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能美味盛宴的生效范围改为周围半径1格，选择目标改为地格，将所有目标朝中心拉拽1格，造成伤害提高到攻击力的100%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 104,
+      "keyName": "怪味健康餐",
+      "keySource": "塞布丽娜",
+      "characterId": 15,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能饭前准备作用范围修改为自身周围半径5格，不再施加移动降低II，对至多2个目标施加嘲讽效果，持续1回合。冷却时间修改为3回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 105,
+      "keyName": "高油温防护",
+      "keySource": "塞布丽娜",
+      "characterId": 15,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "防御加成 5.0%;造成精准伤害时，对目标施加移动降低II，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 106,
+      "keyName": "绕梁",
+      "keySource": "黛烟",
+      "characterId": 16,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "拥有校音时，行动力增加1格。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 107,
+      "keyName": "青云未至",
+      "keySource": "黛烟",
+      "characterId": 16,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 108,
+      "keyName": "烟行调",
+      "keySource": "黛烟",
+      "characterId": 16,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "攻击时每拥有1点额外的行动力，暴击率提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 109,
+      "keyName": "曼声传情",
+      "keySource": "黛烟",
+      "characterId": 16,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若自身行动力比目标高，则主动攻击前获得1层校音。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 110,
+      "keyName": "破阵",
+      "keySource": "黛烟",
+      "characterId": 16,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "每拥有3层校音，使用主动技能绝调金声时，额外驱散1个增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 111,
+      "keyName": "流芳",
+      "keySource": "黛烟",
+      "characterId": 16,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能清商和鸣后，若本回合造成击杀，则恢复自身最大生命值的20%及2点稳态指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 112,
+      "keyName": "金石裂帛",
+      "keySource": "黛烟",
+      "characterId": 16,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "暴击 5.0%;行动开始时，获得移动提升I，持续1回合。冷却1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 113,
+      "keyName": "治安巡逻小队",
+      "keySource": "莫辛纳甘",
+      "characterId": 17,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若目标拥有麻痹，2点。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 114,
+      "keyName": "预备防御措施",
+      "keySource": "莫辛纳甘",
+      "characterId": 17,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能致胜准星时，若造成电导伤害，则对其施加麻痹，持续1回合，不再施加导电效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 115,
+      "keyName": "秩序维护",
+      "keySource": "莫辛纳甘",
+      "characterId": 17,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若目标拥有麻痹，则攻击前对其施加2个减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 116,
+      "keyName": "积极调整心态",
+      "keySource": "莫辛纳甘",
+      "characterId": 17,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能积极心态中，自身拥有电击时，攻击无视15%的掩体减伤。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 117,
+      "keyName": "专注办公",
+      "keySource": "莫辛纳甘",
+      "characterId": 17,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "拥有洞察时，受到的稳态伤害降低1点。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 118,
+      "keyName": "机动巡视",
+      "keySource": "莫辛纳甘",
+      "characterId": 17,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若目标获得麻痹，则主动攻击后获得3格移动追加。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 119,
+      "keyName": "看穿一切",
+      "keySource": "莫辛纳甘",
+      "characterId": 17,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 5.0%;拥有洞察时，造成的伤害提高7%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 120,
+      "keyName": "附加情报",
+      "keySource": "玛绮朵",
+      "characterId": 18,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能冷厉闪狙造成击杀时，获得1点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 121,
+      "keyName": "加冰加奶沫",
+      "keySource": "玛绮朵",
+      "characterId": 18,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 122,
+      "keyName": "不屈独狼",
+      "keySource": "玛绮朵",
+      "characterId": 18,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "施放主动技能专业手段后，若自身周围半径3格内没有其他友方单位，则获得1层独狼。\n独狼：主动攻击前，基于本次攻击次数对目标施加等量凝固，持续1回合；生效1次。增益不可驱散。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 123,
+      "keyName": "休整时机",
+      "keySource": "玛绮朵",
+      "characterId": 18,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "在冷凝地格上施放独狼领域、冷厉闪狙或专业手段后，驱散自身身上所有冷凝类减益效果，并获得3格移动追加。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 124,
+      "keyName": "加热加焦糖",
+      "keySource": "玛绮朵",
+      "characterId": 18,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时，对全场生命值最高的敌方单位施加颤栗杀机。\n颤栗杀机：免疫凝固、僵冷。受到来自玛绮朵的冷凝伤害时，受到伤害提高20%，若产生克制，则受到伤害提高增加至30%。不可驱散。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 125,
+      "keyName": "绝对专注",
+      "keySource": "玛绮朵",
+      "characterId": 18,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时，攻击力提高10%，持续到生命值首次低于100%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 126,
+      "keyName": "生存本能",
+      "keySource": "玛绮朵",
+      "characterId": 18,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 5.0%;行动开始时，若自身生命值大于80%，则受到攻击时，受到的稳态伤害降低2点，每回合至多生效1次。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 127,
+      "keyName": "气氛催化剂",
+      "keySource": "绛雨",
+      "characterId": 19,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 128,
+      "keyName": "超级精准打击",
+      "keySource": "绛雨",
+      "characterId": 19,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能妙手惊雷时，若对拥有电导类减益的目标产生克制，也能对目标周围半径2格内所有敌方单位造成30%攻击力的固定伤害，并产生电压地格，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 129,
+      "keyName": "演出应急手册",
+      "keySource": "绛雨",
+      "characterId": 19,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "拥有电导类减益的敌方单位死亡时，自身获得1点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 130,
+      "keyName": "行动派的迅速",
+      "keySource": "绛雨",
+      "characterId": 19,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若目标拥有电导类减益但免疫指令禁止，则无视其15%防御力，并在攻击后施加导电，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 131,
+      "keyName": "精英人形的实力",
+      "keySource": "绛雨",
+      "characterId": 19,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用制胜技能引风掣电时，同时破坏范围内自身周围3×3格外的可破坏掩体，攻击后将首个命中的敌方目标击退1格。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 132,
+      "keyName": "有理有据",
+      "keySource": "绛雨",
+      "characterId": 19,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "清除自身脚下的电导类地格时，获得1点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 133,
+      "keyName": "舞台余震",
+      "keySource": "绛雨",
+      "characterId": 19,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "稳态指数大于0时，造成的异位伤害提高5%，免疫电导类减益和电导类地格的负面效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 134,
+      "keyName": "合作共赢",
+      "keySource": "科谢尼娅",
+      "characterId": 20,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "当对自身以外的友方目标治疗时，为其及自身随机施加1个增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 135,
+      "keyName": "等价交换",
+      "keySource": "科谢尼娅",
+      "characterId": 20,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能有利循环时，每造成1次击杀，本回合行动支援次数增加1次。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 136,
+      "keyName": "稳定收益",
+      "keySource": "科谢尼娅",
+      "characterId": 20,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "造成燃烧伤害后，恢复造成伤害10%的生命值和1点稳态指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 137,
+      "keyName": "互惠互利",
+      "keySource": "科谢尼娅",
+      "characterId": 20,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能全面救援时，自身也可获得技能中相同增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 138,
+      "keyName": "友情附赠",
+      "keySource": "科谢尼娅",
+      "characterId": 20,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "施加燃烧类增益时，额外驱散1个减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 139,
+      "keyName": "优惠攻略",
+      "keySource": "科谢尼娅",
+      "characterId": 20,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若行动结束时拥有热态回复，则获得1点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 140,
+      "keyName": "熊熊燃烧",
+      "keySource": "科谢尼娅",
+      "characterId": 20,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "施加燃烧类增益时，有50%概率对目标施加1个增益效果，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 141,
+      "keyName": "迅疾的行动",
+      "keySource": "乌尔丽德",
+      "characterId": 21,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "拥有连旋时可以使用普攻和其他主动技能，但是额外消耗2点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 142,
+      "keyName": "猎物锁定",
+      "keySource": "乌尔丽德",
+      "characterId": 21,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "敌方目标周围半径3格内无任何敌方单位时，无视该敌方目标30%防御。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 143,
+      "keyName": "适当的警戒",
+      "keySource": "乌尔丽德",
+      "characterId": 21,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得3点导染指数指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 144,
+      "keyName": "理想化状态",
+      "keySource": "乌尔丽德",
+      "characterId": 21,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "自身3格范围内无友方目标时（不包含召唤物），自身暴击率提高20%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 145,
+      "keyName": "首领的威压",
+      "keySource": "乌尔丽德",
+      "characterId": 21,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "当自身满生命值时，造成伤害提高15%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 146,
+      "keyName": "猎手的敏锐",
+      "keySource": "乌尔丽德",
+      "characterId": 21,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "造成克制时，自身获得攻击提升I，持续2回合。攻击提升I：攻击力提高10%。增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 147,
+      "keyName": "创口撕裂",
+      "keySource": "乌尔丽德",
+      "characterId": 21,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击前若敌方目标生命值不满，则对其造成伤害提高7%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 148,
+      "keyName": "制定计划",
+      "keySource": "莉塔拉",
+      "characterId": 22,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 149,
+      "keyName": "积累经验",
+      "keySource": "莉塔拉",
+      "characterId": 22,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "每造成3次伤害，获得1点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 150,
+      "keyName": "乘胜追击",
+      "keySource": "莉塔拉",
+      "characterId": 22,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若产生克制，则攻击后对目标随机施加1个减益效果，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 151,
+      "keyName": "寻找破绽",
+      "keySource": "莉塔拉",
+      "characterId": 22,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若目标拥有防御类减益，则暴击率提高15%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 152,
+      "keyName": "分析战局",
+      "keySource": "莉塔拉",
+      "characterId": 22,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能绝佳时机时，对目标施加攻击降低I，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 153,
+      "keyName": "积极进攻",
+      "keySource": "莉塔拉",
+      "characterId": 22,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能可靠的掩护前，若未进行过移动，则造成伤害修改为范围燃烧伤害。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 154,
+      "keyName": "弱点击破",
+      "keySource": "莉塔拉",
+      "characterId": 22,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "对拥有防御类减益的目标，造成伤害提高7%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 155,
+      "keyName": "气势不能输",
+      "keySource": "索米",
+      "characterId": 23,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能凛冬制裁后，若目标处于稳态崩溃，则恢复自身2点稳态指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 156,
+      "keyName": "小小守护者",
+      "keySource": "索米",
+      "characterId": 23,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时，获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 157,
+      "keyName": "善意的回馈",
+      "keySource": "索米",
+      "characterId": 23,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能瑞雪报恩时，若目标生命值低于80%，则获得1点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 158,
+      "keyName": "动作要迅捷",
+      "keySource": "索米",
+      "characterId": 23,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "回合开始时，每有一个生命值低于80%的友方单位（不包含自身），自身行动力增加1格。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 159,
+      "keyName": "不可以倒下",
+      "keySource": "索米",
+      "characterId": 23,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "被施加眩晕、嘲讽、麻痹时，立刻驱散该效果，且一回合内免疫眩晕、嘲讽、麻痹，同时自身获得寒霜屏障，持续3回合，寒霜屏障吸收量为60%初始攻击力，至多不超过100%最大生命值。一场战斗至多触发1次。\n眩晕：无法行动。\n嘲讽：无法控制，强制使用普通攻击对状态施加者进行攻击，施加者死亡时消除。\n麻痹：指令禁止，禁止使用普通攻击和主动技能，电导类减益。\n寒霜屏障：护盾，寒霜屏障被击破时，对击破者施加僵冷，持续1回合。冷凝类增益，不可驱散。\n护盾：能吸收一定量的伤害。护盾之间无法叠加，但可以进行覆盖，当后施加的护盾持续回合数或者伤害吸收量大于前者时，则进行覆盖。护盾包含寒霜屏障等效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 160,
+      "keyName": "后勤保障中",
+      "keySource": "索米",
+      "characterId": 23,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "行动结束时，若自身稳态指数大于0，则恢复10%最大生命值的生命值和1点稳态指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 161,
+      "keyName": "使命的加护",
+      "keySource": "索米",
+      "characterId": 23,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "生命值低于80%时，恢复自身15%最大生命值的生命值，并获得防御提升III，持续2回合。一场战斗至多触发1次。\n防御提升III：防御力提高40%。增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 162,
+      "keyName": "与光荣同在",
+      "keySource": "波波沙",
+      "characterId": 24,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能荣誉捍卫攻击大型目标时，造成伤害提高20%，护城卫士技能反恐支援造成的稳态伤害提高2点。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 163,
+      "keyName": "誓死掩护",
+      "keySource": "波波沙",
+      "characterId": 24,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "护城卫士处于修整状态时，波波沙造成伤害提高20%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 164,
+      "keyName": "坚定的信念",
+      "keySource": "波波沙",
+      "characterId": 24,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "护城卫士不会自行移动，但其攻击力提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 165,
+      "keyName": "最后攻坚",
+      "keySource": "波波沙",
+      "characterId": 24,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能默契突围造成伤害时，若护城卫士周围半径3格内没有敌方单位，造成伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 166,
+      "keyName": "我学习一下",
+      "keySource": "波波沙",
+      "characterId": 24,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "回合开始时，若自身拥有的可驱散增益效果小于等于1个，则获得1回合1个随机可驱散增益，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 167,
+      "keyName": "同志的力量",
+      "keySource": "波波沙",
+      "characterId": 24,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "回合开始时，自身与护城卫士之间攻击力较低者获得勋章的辉光，持续1回合。\n勋章的辉光：攻击力提高10%。增益不可驱散。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 168,
+      "keyName": "闪亮的勋章",
+      "keySource": "波波沙",
+      "characterId": 24,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "友方单位（不包含自身）支援技能造成的伤害提高10%。每回合至多触发1次。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 169,
+      "keyName": "默默打气",
+      "keySource": "洛塔",
+      "characterId": 25,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时，获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 170,
+      "keyName": "信心增强",
+      "keySource": "洛塔",
+      "characterId": 25,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "对拥有冷凝类减益的敌方目标造成伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 171,
+      "keyName": "颤抖瞄准",
+      "keySource": "洛塔",
+      "characterId": 25,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若造成冷凝伤害，则对目标施加凝固，持续2回合。\n凝固：行动力降低1格;行动结束时，若拥有2层凝固，则转化为僵冷，持续1回合;至多叠加2层。冷凝类移动减益。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 172,
+      "keyName": "谨慎躲避",
+      "keySource": "洛塔",
+      "characterId": 25,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "生命值大于50%时，受到的范围伤害降低20%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 173,
+      "keyName": "壮胆大喊",
+      "keySource": "洛塔",
+      "characterId": 25,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能冷静弹药新增效果，将目标击退3格。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 174,
+      "keyName": "定心安抚",
+      "keySource": "洛塔",
+      "characterId": 25,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能心智调整新增效果，获得1层速效屏障。\n速效屏障：受到的精准类伤害降低60%，生效1次。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 175,
+      "keyName": "捕猎陷阱",
+      "keySource": "洛塔",
+      "characterId": 25,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "对拥有移动类减益的敌方目标，造成伤害提高7%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 176,
+      "keyName": "侧耳倾听",
+      "keySource": "安朵丝",
+      "characterId": 26,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时，获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 177,
+      "keyName": "迂缓回路",
+      "keySource": "安朵丝",
+      "characterId": 26,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "自身造成电导伤害时，若目标处于稳态崩溃，且其拥有电充能，则额外造成10%攻击力的固定伤害。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 178,
+      "keyName": "慢工细作",
+      "keySource": "安朵丝",
+      "characterId": 26,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "安朵丝为友方施加正电荷时为其和所有自巡炮驱散2个减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 179,
+      "keyName": "调谐联结",
+      "keySource": "安朵丝",
+      "characterId": 26,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "安朵丝在场时，拥有正电荷的友方单位行动结束时，若自身周围半径3格内存在其他拥有正电荷的友方单位，则获得1层掩护。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 180,
+      "keyName": "情报共享",
+      "keySource": "安朵丝",
+      "characterId": 26,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时，为所有友方人形施加正电荷，持续3回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 181,
+      "keyName": "预先侦察",
+      "keySource": "安朵丝",
+      "characterId": 26,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时，为最大生命值最高的敌方单位施加电充能，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 182,
+      "keyName": "感性磁场",
+      "keySource": "安朵丝",
+      "characterId": 26,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "回合开始时，场上每有1个电导类减益，自身造成伤害提高5%，至多提高10%，持续到大回合结束。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 183,
+      "keyName": "寻息追踪",
+      "keySource": "绯",
+      "characterId": 27,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "场上每存在1个拥有裂伤的敌方单位时，自身提高1格行动力，至多提高3格。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 184,
+      "keyName": "全力斩击",
+      "keySource": "绯",
+      "characterId": 27,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能破障回旋仅命中1个单位时，造成伤害提高20%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 185,
+      "keyName": "救援响应补给",
+      "keySource": "绯",
+      "characterId": 27,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时，获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 186,
+      "keyName": "急救预备方案",
+      "keySource": "绯",
+      "characterId": 27,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "生命值低于50%时，受到的治疗效果提高30%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 187,
+      "keyName": "险境防卫",
+      "keySource": "绯",
+      "characterId": 27,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "行动结束时，若自身周围半径2格内存在拥有裂伤的敌方单位，则获得范围防御I，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 188,
+      "keyName": "搏击进行时",
+      "keySource": "绯",
+      "characterId": 27,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "拥有创口的敌方单位死亡时自身提高4%的攻击力，至多提高20%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 189,
+      "keyName": "死斗",
+      "keySource": "绯",
+      "characterId": 27,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "使自身周围半径3格内的敌方单位受到的物理伤害提高5%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 190,
+      "keyName": "临终关怀",
+      "keySource": "维克托",
+      "characterId": 28,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能末路熔断若击杀主目标，则在其及其周围半径3格内产生焚化地格，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 191,
+      "keyName": "悲观主义溅射",
+      "keySource": "维克托",
+      "characterId": 28,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 192,
+      "keyName": "消极型支援",
+      "keySource": "维克托",
+      "characterId": 28,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动攻击前，与驱散敌方目标2个增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 193,
+      "keyName": "绝望地蔓延",
+      "keySource": "维克托",
+      "characterId": 28,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动攻击对大型目标造成伤害时，追加一次15%攻击力的固定伤害。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 194,
+      "keyName": "不幸言中",
+      "keySource": "维克托",
+      "characterId": 28,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "处于燃烧类地格上时，受到伤害降低20%，行动结束时，恢复2点稳态指数和10%生命值上限的生命值。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 195,
+      "keyName": "负能量激励",
+      "keySource": "维克托",
+      "characterId": 28,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "射程内敌方单位被施加溢火时进行临机支援，造成60%攻击力的燃烧伤害和1点稳态伤害。一回合至多1次。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 196,
+      "keyName": "丧钟",
+      "keySource": "维克托",
+      "characterId": 28,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "回合开始时，若场上存在拥有燃烧类减益的敌方单位，攻击力提高8%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 197,
+      "keyName": "蓬勃朝气",
+      "keySource": "比悠卡",
+      "characterId": 29,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "潜藏效果结束时，自身恢复30%最大生命值的生命值和4点稳态指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 198,
+      "keyName": "眼泪攻势",
+      "keySource": "比悠卡",
+      "characterId": 29,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若自身拥有持续放电，则免疫移动类减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 199,
+      "keyName": "气氛活跃者",
+      "keySource": "比悠卡",
+      "characterId": 29,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "回合开始时，若自身周围半径5格内有敌方单位，则获得移动提升I，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 200,
+      "keyName": "翘起的尾巴",
+      "keySource": "比悠卡",
+      "characterId": 29,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能爆裂果壳攻击拥有负电荷的敌方目标时，攻击力提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 201,
+      "keyName": "渴望的夸奖",
+      "keySource": "比悠卡",
+      "characterId": 29,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "行动结束时，若场上存在拥有负电荷的首领单位，则自身获得暴击提升I和伤害提升I，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 202,
+      "keyName": "制胜心机",
+      "keySource": "比悠卡",
+      "characterId": 29,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "施放制胜技能跃动弧光前，驱散敌方目标2个增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 203,
+      "keyName": "争夺宠爱的决心",
+      "keySource": "比悠卡",
+      "characterId": 29,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "若消耗行动力，则造成伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 204,
+      "keyName": "凝聚核心",
+      "keySource": "春田",
+      "characterId": 30,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用制胜技能守护之道时，会将所有目标朝中心拉拽3格。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 205,
+      "keyName": "情报探悉",
+      "keySource": "春田",
+      "characterId": 30,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动攻击前，驱散目标身上1个增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 206,
+      "keyName": "飞讯连结",
+      "keySource": "春田",
+      "characterId": 30,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "场上存在塔瑞兹时，全体友方单位防御力提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 207,
+      "keyName": "通晓人心",
+      "keySource": "春田",
+      "characterId": 30,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若目标的生命值低于80%，则治疗效果提高15%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 208,
+      "keyName": "笑容背后",
+      "keySource": "春田",
+      "characterId": 30,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动攻击前，为敌方目标施加浊刻弱点，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 209,
+      "keyName": "温柔安抚",
+      "keySource": "春田",
+      "characterId": 30,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "对稳态崩溃的目标进行主动治疗时，额外恢复2点稳态指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 210,
+      "keyName": "滴水不漏",
+      "keySource": "春田",
+      "characterId": 30,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "生命加成 5%;回合开始时，若自身稳态指数不满，获得持续回稳I，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 211,
+      "keyName": "备餐",
+      "keySource": "秋桦",
+      "characterId": 31,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时，获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 212,
+      "keyName": "炉灶旺火",
+      "keySource": "秋桦",
+      "characterId": 31,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "回合开始时，对生命值最高的敌方单位施加焦痕，冷却时间2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 213,
+      "keyName": "砍瓜切菜",
+      "keySource": "秋桦",
+      "characterId": 31,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "免疫燃烧类地格的负面效果和所有燃烧类减益效果。行动结束时，若处于燃烧类地格上，则恢复2点稳态指数和10%最大生命值的生命值。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 214,
+      "keyName": "烈火烹油",
+      "keySource": "秋桦",
+      "characterId": 31,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动攻击前，为敌方目标施加溢火，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 215,
+      "keyName": "炊烟缭绕",
+      "keySource": "秋桦",
+      "characterId": 31,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "移动后，获得1层速效屏障。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 216,
+      "keyName": "酒足饭饱",
+      "keySource": "秋桦",
+      "characterId": 31,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "临机支援前，驱散目标身上1个增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 217,
+      "keyName": "精烹美味",
+      "keySource": "秋桦",
+      "characterId": 31,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "暴击加成 5%;回合外攻击造成燃烧伤害时，造成的伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 218,
+      "keyName": "命门识破",
+      "keySource": "朝晖",
+      "characterId": 32,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "对拥有浊刻类减益的目标造成伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 219,
+      "keyName": "嫉恶如仇",
+      "keySource": "朝晖",
+      "characterId": 32,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能夺影索仅命中1个目标时，额外对其造成1次10%攻击力的固定伤害，并施加潮湿，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 220,
+      "keyName": "缓冲时间",
+      "keySource": "朝晖",
+      "characterId": 32,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若场上存在定息镝，则自身行动结束时，恢复自身10%的生命值。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 221,
+      "keyName": "正道的光",
+      "keySource": "朝晖",
+      "characterId": 32,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能定风波时，自身获得1层速效屏障，并将目标击退2格。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 222,
+      "keyName": "定场旋律",
+      "keySource": "朝晖",
+      "characterId": 32,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若自身处于定息镝周围半径2格内时，受到的稳态伤害降低1点，受到范围伤害降低30%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 223,
+      "keyName": "冷笑话检定",
+      "keySource": "朝晖",
+      "characterId": 32,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "行动支援前，驱散目标2个增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 224,
+      "keyName": "唢呐音域",
+      "keySource": "朝晖",
+      "characterId": 32,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "暴击加成 5%;回合开始时，下一次主动攻击暴击伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 225,
+      "keyName": "好梦碎片",
+      "keySource": "米什缇",
+      "characterId": 33,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用普攻睡前热身后，获得1个随机增益效果，持续1回合",
+      "keyParam": ""
+    },
+    {
+      "keyId": 226,
+      "keyName": "祝你长眠",
+      "keySource": "米什缇",
+      "characterId": 33,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若产生克制，则攻击后对目标施加毒素环绕。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 227,
+      "keyName": "恐怖电影之夜",
+      "keySource": "米什缇",
+      "characterId": 33,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能爆裂梦潮时，攻击前，对大型目标施加浓酸腐蚀I，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 228,
+      "keyName": "快点打完好睡觉",
+      "keySource": "米什缇",
+      "characterId": 33,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能无梦好夜时，在最近的敌方单位周围半径2格内产生毒痘地格，持续2回合",
+      "keyParam": ""
+    },
+    {
+      "keyId": 229,
+      "keyName": "废柴精神",
+      "keySource": "米什缇",
+      "characterId": 33,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用普攻睡前热身前，驱散目标2个增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 230,
+      "keyName": "懒人沙发护体",
+      "keySource": "米什缇",
+      "characterId": 33,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "自身拥有2个及以上增益效果时，受到的精准伤害降低20%",
+      "keyParam": ""
+    },
+    {
+      "keyId": 231,
+      "keyName": "现在是游戏时间",
+      "keySource": "米什缇",
+      "characterId": 33,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 5%;普攻造成的伤害提高20%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 232,
+      "keyName": "致命缠绕",
+      "keySource": "可露凯",
+      "characterId": 34,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "回合开始时，若只有1个敌方目标，则对其施加1层强酸倾压，持续2回合。并获得2点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 233,
+      "keyName": "一举击溃",
+      "keySource": "可露凯",
+      "characterId": 34,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "制胜技能重创漂移若只命中1个目标，则对其造成伤害提高30%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 234,
+      "keyName": "绝不手软",
+      "keySource": "可露凯",
+      "characterId": 34,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "强酸倾压效果新增，对稳态崩溃的目标，造成伤害提高15%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 235,
+      "keyName": "坚实的后背",
+      "keySource": "可露凯",
+      "characterId": 34,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "其他友方单位每进行一次支援攻击，自身获得导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 236,
+      "keyName": "超越极限的边界",
+      "keySource": "可露凯",
+      "characterId": 34,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "致胜技能重创漂移生效范围宽度减少至3格，每减少1格，造成伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 237,
+      "keyName": "命定的反击时刻",
+      "keySource": "可露凯",
+      "characterId": 34,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "持有者受到毒性侵入的伤害后若未死亡，则获得1层强酸倾压，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 238,
+      "keyName": "杀意返场",
+      "keySource": "可露凯",
+      "characterId": 34,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 5%;回合开始时，若自身满导染指数，则下一次主动攻击造成的范围伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 239,
+      "keyName": "交易的本金",
+      "keySource": "佩莉",
+      "characterId": 35,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时，获得3点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 240,
+      "keyName": "帅气又可靠",
+      "keySource": "佩莉",
+      "characterId": 35,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "每持有1层热销投资，防御提高5%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 241,
+      "keyName": "绝密商业情报",
+      "keySource": "佩莉",
+      "characterId": 35,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "回合开始时，若自身拥有的热销投资层数大于2层，则获得2层掩护。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 242,
+      "keyName": "独当一面",
+      "keySource": "佩莉",
+      "characterId": 35,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用制胜技能后，驱散自身所有减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 243,
+      "keyName": "成熟的大人",
+      "keySource": "佩莉",
+      "characterId": 35,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "被施加眩晕、嘲讽、麻痹时立刻驱散该效果，且1回合内免疫眩晕、嘲讽、麻痹，同时自身恢复20%最大生命值的生命值，冷却3回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 244,
+      "keyName": "社交小技巧",
+      "keySource": "佩莉",
+      "characterId": 35,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "对拥有燃烧类减益的敌方目标造成伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 245,
+      "keyName": "持续长大中",
+      "keySource": "佩莉",
+      "characterId": 35,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "生命加成 5%;多次攻击同一敌方单位时，对其造成的异位伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 246,
+      "keyName": "付出与收获",
+      "keySource": "幼熙",
+      "characterId": 36,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能即兴舞步额外消耗导染指数时，造成的暴击伤害提高5%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 247,
+      "keyName": "享受舞台",
+      "keySource": "幼熙",
+      "characterId": 36,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "触发最佳舞者后，恢复自身20%最大生命值的生命值。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 248,
+      "keyName": "节奏共鸣",
+      "keySource": "幼熙",
+      "characterId": 36,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能即兴舞步前驱散目标1个随机增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 249,
+      "keyName": "情绪感染",
+      "keySource": "幼熙",
+      "characterId": 36,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能舞蹈的真谛对敌方目标施加眩晕后，在眩晕解除时，对其施加移动失效，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 250,
+      "keyName": "绝妙的舞台位移",
+      "keySource": "幼熙",
+      "characterId": 36,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若本回合未进行移动，下回合所有普攻和主动技能射程增加3格。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 251,
+      "keyName": "精妙的编舞设计",
+      "keySource": "幼熙",
+      "characterId": 36,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "绝不认输生效时，自身攻击力提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 252,
+      "keyName": "主舞的实力",
+      "keySource": "幼熙",
+      "characterId": 36,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 5%;造成弹种伤害时，造成的伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 253,
+      "keyName": "正派人形",
+      "keySource": "妮基塔",
+      "characterId": 37,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用普攻或精准技能后，获得1点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 254,
+      "keyName": "公义使者",
+      "keySource": "妮基塔",
+      "characterId": 37,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若目标拥有畏罪，则对其额外造成2点稳态伤害。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 255,
+      "keyName": "英勇气势",
+      "keySource": "妮基塔",
+      "characterId": 37,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能冷冽谴责修改为范围技能，对周围半径2格内目标造成80%范围浊刻伤害。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 256,
+      "keyName": "赏善罚暴",
+      "keySource": "妮基塔",
+      "characterId": 37,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能呼叫搭档后，在生效范围内产生暗流，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 257,
+      "keyName": "严厉视线",
+      "keySource": "妮基塔",
+      "characterId": 37,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "攻击后若目标处于稳态崩溃则对其施加逃避，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 258,
+      "keyName": "锐气逼人",
+      "keySource": "妮基塔",
+      "characterId": 37,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "获得线索时，自身获得攻击提升II，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 259,
+      "keyName": "卫道者",
+      "keySource": "妮基塔",
+      "characterId": 37,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 5%;自身拥有浊刻增益时，暴击率提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 260,
+      "keyName": "大人的余裕",
+      "keySource": "莱娅",
+      "characterId": 38,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时，获得2层超导代码和1点导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 261,
+      "keyName": "狐狸的微笑",
+      "keySource": "莱娅",
+      "characterId": 38,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "对稳态崩溃的敌方单位造成的伤害提高7%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 262,
+      "keyName": "见机行事",
+      "keySource": "莱娅",
+      "characterId": 38,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "临机支援前，驱散目标身上1个增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 263,
+      "keyName": "隐匿计策",
+      "keySource": "莱娅",
+      "characterId": 38,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能超导闪击后，获得隐匿，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 264,
+      "keyName": "理智反应",
+      "keySource": "莱娅",
+      "characterId": 38,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "友方单位主动攻击前，对射程内的敌方单位施加负电荷，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 265,
+      "keyName": "有备行动",
+      "keySource": "莱娅",
+      "characterId": 38,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时，获得超频打击，持续3回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 266,
+      "keyName": "王牌特工",
+      "keySource": "莱娅",
+      "characterId": 38,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 5%;对拥有电导类减益的敌方目标造成的伤害提高7%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 267,
+      "keyName": "防御降临",
+      "keySource": "洛贝拉",
+      "characterId": 39,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "拥有同心连结的友方单位进行主动攻击或伏击前，对受到攻击的敌方单位施加防御降低II持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 268,
+      "keyName": "三代心智",
+      "keySource": "洛贝拉",
+      "characterId": 39,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "行动结束时，若自身拥有耀光升华，则获得攻击提升II，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 269,
+      "keyName": "额外关注",
+      "keySource": "洛贝拉",
+      "characterId": 39,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用普攻超级射击后，自身获得2层弱点探明。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 270,
+      "keyName": "不如兵蚁",
+      "keySource": "洛贝拉",
+      "characterId": 39,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "自身或拥有同心连结的友方单位对拥有护盾类效果的敌方单位造成冷凝伤害时，护盾穿透率提高30%，造成的伤害提高20%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 271,
+      "keyName": "冷淡保护色",
+      "keySource": "洛贝拉",
+      "characterId": 39,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "若处于我方霜冻地格上，则使用普攻超级射击或制胜技能疾风凌啸后，获得5格移动追加。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 272,
+      "keyName": "内核稳定",
+      "keySource": "洛贝拉",
+      "characterId": 39,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "进行凛冽侵蚀前，驱散目标身上2个增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 273,
+      "keyName": "正义护体",
+      "keySource": "洛贝拉",
+      "characterId": 39,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 5%;自身拥有护盾类效果时，造成的异位伤害提高10%",
+      "keyParam": ""
+    },
+    {
+      "keyId": 274,
+      "keyName": "心智纽带",
+      "keySource": "莱妮",
+      "characterId": 40,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "莱妮或心像受到治疗时，为对方恢复20%最大生命值。此效果不会循环触发。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 275,
+      "keyName": "坏东西全飞走",
+      "keySource": "莱妮",
+      "characterId": 40,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "莱妮使用主动技能算力倾压或心像使用主动技能算力超频后另一方执行指令时，将目标击退2格。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 276,
+      "keyName": "持伞守护",
+      "keySource": "莱妮",
+      "characterId": 40,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "我方回合结束时，若莱妮与心像距离大于等于3格，双方获得范围防御II，持续1回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 277,
+      "keyName": "伙伴的回归",
+      "keySource": "莱妮",
+      "characterId": 40,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "心像消失时，清空制胜技能拟造伙伴的冷却时间，每场战斗至多触发1次。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 278,
+      "keyName": "阳光的温度",
+      "keySource": "莱妮",
+      "characterId": 40,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "莱妮与心像使用攻防演算和进击推演时，若目标防御力小于等于0，则随机驱散其1个增益 效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 279,
+      "keyName": "OGAS的实力",
+      "keySource": "莱妮",
+      "characterId": 40,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "对防御力小于等于0的敌方单位造成的暴击伤害提高5%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 280,
+      "keyName": "完全解放",
+      "keySource": "莱妮",
+      "characterId": 40,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成 5%;对防御力小于等于0的敌方单位造成的伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 281,
+      "keyName": "致命刺激",
+      "keySource": "芙洛伦",
+      "characterId": 41,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时获得导染指数。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 282,
+      "keyName": "自我愉悦",
+      "keySource": "芙洛伦",
+      "characterId": 41,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能后，为自身和【阿利奥斯】恢复自身生命值。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 283,
+      "keyName": "敏感度上升",
+      "keySource": "芙洛伦",
+      "characterId": 41,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "自身和【阿利奥斯】攻击后，会对敌方单位施加【防御降低I】。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 284,
+      "keyName": "反攻的奖赏",
+      "keySource": "芙洛伦",
+      "characterId": 41,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "【阿利奥斯】反击后，获得【攻击提升I】。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 285,
+      "keyName": "紧缚欲",
+      "keySource": "芙洛伦",
+      "characterId": 41,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "制胜技能会将所有目标朝着自身拉拽。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 286,
+      "keyName": "甜蜜的诱惑",
+      "keySource": "芙洛伦",
+      "characterId": 41,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能【特别护理】不再进行治疗，对范围内敌我双方(不包含自身)都造成范围物理伤害。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 287,
+      "keyName": "主人的命令",
+      "keySource": "芙洛伦",
+      "characterId": 41,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "自身实体召唤物攻击力提高。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 288,
+      "keyName": "痛觉感知",
+      "keySource": "琳德",
+      "characterId": 42,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "回合开始时，获得速效屏障。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 289,
+      "keyName": "夜猫子的敏锐",
+      "keySource": "琳德",
+      "characterId": 42,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用主动技能强势浸袭或主动技能过激崩解后，获得5格移动追加。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 290,
+      "keyName": "电台邀约",
+      "keySource": "琳德",
+      "characterId": 42,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "选取全场范围内1个友方人形本场战斗内该人形无法移动且使用主动技能，但全体敌方单位防御力降低15%，持续至该友方人形死亡。自身获得行动追加。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 291,
+      "keyName": "文明的裁决",
+      "keySource": "琳德",
+      "characterId": 42,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "主动技能过激崩解若只命中1个敌方目标，则对其造成伤害提高30%，",
+      "keyParam": ""
+    },
+    {
+      "keyId": 292,
+      "keyName": "甜食疗愈",
+      "keySource": "琳德",
+      "characterId": 42,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "当自身拥有糖渍时，攻击前驱散自身1个减益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 293,
+      "keyName": "戒断反应",
+      "keySource": "琳德",
+      "characterId": 42,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用制胜技能糖分超载前，获得暴击提升I，持续2回合。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 294,
+      "keyName": "深夜永不结束",
+      "keySource": "琳德",
+      "characterId": 42,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成5%;攻击有减益效果的敌方单位时造成的异位伤害提高10%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 295,
+      "keyName": "雪地漫步者",
+      "keySource": "埃芙",
+      "characterId": 43,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "液氮毒刺周围半径4格内的敌方单位被施加寒意时，在范围内产生霜冻地格，持续3回合",
+      "keyParam": ""
+    },
+    {
+      "keyId": 296,
+      "keyName": "后勤专家",
+      "keySource": "埃芙",
+      "characterId": 43,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "战斗开始时，获得3点导染指数和3层战备。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 297,
+      "keyName": "援护指挥",
+      "keySource": "埃芙",
+      "characterId": 43,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "拥有凛冬屏障的友方单位受到的稳态伤害降低1点。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 298,
+      "keyName": "大器晚成",
+      "keySource": "埃芙",
+      "characterId": 43,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "每消耗1层战备，自身攻击力提高3%，至多提高18%。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 299,
+      "keyName": "重整旗鼓",
+      "keySource": "埃芙",
+      "characterId": 43,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "使用制胜技能雪域镇魂歌前驱散目标2个增益效果。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 300,
+      "keyName": "刺骨",
+      "keySource": "埃芙",
+      "characterId": 43,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/A.png",
+      "keyType": "固键",
+      "keyDesc": "液氮毒刺周围半径4格内的敌方单位受到的稳态伤害提高2点。",
+      "keyParam": ""
+    },
+    {
+      "keyId": 301,
+      "keyName": "心眼",
+      "keySource": "埃芙",
+      "characterId": 43,
+      "keyIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/keys/common/SSR.png",
+      "keyType": "共键",
+      "keyDesc": "攻击加成5%，对拥有护盾的敌方单位造成的异位伤害提高10%",
+      "keyParam": ""
+    }
+  ],
+  "msg": "成功"
+}

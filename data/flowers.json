@@ -1,0 +1,30 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "flowerId": 1,
+      "flowerName": "火力",
+      "flowerIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/flower/SENTINEL.png",
+      "flowerType": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/classtype/SENTINEL-WHITE.png"
+    },
+    {
+      "flowerId": 2,
+      "flowerName": "尖兵",
+      "flowerIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/flower/VANGUARD.png",
+      "flowerType": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/classtype/VANGUARD-WHITE.png"
+    },
+    {
+      "flowerId": 3,
+      "flowerName": "支援",
+      "flowerIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/flower/SUPPORT.png",
+      "flowerType": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/classtype/SUPPORT-WHITE.png"
+    },
+    {
+      "flowerId": 4,
+      "flowerName": "防卫",
+      "flowerIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/flower/BULWARK.png",
+      "flowerType": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/classtype/BULWARK-WHITE.png"
+    }
+  ],
+  "msg": "成功"
+}

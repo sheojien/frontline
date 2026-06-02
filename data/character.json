@@ -1,0 +1,239 @@
+{
+    "code": 0,
+    "data": [
+        {
+            "characterId": 1,
+            "coreWeaponId": 35,
+            "classType": 1,
+            "characterName": "琼玖",
+            "characterEnName": "QIONGJIU",
+            "characterQuality": "SSR",
+            "characterDesc": "利用支援攻击（协击）强力输出，伤害多为回合外攻击，跃键可将回合外攻击改为燃烧伤害",
+            "classIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/classtype/SENTINEL-BLACK.png",
+            "elementIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/Fire.png",
+            "image": {
+                "imageArt": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/QIONGJIU/QIONGJIU-ART.png",
+                "imageAvatar": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/QIONGJIU/QIONGJIU-AVATAR.png",
+                "imagePanel": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/QIONGJIU/QIONGJIU-PANEL.png",
+                "imageUpper": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/QIONGJIU/QIONGJIU-UPPER.png"
+            },
+            "weaknessInfo": [
+                {
+                    "title": "重型弹",
+                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+                },
+                {
+                    "title": "冷凝",
+                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Ice_Weakpoint.png"
+                }
+            ],
+            "features": [
+                {
+                    "title": "中型弹",
+                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+                },
+                {
+                    "title": "燃烧",
+                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Fire_Weakpoint.png"
+                }
+            ],
+            "weapons": [
+                {
+                    "weaponId": 1,
+                    "weaponLevel": 5
+                }
+            ],
+            "accessories": [
+                {
+                    "packageId": 13,
+                    "score": 5,
+                    "commend": [{ "title": "攻击" }, { "title": "攻击加成" }, { "title": "暴击" }, { "title": "暴击伤害" }]
+                },
+                {
+                    "packageId": 8,
+                    "score": 3,
+                    "commend": [{ "title": "攻击" }, { "title": "攻击加成" }]
+                }
+            ],
+            "skills": [
+                {
+                    "type": "普攻",
+                    "skillName": "引信",
+                    "skillSummary": "普攻 / 精准",
+                    "skillBullet": "中型弹",
+                    "skillAttribute": "",
+                    "skillIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/skills/common/ordinary.png",
+                    "steadyState": 1,
+                    "skills": [
+                        {
+                            "skillLevel": 1,
+                            "skillDesc": "选取周围半径8格内的1个敌方目标，对其造成80%攻击力的物理伤害。"
+                        }
+                    ]
+                },
+                {
+                    "type": "主动",
+                    "skillName": "共轨",
+                    "skillSummary": "主动 / 精准 / 增益",
+                    "skillBullet": "中型弹",
+                    "skillAttribute": "燃烧",
+                    "skillIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/skills/common/Skill_E.png",
+                    "steadyState": 3,
+                    "skills": [
+                        {
+                            "skillLevel": 1,
+                            "skillDesc": "选取周围半径8格内的1个敌方目标，对其造成150%攻击力的燃烧伤害，若产生克制，则获得火热攻势!l，持续2回合。并获得支援增幅，若造成击杀，则支援增幅|造成伤害提高增加至30%。"
+                        },
+                        {
+                            "skillLevel": 2,
+                            "skillDesc": "若造成击杀，则支援增幅|造成伤害提高增加至30%。"
+                        }
+                    ]
+                },
+                {
+                    "type": "主动",
+                    "skillName": "胜利指引",
+                    "skillSummary": "主动 / 范围 / 减益",
+                    "skillBullet": "",
+                    "skillAttribute": "燃烧",
+                    "skillIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/skills/common/Skill_Q.png",
+                    "steadyState": 3,
+                    "skills": [
+                        {
+                            "skillLevel": 1,
+                            "skillDesc": "选取周围1个方向，对所选方向8格内第一个敌方目标造成110%攻击力的范围燃烧伤害，并施加溢火，持续2回合。若目标拥有溢火，则此次攻击暴击率提高100%。"
+                        },
+                        {
+                            "skillLevel": 2,
+                            "skillDesc": "若目标拥有溢火，则此次攻击暴击率提高100%。"
+                        }
+                    ]
+                },
+                {
+                    "type": "制胜",
+                    "skillName": "追袭夺势",
+                    "skillSummary": "制胜 / 增益 / 减益",
+                    "skillBullet": "",
+                    "skillAttribute": "",
+                    "skillIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/skills/common/Skill_R.png",
+                    "steadyState": 0,
+                    "skills": [
+                        {
+                            "skillLevel": 1,
+                            "skillDesc": "获得3层支援增幅ll;满导染时，额外获得1层，并使本回合行动支援次数增加1次。对未受到掩体保护的目标施加易伤。进行行动支援时，在友方单位攻击前，为自身和友方单位施加伤害提升I，持续1回合。"
+
+                        },
+                        {
+                            "skillLevel": 2,
+                            "skillDesc": "对未受到掩体保护的目标施加易伤I，持续1回合。"
+                        },
+                        {
+                            "skillLevel": 3,
+                            "skillDesc": "进行行动支援时，在友方单位攻击前，为自身和友方单位施加伤害提升lI，持续1回合。"
+                        }
+                    ]
+                },
+                {
+                    "type": "被动",
+                    "skillName": "稳谋",
+                    "skillSummary": "被动 / 支援 / 增益",
+                    "skillBullet": "",
+                    "skillAttribute": "",
+                    "skillIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/skills/common/Skill_A.png",
+                    "steadyState": 0,
+                    "skills": [
+                        {
+                            "skillLevel": 1,
+                            "skillDesc": "每造成1次伤害，获得1点导染指数，对未受到掩体保护的目标造成伤害提高20%。当射程内的敌方单位受到来自友方的精准伤害时，进行1次行动支援，造成90%攻击力的物理伤害和2点稳态伤害，每回合至多触发3次。行动支援后为目标施加溢火，持续2回合。行动支援造成伤害提高10%。"
+                        }
+                    ]
+                }
+            ],
+            "commendKeys": [91, 87, 88, 89],
+            "keys": [
+                {
+                    "keyId": 91,
+                    "keyCommend": false
+                },
+                {
+                    "keyId": 90,
+                    "keyCommend": false
+                },
+                {
+                    "keyId": 89,
+                    "keyCommend": false
+                },
+                {
+                    "keyId": 88,
+                    "keyCommend": false
+                },
+                {
+                    "keyId": 87,
+                    "keyCommend": false
+                },
+                {
+                    "keyId": 86,
+                    "keyCommend": false
+                },
+                {
+                    "keyId": 85,
+                    "keyCommend": false
+                }
+            ],
+            "flowers": [1,1,1,2,2,4],
+            "teams": [
+                {
+                    "teamName": "纵火队",
+                    "characters": [1,1,1,1,1]
+                }
+            ]
+        },
+        {
+            "characterId": 2,
+            "coreWeaponId": 10,
+            "classType": 1,
+            "characterName": "莫辛纳甘",
+            "characterEnName": "MOSINNAGANT",
+            "characterQuality": "SSR",
+            "characterDesc": "",
+            "classIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/classtype/SENTINEL-BLACK.png",
+            "elementIcon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/Electric.png",
+            "image": {
+                "imageArt": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/MOSINNAGANT/MOSINNAGANT-ART.png",
+                "imageAvatar": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/MOSINNAGANT/MOSINNAGANT-AVATAR.png",
+                "imagePanel": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/MOSINNAGANT/MOSINNAGANT-PANEL.png",
+                "imageUpper": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/character/MOSINNAGANT/MOSINNAGANT-UPPER.png"
+            },
+            "weaknessInfo": [
+                {
+                    "title": "轻型弹",
+                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+                },
+                {
+                    "title": "酸蚀",
+                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Poison_Weakpoint.png"
+                }
+            ],
+            "features": [
+                {
+                    "title": "重型弹",
+                    "icon": "https://raw.giteeusercontent.com/bronze_tree/tayin/raw/master/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+                }
+            ],
+            "weapons": [],
+            "accessories": [
+                {
+                    "packageId": 8,
+                    "score": 5,
+                    "commend": [{ "title": "攻击" }, { "title": "攻击加成" }]
+                }
+            ],
+            "skills": [],
+            "commendKeys": [],
+            "keys": [],
+            "flowers": [],
+            "teams": []
+        }
+    ],
+    "msg": "成功"
+}
