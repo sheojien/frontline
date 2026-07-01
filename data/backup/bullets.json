@@ -1,0 +1,36 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "elementId": 1,
+      "elementName": "轻型弹",
+      "elementIcon": "https://front.pangpangta.com/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png",
+      "gun": ["手枪", "冲锋枪"]
+    },
+    {
+      "elementId": 2,
+      "elementName": "中型弹",
+      "elementIcon": "https://front.pangpangta.com/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png",
+      "gun": ["突击步枪"]
+    },
+    {
+      "elementId": 3,
+      "elementName": "重型弹",
+      "elementIcon": "https://front.pangpangta.com/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png",
+      "gun": ["狙击枪", "机枪"]
+    },
+    {
+      "elementId": 4,
+      "elementName": "霰弹",
+      "elementIcon": "https://front.pangpangta.com/source/element/colorful/Icon_BulletHit_Shot_Weakpoint.png",
+      "gun": ["霰弹枪"]
+    },
+    {
+      "elementId": 5,
+      "elementName": "刀",
+      "elementIcon": "https://front.pangpangta.com/source/element/colorful/Icon_BulletHit_Melee_Weakpoint.png",
+      "gun": ["刀"]
+    }
+  ],
+  "msg": "成功"
+}

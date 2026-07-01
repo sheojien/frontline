@@ -2,6 +2,117 @@
   "code": 0,
   "data": [
     {
+      "weaponId": 10793,
+      "weaponName": "切尔诺伯格",
+      "weaponEnName": "",
+      "weaponType": "突击步枪",
+      "weaponBullet": "中型弹",
+      "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1782469039401.png",
+      "weaponDesc": "攻击362【60级】 / 攻击加成25%",
+      "weaponTrait": "自身及自身召唤物的暴击伤害提高5%，若造成浊刻伤害，则提高至10%。",
+      "weaponBrand": "对拥有浊刻类减益的目标造成伤害提高2.5%，对帕拉蒂斯造成的伤害提高2.5%。",
+      "skills": [
+        {
+          "level": "灾厄Lv.1",
+          "description": "自身和自身召唤物造成的浊刻伤害提高20%。自身使用普攻或主动技能前，自身和自身召唤物获得穿透I和领域穿透I，持续2回合。所有友方实体召唤物的暴击伤害提高5%。"
+        },
+        {
+          "level": "灾厄Lv.2",
+          "description": "自身和自身召唤物造成的浊刻伤害提高25%。自身使用普攻或主动技能前，自身和自身召唤物获得穿透I和领域穿透I，持续2回合。所有友方实体召唤物的暴击伤害提高5%。"
+        },
+        {
+          "level": "灾厄Lv.3",
+          "description": "自身和自身召唤物造成的浊刻伤害提高30%。自身使用普攻或主动技能前，自身和自身召唤物获得穿透I和领域穿透I，持续2回合。所有友方实体召唤物的暴击伤害提高5%。"
+        },
+        {
+          "level": "灾厄Lv.4",
+          "description": "自身和自身召唤物造成的浊刻伤害提高35%。自身使用普攻或主动技能前，自身和自身召唤物获得穿透I和领域穿透I，持续2回合。所有友方实体召唤物的暴击伤害提高5%。"
+        },
+        {
+          "level": "灾厄Lv.5",
+          "description": "自身和自身召唤物造成的浊刻伤害提高40%。自身使用普攻或主动技能前，自身和自身召唤物获得穿透I和领域穿透I，持续2回合。所有友方实体召唤物的暴击伤害提高5%。"
+        },
+        {
+          "level": "灾厄Lv.6",
+          "description": "自身和自身召唤物造成的浊刻伤害提高45%。自身使用普攻或主动技能前，自身和自身召唤物获得穿透I和领域穿透I，持续2回合。所有友方实体召唤物的暴击伤害提高5%。"
+        }
+      ]
+    },
+    {
+      "weaponId": 10792,
+      "weaponName": "12型突击步枪",
+      "weaponEnName": "",
+      "weaponType": "突击步枪",
+      "weaponBullet": "中型弹",
+      "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1782469599226.png",
+      "weaponDesc": "攻击258【60级】",
+      "weaponTrait": "自身及自身召唤物的暴击上海提高5%，若造成浊刻伤害，则提高至10%。",
+      "weaponBrand": "",
+      "skills": [
+        {
+          "level": "亵渎Lv.1",
+          "description": "若自身拥有浊刻类增益，则自身和自身召唤物造成的伤害提高10%。"
+        },
+        {
+          "level": "亵渎Lv.2",
+          "description": "若自身拥有浊刻类增益，则自身和自身召唤物造成的伤害提高12%。"
+        },
+        {
+          "level": "亵渎Lv.3",
+          "description": "若自身拥有浊刻类增益，则自身和自身召唤物造成的伤害提高14%。"
+        },
+        {
+          "level": "亵渎Lv.4",
+          "description": "若自身拥有浊刻类增益，则自身和自身召唤物造成的伤害提高16%。"
+        },
+        {
+          "level": "亵渎Lv.5",
+          "description": "若自身拥有浊刻类增益，则自身和自身召唤物造成的伤害提高18%。"
+        },
+        {
+          "level": "亵渎Lv.6",
+          "description": "若自身拥有浊刻类增益，则自身和自身召唤物造成的伤害提高20%。"
+        }
+      ]
+    },
+    {
+      "weaponId": 10791,
+      "weaponName": "旧式12型突击步枪",
+      "weaponEnName": "",
+      "weaponType": "突击步枪",
+      "weaponBullet": "中型弹",
+      "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1782469723579.png",
+      "weaponDesc": "攻击181【60级】",
+      "weaponTrait": "",
+      "weaponBrand": "",
+      "skills": [
+        {
+          "level": "火力武装Lv.1",
+          "description": "造成伤害提高1%。"
+        },
+        {
+          "level": "火力武装Lv.2",
+          "description": "造成伤害提高2%。"
+        },
+        {
+          "level": "火力武装Lv.3",
+          "description": "造成伤害提高3%。"
+        },
+        {
+          "level": "火力武装Lv.4",
+          "description": "造成伤害提高4%。"
+        },
+        {
+          "level": "火力武装Lv.5",
+          "description": "造成伤害提高5%。"
+        },
+        {
+          "level": "火力武装Lv.6",
+          "description": "造成伤害提高6%。"
+        }
+      ]
+    },
+    {
       "weaponId": 10783,
       "weaponName": "森牙戾兽",
       "weaponEnName": "",
