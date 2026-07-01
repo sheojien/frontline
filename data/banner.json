@@ -4,7 +4,7 @@
     {
       "bannerId": 1,
       "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/SEARCH_BANNER.png",
-      "jump": "pages/search/search"
+      "jump": "/pages/search/search"
     }
   ],
   "msg": "成功"
