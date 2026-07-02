@@ -1,0 +1,353 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "hunterId": 1,
+      "hunterName": "要塞伯爵",
+      "hunterPanel": "",
+      "hunterDesc": "以坦克为原型，融合了一些天马行空的概念设计出的重装武器，被评价为一旦实际落地便能在战场上称霸一方。前提是能够落地",
+      "hunterFeature": [
+        {
+          "title": "深度屏蔽",
+          "desc": "不会受到眩晕，嘲讽等控制效果、指令禁止效果以及僵冷的影响"
+        },
+        {
+          "title": "范围攻击",
+          "desc": "对指定范围内的敌方单位造成无视掩体的群体伤"
+        },
+        {
+          "title": "增援",
+          "desc": "可呼叫不同的辅助单位进入战场，协助作战"
+        }
+      ],
+      "condition": [
+        { "title": "完成要塞伯爵挑战一次" },
+        { "title": "阶段一击杀要塞伯爵一次" },
+        { "title": "阶段二击杀要塞伯爵一次" },
+        { "title": "阶段三击杀要塞伯爵一次" },
+        { "title": "完成要塞伯爵所有挑战" }
+      ],
+      "monster": [
+        {
+          "monsterName": "要塞伯爵",
+          "monsterLevel": 55,
+          "monsterWeakness": [
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "霰弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Shot_Weakpoint.png"
+            },
+            {
+              "elementName": "酸蚀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "伯爵的惩戒I·鞭答",
+              "skillTags": "普攻 / 地格",
+              "skillDamage": 5,
+              "skillDesc": "选择最远的1个敌方目标，对其造成100%攻击力的物理伤害若目标稳态指数≤6点，则在其周围3x3格内产生地热，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "地热",
+                  "content": "对行动结束后停留在区域上的敌方单位施加灼伤Ⅱ，持续2回合点，对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                },
+                {
+                  "text": "灼伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加3层。燃烧类减益。"
+                }
+              ]
+            },
+            {
+              "skillName": "伯爵的惩戒I·怒火",
+              "skillTags": "普攻",
+              "skillDamage": 9,
+              "skillDesc": "选择最近的1个敌方目标，对其造成80%攻击力的物理伤害若目标稳态指数≤4点，则造成150%攻击力的物理伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "十字狱Ⅰ",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "对周围十字区域3x7格范围内所有敌方目标，造成100%攻击力的范围物理伤害，若目标稳态指数≤4点，则追加一次50%攻击力的固定伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "驭使",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "选取普通装甲所在方向，对前方3x7范围内每条直线上的第1个目标造成60%攻击力的范围物理伤害。若命中普通装甲，则自身获得重装力场，并恢复8点稳态指数。",
+              "tooltips": [
+                {
+                  "text": "普通装甲",
+                  "content": "被驭使命中时或歌利亚自毁程序·紊乱命中时，会立即消失。被驭使命中时会吸收获得重装力场。不可驱散。"
+                },
+                {
+                  "text": "重装力场",
+                  "content": "每层效果使持有者造成的伤害提高10%，以及受到伤害降低20%稳态伤害提高1点。增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "装甲壁",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "免疫一切控制和指令禁止效果，自身每拥有1点稳态指数，受到伤害减少3%。稳态崩溃状态会持续2回合。稳态崩溃期间无法受到稳态恢复的效果，2回合后恢复全部稳态指数。",
+              "tooltips": []
+            },
+            {
+              "skillName": "恩赐",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "在场上召唤1个歌利亚，并对其施加火力收缴。",
+              "tooltips": [
+                {
+                  "text": "火力收缴",
+                  "content": "被敌方击杀时，会为击杀者恢复4点稳态指数，并且给敌方全体施加1层弹药补充。"
+                },
+                {
+                  "text": "弹药补充",
+                  "content": "造成伤害提高5%，受到伤害降低5%，最多叠加8层。增益不可驱散。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "要塞伯爵",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "霰弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Shot_Weakpoint.png"
+            },
+            {
+              "elementName": "电导",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png"
+            },
+            {
+              "elementName": "酸蚀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "伯爵的惩戒Ⅱ",
+              "skillTags": "普攻 / 精准",
+              "skillDamage": 5,
+              "skillDesc": "选择最远的1个敌方目标，对其造成100%攻击力的物理伤害若目标稳态指数≤6点，则在其周围3x3格内产生地热，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "地热",
+                  "content": "对行动结束后停留在区域上的敌方单位施加灼伤Ⅱ，持续2回合点，对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                },
+                {
+                  "text": "灼伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加3层。燃烧类减益。"
+                }
+              ]
+            },
+            {
+              "skillName": "十字狱Ⅱ",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 3,
+              "skillDesc": "对周围十字区域3x7格范围内所有敌方目标，造成100%攻击力的范围物理伤害。并为自身施加防御提升Ⅲ、减伤Ⅲ，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "防御提升Ⅲ",
+                  "content": "防御力提高40%。增益效果。"
+                },
+                {
+                  "text": "减伤Ⅲ",
+                  "content": "受到伤害降低30%。增益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "巡猎Ⅰ",
+              "skillTags": "主动 / 范围 / 召唤",
+              "skillDamage": 5,
+              "skillDesc": "选择1个敌方目标，对其周围3x3格内投掷1个普通装甲，并对装甲周围3x3范围内的所有敌方单位造成80%攻击力的范围物理伤害。",
+              "tooltips": [
+                {
+                  "text": "普通装甲",
+                  "content": "被驭使命中时或歌利亚自毁程序·紊乱命中时，会立即消失。被驭使命中时会吸收获得重装力场。不可驱散。"
+                },
+                {
+                  "text": "重装力场",
+                  "content": "每层效果使持有者造成的伤害提高10%，以及受到伤害降低20%稳态伤害提高1点。增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "残料回收Ⅰ",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 5,
+              "skillDesc": "回收全场普通装甲，对普通装甲周围3x3格内所有敌方单位造成80%攻击力的范围物理伤害。每命中1个敌方目标时，将获得1层战力增幅。",
+              "tooltips": [
+                {
+                  "text": "战力增幅",
+                  "content": "防御力提高20%受到稳态伤害降低1点，可以叠加，增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "火线密令",
+              "skillTags": "主动",
+              "skillDamage": 0,
+              "skillDesc": "为所有敌方目标施加，需要前往传送点传送到火线完成任务，并且到达撤离点。若完成任务，则会获得1层装甲补充。",
+              "tooltips": [
+                {
+                  "text": "装甲补充",
+                  "content": "防御力提高10%受到稳态伤害降低1点，可以叠加，增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "装甲壁Ⅰ",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "触发稳态崩溃时，自身获得移动降低，持续1回合。获得免疫一切控制和指令禁止效果，自身每拥有1点稳态指数，受到伤害减少3%。稳态崩溃状态会持续2回合。2回合后恢复全部稳态指数。",
+              "tooltips": [
+                {
+                  "text": "移动降低Ⅰ",
+                  "content": "行动力降低1格。移动类减益效果。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "要塞伯爵",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "电导",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png"
+            },
+            {
+              "elementName": "酸蚀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "伯爵的惩戒Ⅲ",
+              "skillTags": "普攻 / 地格",
+              "skillDamage": 5,
+              "skillDesc": "选择最近的1个敌方目标，对其造成100%攻击力的物理伤害并施加1层惩戒标记，持续2回合，若目标稳态指数≤6点则在周围3x3格内产生地热，永久存在。",
+              "tooltips": [
+                {
+                  "text": "惩戒标记",
+                  "content": "叠加至2层后，将对自身造成100%最大生命值上限的固定伤害。"
+                },
+                {
+                  "text": "地热",
+                  "content": "对行动结束后停留在区域上的敌方单位施加灼伤Ⅱ，持续2回合点，对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                },
+                {
+                  "text": "灼伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加3层。燃烧类减益。"
+                }
+              ]
+            },
+            {
+              "skillName": "十字狱Ⅲ",
+              "skillTags": "主动 / 范围 / 增益",
+              "skillDamage": 3,
+              "skillDesc": "对周围十字区域3x7格范围内所有敌方目标，造成100%攻击力的范围物理伤害。并为自身施加防御提升Ⅲ、减伤Ⅲ、攻击提升Ⅲ、伤害提升Ⅲ，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "防御提升Ⅲ",
+                  "content": "防御力提高40%。增益效果。"
+                },
+                {
+                  "text": "减伤Ⅲ",
+                  "content": "受到伤害降低30%。增益效果。"
+                },
+                {
+                  "text": "攻击提升Ⅲ",
+                  "content": "攻击力提高20%。增益效果。"
+                },
+                {
+                  "text": "伤害提升Ⅲ",
+                  "content": "造成伤害提高30%。增益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "驭使Ⅱ",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "选取普通装甲所在方向，对前方5x7范围内每条直线上的第1个目标造成60%攻击力的范围物理伤害。若命中普通装甲，则自身获得重装力场，并恢复8点稳态指数。",
+              "tooltips": [
+                {
+                  "text": "普通装甲",
+                  "content": "被驭使命中时或歌利亚自毁程序·紊乱命中时，会立即消失。被驭使命中时会吸收获得重装力场。不可驱散。"
+                },
+                {
+                  "text": "重装力场",
+                  "content": "每层效果使持有者造成的伤害提高10%，以及受到伤害降低20%稳态伤害提高1点。增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "巡猎Ⅱ",
+              "skillTags": "主动 / 范围 / 召唤 / 减益",
+              "skillDamage": 5,
+              "skillDesc": "选择1个最远的敌方目标，对其周围3x3格内投掷1个密令装甲，密令装甲可以被攻击。",
+              "tooltips": [
+                {
+                  "text": "密令装甲",
+                  "content": "装甲出生时以及怪物回合开始时对周围3x3格范围内所有敌方目标造成50%攻击力的范围物理伤害，并随机施加1个减益效果持续1回合。"
+                }
+              ]
+            },
+            {
+              "skillName": "残料回收Ⅱ",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 5,
+              "skillDesc": "回收全场普通装甲，对普通装甲周围3x3格内所有敌方单位造成80%攻击力的范围物理伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "审判",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 0,
+              "skillDesc": "对全屏范围进行预警，下回合开始时，对预警范围内未处于掩体后的敌方目标造成目标100%最大生命值的固定伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "装甲壁Ⅱ",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "免疫一切控制和指令禁止效果，自身每拥有1点稳态指数，受到伤害减少3%。",
+              "tooltips": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "msg": "成功"
+}
