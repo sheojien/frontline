@@ -8,7 +8,7 @@
       "capTitleIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/KIN.png",
       "capTo": "前往查看",
       "capToIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/RIGHT-TO.png",
-      "expTime": "距离过期2日",
+      "expTime": "",
       "jump": "/pages/gift/gift"
     }
   ],
