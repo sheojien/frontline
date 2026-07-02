@@ -4,26 +4,26 @@
     {
       "flowerId": 1,
       "flowerName": "火力",
-      "flowerIcon": "https://front.pangpangta.com/source/flower/SENTINEL.png",
-      "flowerType": "https://front.pangpangta.com/source/classtype/SENTINEL-WHITE.png"
+      "flowerIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/flower/SENTINEL.png",
+      "flowerType": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/SENTINEL-WHITE.png"
     },
     {
       "flowerId": 2,
       "flowerName": "尖兵",
-      "flowerIcon": "https://front.pangpangta.com/source/flower/VANGUARD.png",
-      "flowerType": "https://front.pangpangta.com/source/classtype/VANGUARD-WHITE.png"
+      "flowerIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/flower/VANGUARD.png",
+      "flowerType": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/VANGUARD-WHITE.png"
     },
     {
       "flowerId": 3,
       "flowerName": "支援",
-      "flowerIcon": "https://front.pangpangta.com/source/flower/SUPPORT.png",
-      "flowerType": "https://front.pangpangta.com/source/classtype/SUPPORT-WHITE.png"
+      "flowerIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/flower/SUPPORT.png",
+      "flowerType": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/SUPPORT-WHITE.png"
     },
     {
       "flowerId": 4,
       "flowerName": "防卫",
-      "flowerIcon": "https://front.pangpangta.com/source/flower/BULWARK.png",
-      "flowerType": "https://front.pangpangta.com/source/classtype/BULWARK-WHITE.png"
+      "flowerIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/flower/BULWARK.png",
+      "flowerType": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/BULWARK-WHITE.png"
     }
   ],
   "msg": "成功"

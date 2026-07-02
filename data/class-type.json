@@ -5,32 +5,32 @@
       "classId": 1,
       "className": "火力",
       "classEnName": "SENTINEL",
-      "classIcon": "https://front.pangpangta.com/source/classtype/SENTINEL-BLACK.png",
-      "classMiniIcon": "https://front.pangpangta.com/source/classtype/SENTINEL-WHITE.png",
+      "classIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/SENTINEL-BLACK.png",
+      "classMiniIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/SENTINEL-WHITE.png",
       "checked": false
     },
     {
       "classId": 2,
       "className": "尖兵",
       "classEnName": "VANGUARD",
-      "classIcon": "https://front.pangpangta.com/source/classtype/VANGUARD-BLACK.png",
-      "classMiniIcon": "https://front.pangpangta.com/source/classtype/VANGUARD-WHITE.png",
+      "classIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/VANGUARD-BLACK.png",
+      "classMiniIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/VANGUARD-WHITE.png",
       "checked": false
     },
     {
       "classId": 3,
       "className": "支援",
       "classEnName": "SUPPORT",
-      "classIcon": "https://front.pangpangta.com/source/classtype/SUPPORT-BLACK.png",
-      "classMiniIcon": "https://front.pangpangta.com/source/classtype/SUPPORT-WHITE.png",
+      "classIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/SUPPORT-BLACK.png",
+      "classMiniIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/SUPPORT-WHITE.png",
       "checked": false
     },
     {
       "classId": 4,
       "className": "防卫",
       "classEnName": "BULWARK",
-      "classIcon": "https://front.pangpangta.com/source/classtype/BULWARK-BLACK.png",
-      "classMiniIcon": "https://front.pangpangta.com/source/classtype/BULWARK-WHITE.png",
+      "classIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/BULWARK-BLACK.png",
+      "classMiniIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/BULWARK-WHITE.png",
       "checked": false
     }
   ],

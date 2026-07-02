@@ -5,9 +5,9 @@
       "capId": 1,
       "isShow": true,
       "capTitle": "前瞻兑换码",
-      "capTitleIcon": "http://192.168.3.86:28325/media/data/frontline/source/banner/mate/KIN.png",
+      "capTitleIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/KIN.png",
       "capTo": "前往查看",
-      "capToIcon": "http://192.168.3.86:28325/media/data/frontline/source/banner/mate/RIGHT-TO.png",
+      "capToIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/RIGHT-TO.png",
       "expTime": "距离过期2日",
       "jump": "/pages/gift/gift"
     }

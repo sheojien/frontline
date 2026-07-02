@@ -4,97 +4,97 @@
     {
       "packageId": 1,
       "packageTitle": "制胜追进",
-      "packageIcon": "https://front.pangpangta.com/source/packet/1.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/1.png",
       "packageDesc": "制胜技能造成的伤害、治疗及护盾效果提高5%，每次使用制胜技能后，获得1层，至多叠加4层。"
     },
     {
       "packageId": 2,
       "packageTitle": "双重对策",
-      "packageIcon": "https://front.pangpangta.com/source/packet/2.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/2.png",
       "packageDesc": "若敌方目标不在掩体附近，则精准类伤害提高10%;若敌方目标在掩体附近，则范围类伤害提高10%。"
     },
     {
       "packageId": 3,
       "packageTitle": "异位打击",
-      "packageIcon": "https://front.pangpangta.com/source/packet/3.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/3.png",
       "packageDesc": "对拥有异位属性减益的敌方目标，造成伤害提高15%。"
     },
     {
       "packageId": 4,
       "packageTitle": "异位提振",
-      "packageIcon": "https://front.pangpangta.com/source/packet/4.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/4.png",
       "packageDesc": "若主动技能能造成克制，则攻击前获得异位提升，持续1回合;若能造成双重克制，则造成伤害提高10%。"
     },
     {
       "packageId": 5,
       "packageTitle": "应急修复",
-      "packageIcon": "https://front.pangpangta.com/source/packet/5.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/5.png",
       "packageDesc": "主动治疗友军后若目标生命值回满，则额外为其恢复2点稳态指数，每回合至多触发1次。"
     },
     {
       "packageId": 6,
       "packageTitle": "减伤支援",
-      "packageIcon": "https://front.pangpangta.com/source/packet/6.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/6.png",
       "packageDesc": "使用防护类技能时，同时为友方单位施加范围防御I，持续2回合。"
     },
     {
       "packageId": 7,
       "packageTitle": "实弹增幅",
-      "packageIcon": "https://front.pangpangta.com/source/packet/7.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/7.png",
       "packageDesc": "造成物理伤害时，伤害增加20%。"
     },
     {
       "packageId": 8,
       "packageTitle": "灼热增幅",
-      "packageIcon": "https://front.pangpangta.com/source/packet/8.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/8.png",
       "packageDesc": "造成燃烧伤害时，伤害增加20%。"
     },
     {
       "packageId": 9,
       "packageTitle": "冰点增幅",
-      "packageIcon": "https://front.pangpangta.com/source/packet/9.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/9.png",
       "packageDesc": "造成冷凝伤害时，伤害增加20%。"
     },
     {
       "packageId": 10,
       "packageTitle": "强蚀增幅",
-      "packageIcon": "https://front.pangpangta.com/source/packet/10.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/10.png",
       "packageDesc": "造成酸蚀伤害时，伤害增加20%。"
     },
     {
       "packageId": 11,
       "packageTitle": "电场增幅",
-      "packageIcon": "https://front.pangpangta.com/source/packet/11.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/11.png",
       "packageDesc": "造成电导伤害时，伤害增加20%。"
     },
     {
       "packageId": 12,
       "packageTitle": "激流增幅",
-      "packageIcon": "https://front.pangpangta.com/source/packet/12.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/12.png",
       "packageDesc": "造成浊刻伤害时，伤害增加20%。"
     },
     {
       "packageId": 13,
       "packageTitle": "战术演算",
-      "packageIcon": "https://front.pangpangta.com/source/packet/13.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/13.png",
       "packageDesc": "使用支援攻击、伏击、反击或被动攻击等造成回合外伤害时，造成伤害增加25%。"
     },
     {
       "packageId": 14,
       "packageTitle": "护盾守愈",
-      "packageIcon": "https://front.pangpangta.com/source/packet/14.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/14.png",
       "packageDesc": "拥有护盾类效果时，受到伤害降低15%，受到治疗效果提升15%"
     },
     {
       "packageId": 15,
       "packageTitle": "近迫强攻",
-      "packageIcon": "https://front.pangpangta.com/source/packet/15.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/15.png",
       "packageDesc": "造成伤害增加12%;造成近战伤害时，伤害额外增加24%。"
     },
     {
       "packageId": 16,
       "packageTitle": "巅峰召唤",
-      "packageIcon": "https://front.pangpangta.com/source/packet/16.png",
+      "packageIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/packet/16.png",
       "packageDesc": "场上存在自身实体召唤物时，自身和自身实体召唤物造成的伤害提高20%。"
     }
   ],

@@ -1,0 +1,28 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "giftId": 1,
+      "title": "特别版本『伊利昂之围』前瞻直播兑换码",
+      "expTime": "2026年6月25日 17:00",
+      "codes": [
+        {
+          "code": "XX1DJAKLWJDADD",
+          "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/KIN.png",
+          "count": 100
+        },
+        {
+          "code": "DJAWLKJGKLAWJF",
+          "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/KIN.png",
+          "count": 100
+        },
+        {
+          "code": "JALWIVMWALNVAD",
+          "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/KIN.png",
+          "count": 100
+        }
+      ]
+    }
+  ],
+  "msg": "成功"
+}
