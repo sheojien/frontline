@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "capId": 1,
+      "isShow": true,
+      "capTitle": "前瞻兑换码",
+      "capTitleIcon": "http://192.168.3.86:28325/media/data/frontline/source/banner/mate/KIN.png",
+      "capTo": "前往查看",
+      "capToIcon": "http://192.168.3.86:28325/media/data/frontline/source/banner/mate/RIGHT-TO.png",
+      "expTime": "距离过期2日",
+      "jump": "/pages/gift/gift"
+    }
+  ],
+  "msg": "成功"
+}
