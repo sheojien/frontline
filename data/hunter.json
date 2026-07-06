@@ -4,8 +4,15 @@
     {
       "hunterId": 1,
       "hunterName": "要塞伯爵",
-      "hunterPanel": "",
-      "hunterDesc": "以坦克为原型，融合了一些天马行空的概念设计出的重装武器，被评价为一旦实际落地便能在战场上称霸一方。前提是能够落地",
+      "icon": {
+        "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/01.png",
+        "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
+        "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
+        "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
+        "tip": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_TIP.png"
+      },
+      "hunterDesc": "以坦克为原型，融合了一些天马行空的概念设计出的重装武器，被评价为一旦实际落地便能在战场上称霸一方。前提是能够落地。",
       "hunterFeature": [
         {
           "title": "深度屏蔽",
@@ -26,6 +33,37 @@
         { "title": "阶段二击杀要塞伯爵一次" },
         { "title": "阶段三击杀要塞伯爵一次" },
         { "title": "完成要塞伯爵所有挑战" }
+      ],
+      "abstract": [
+        {
+          "title": "第一轮攻坚",
+          "remarks": [
+            "1、大大滴哇无"
+          ]
+        },
+        {
+          "title": "第二轮攻坚",
+          "remarks": [
+            "1、大大滴哇无"
+          ]
+        }
+      ],
+      "teams":[
+        {
+          "teamName":"第一轮攻坚",
+          "characters":[1052,1071,1059,1078,1074],
+          "remarks": "xxxxx"
+        },
+        {
+          "teamName":"第二轮攻坚",
+          "characters":[1052,1071,1059,1078,1074],
+          "remarks": "xxxxx"
+        },
+        {
+          "teamName":"第三轮攻坚",
+          "characters":[1052,1071,1059,1078,1074],
+          "remarks": "xxxxx"
+        }
       ],
       "monster": [
         {
