@@ -403,6 +403,455 @@
           ]
         }
       ]
+    },
+    {
+      "hunterId": 2,
+      "hunterName": "冰海舰骸",
+      "icon": {
+        "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/02.png",
+        "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
+        "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
+        "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
+        "tip": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_TIP.png"
+      },
+      "hunterDesc": "由B.R.I.E.F.定制的高难度战斗数据模组，外形来自于两艘于冰海中相撞的战舰。该模组包含远北港哨、极光女王号与苔原玫瑰号三片区域，各区域互相配合，形成了极为复杂的攻击模式",
+      "hunterFeature": [
+        {
+          "title": "深度屏蔽",
+          "desc": "不会受到眩晕，嘲讽等控制效果、指令禁止效果以及僵冷的影响"
+        },
+        {
+          "title": "范围攻击",
+          "desc": "对指定范围内的敌方单位造成无视掩体的群体伤"
+        }
+      ],
+      "condition": [
+        { "title": "完成冰海舰骸挑战一次" },
+        { "title": "阶段一冰海舰骸挑战分数达到84000分" },
+        { "title": "阶段一冰海舰骸挑战分数达到99000分" },
+        { "title": "阶段一冰海舰骸挑战分数达到122000分" },
+        { "title": "完成要塞伯爵所有挑战" }
+      ],
+      "abstract": [
+        {
+          "title": "核心策略",
+          "remarks": [
+            "绝对禁止集火：BOSS被动【舰内通讯】会使本回合内多个友方单位攻击同一目标时眩晕该目标，因此每回合需分散火力，让不同角色攻击不同目标，避免触发眩晕。",
+            "快速削稳：利用弱点属性快速打空BOSS稳态，创造2回合易伤窗口，同时可打断BOSS的高威胁技能。",
+            "警惕舰毁倒计时：阶段二起，BOSS回合结束若自身稳态>0则叠层，层满秒杀全场。必须在叠满前打崩BOSS稳态，中断倒计时。",
+            "注意移动失效：BOSS技能常附带移动失效，影响站位，建议携带免疫移动失效的角色或提前规划走位。",
+            "掩体破坏与地格：阶段一的潜鸟榴弹会摧毁掩体，阶段三有永久霜冻地格，优先依靠走位规避而非依赖掩体。"
+          ]
+        },
+        {
+          "title": "第一轮攻坚",
+          "remarks": [
+            "1、BOSS拥有三片区域，技能多样，需根据预警范围提前分散站位，避免范围伤害波及多人。",
+            "2、利用电导或浊刻角色快速削稳，在BOSS释放潜鸟榴弹前将其打崩，避免掩体被大面积破坏。",
+            "3、注意普攻（反潜炮击、多联机枪射击）附带移动失效，可携带免疫或及时解除。",
+            "4、每回合只让1~2名主力输出攻击BOSS，其余角色执行辅助动作或待机，避免触发【舰内通讯】的眩晕。"
+          ]
+        },
+        {
+          "title": "第二轮攻坚",
+          "remarks": [
+            "1、BOSS新增【榴炮轰击】增加技能CD、【极地导弹炮】减少导染、【机枪连射】追加高额固定伤害，必须通过削稳来打断这些技能。",
+            "2、舰毁倒计时5层秒杀，务必在5回合内打崩BOSS稳态，使其中断叠层。",
+            "3、BOSS范围技能多为十字或直线，保持角色不在同一行/列可减少被同时命中。",
+            "4、注意躲避【榴炮轰击】的3x12格直线预警和【极地导弹炮】的5x9格范围预警，提前走位规避。"
+          ]
+        },
+        {
+          "title": "第三轮攻坚",
+          "remarks": [
+            "1、BOSS新增【电浆导弹炮】大范围电导伤害+移动降低，【苔原导弹炮】冷凝范围+永久霜冻地格，生存压力极大。",
+            "2、舰毁Ⅱ倒计时6层，需更快打崩BOSS稳态，中断叠层节奏。",
+            "3、永久霜冻地格会限制走位，尽量将BOSS拉离地图中心区域，或利用地格反应消除。",
+            "4、【电浆导弹炮】和【苔原导弹炮】均为预警技能，看到预警后需全员提前移出范围。"
+          ]
+        }
+      ],
+      "teams": [
+        {
+          "teamName": "浊电混伤队",
+          "characters": [1025, 1013, 1047, 1042],
+          "remarks": "托洛洛主力浊刻输出和削稳；莱娜电导辅助，提供电压地格和导电减益；春田浊刻治疗，回血回稳；安朵丝电导坦克，分担伤害提供掩护。每回合只让托洛洛和莱娜交替攻击BOSS，春田和安朵丝以辅助为主，避免触发眩晕。"
+        },
+        {
+          "teamName": "酸蚀破稳队",
+          "characters": [1052, 1059, 1039, 1066],
+          "remarks": "可露凯酸蚀主C，范围伤害高；琳德酸蚀副C，提供蜜糖陷阱和大量减益；索米冷凝护盾治疗，群体回血回稳；威玛西娜物理削稳，被动行动支援在回合外稳定削稳且自身高减伤。尽快打崩BOSS稳态中断舰毁，利用范围攻击持续压制BOSS。"
+        },
+        {
+          "teamName": "电蚀生存队",
+          "characters": [1076, 1035, 1063, 1028],
+          "remarks": "索普冷凝/燃烧输出，伏击削稳能力强；绛雨电导辅助，提供电压地格和驱散；维尔德酸蚀坦克，分担伤害并嘲讽；桑朵莱希燃烧治疗，热态回复和驱散保障生存。利用多属性覆盖BOSS弱点，注意躲避预警技能，桑朵莱希和维尔德保命。"
+        }
+      ],
+      "monster": [
+        {
+          "monsterName": "冰海舰骸",
+          "monsterLevel": 55,
+          "monsterWeakness": [
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "霰弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Shot_Weakpoint.png"
+            },
+            {
+              "elementName": "电导",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "反潜炮击",
+              "skillTags": "普攻 / 精准 / 减益",
+              "skillDamage": 5,
+              "skillDesc": "对约塔反潜武器周围半径6格内最近的1个敌方目标，造成100%攻击力的物理伤害。攻击前若该目标稳态指数≤6，则对其施加移动失效，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "移动失效",
+                  "content": "无法移动。移动类减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "潜鸟榴弹·近",
+              "skillTags": "主动 / 范围 / 掩体破坏",
+              "skillDamage": 6,
+              "skillDesc": "选取1个离潜鸟深弹炮最近的敌方目标，对其及其周围3x3格内所有敌方单位造成100%攻击力的范围物理伤害，同时摧毁范围内的掩体。攻击前若敌方单位稳态指数≤4，则追加一次50%攻击力的固定伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "多联机枪射击",
+              "skillTags": "主动 / 精准 / 减益",
+              "skillDamage": 4,
+              "skillDesc": "对双联机枪·远北岗哨周围半径6格内最近的1个敌方目标，造成100%攻击力的物理伤害，若射程内有且仅有1个敌方目标，则对其追加1次攻击。攻击前若该目标稳态指数≤4，则对其施加移动失效，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "移动失效",
+                  "content": "无法移动。移动类减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "潜鸟榴弹·远",
+              "skillTags": "主动 / 范围 / 掩体破坏",
+              "skillDamage": 6,
+              "skillDesc": "选取1个离潜鸟深弹炮最远的敌方目标，对其及其周围3x3格内所有敌方单位造成100%攻击力的范围物理伤害，同时摧毁范围内的掩体。攻击前若敌方单位稳态指数≤4，则追加一次50%攻击力的固定伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "舰队供能",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "稳态崩溃时，全体敌方单位获得1层能源补充。若有技能未造成伤害或未成功释放，则自身获得1层供能充足。",
+              "tooltips": []
+            },
+            {
+              "skillName": "舰骸守望Ⅰ",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "处于稳态崩溃时，受到的伤害提高100%。稳态崩溃2回合后将恢复全部稳态指数。",
+              "tooltips": []
+            },
+            {
+              "skillName": "易损舰体",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "异位弱点被克制时，将会额外受到2点稳态伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "舰内通讯",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "本回合内，若有多个友方单位对同一目标造成伤害，则对其施加眩晕，持续1回合。",
+              "tooltips": []
+            }
+          ]
+        },
+        {
+          "monsterName": "冰海舰骸",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "霰弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Shot_Weakpoint.png"
+            },
+            {
+              "elementName": "电导",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            },
+            {
+              "elementName": "酸蚀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "反潜炮击",
+              "skillTags": "普攻 / 精准 / 减益",
+              "skillDamage": 5,
+              "skillDesc": "对约塔反潜武器周围半径6格内最近的1个敌方目标，造成100%攻击力的物理伤害。攻击前若该目标稳态指数≤6，则对其施加移动失效，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "移动失效",
+                  "content": "无法移动。移动类减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "多联机枪射击",
+              "skillTags": "主动 / 精准 / 减益",
+              "skillDamage": 4,
+              "skillDesc": "对双联机枪·远北岗哨周围半径6格内最近的1个敌方目标，造成100%攻击力的物理伤害，若射程内有且仅有1个敌方目标，则对其追加1次攻击。攻击前若该目标稳态指数≤4，则对其施加移动失效，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "移动失效",
+                  "content": "无法移动。移动类减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "榴炮轰击",
+              "skillTags": "普攻 / 范围",
+              "skillDamage": 8,
+              "skillDesc": "对潜鸟深弹炮组前方3x12格内所有敌方单位，造成100%攻击力的范围物理伤害，若攻击前敌方单位稳态指数≤4，则该单位主动技能的冷却时间增加1回合。",
+              "tooltips": []
+            },
+            {
+              "skillName": "机枪连射·近",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 6,
+              "skillDesc": "选取1个离多联连射机枪最近的敌方目标，对其及其周围3x3格内所有敌方单位造成100%攻击力的范围物理伤害，同时摧毁范围内掩体。攻击前若敌方单位稳态指数≤6，则追加一次80%攻击力的固定伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "极地导弹炮",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 8,
+              "skillDesc": "对极地导弹发射器前方5x9格内所有敌方单位，造成100%攻击力的范围物理伤害。攻击前若敌方单位稳态指数-6，则该单位导染指数减少2点。",
+              "tooltips": []
+            },
+            {
+              "skillName": "机枪连射·远",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 6,
+              "skillDesc": "选取1个离多联连射机枪最远的敌方目标，对其及其周围3x3格内所有敌方单位造成100%攻击力的范围物理伤害，同时摧毁范围内掩体。攻击前若敌方单位稳态指数≤6，则追加一次80%攻击力的固定伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "舰队供能Ⅱ",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "稳态崩溃时，若其他友方单位均处于稳态崩溃，则全体敌方单位获得1层联合舰阵。回合内有技能未造成伤害或未成功释放，则全部友方获得1层火力倾泻。",
+              "tooltips": [
+                {
+                  "text": "联合舰阵",
+                  "content": "受到伤害降低5%，造成的稳态伤害提高1点，最多叠加2层。增益不可驱散。"
+                },
+                {
+                  "text": "火力倾泻",
+                  "content": "敌方目标受到伤害后，额外附加一次10%敌方目标最大生命值的固定伤害，可叠加。增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "舰骸守望Ⅱ",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "处于稳态崩溃时，所有稳态指数>0的友方单位造成伤害提高100%。若所有友方单位均处于稳态崩溃，则自身受到伤害提高100%。自身稳态崩溃2回合后，恢复所有友方单位的全部稳态指数。",
+              "tooltips": []
+            },
+            {
+              "skillName": "易损舰体",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "异位弱点被克制时，将会额外受到2点稳态伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "舰内通讯",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "本回合内，若有多个友方单位对同一目标造成伤害，则对其施加眩晕，持续1回合。",
+              "tooltips": []
+            },
+            {
+              "skillName": "舰毁I",
+              "skillTags": "被动 / 范围",
+              "skillDamage": 0,
+              "skillDesc": "回合结束时，若存在稳态指数>0的友方单位，则获得1层舰毁预警。我方回合开始时，若舰毁预警达到5层，则将对所有敌方单位造成致命伤害。",
+              "tooltips": []
+            }
+          ]
+        },
+        {
+          "monsterName": "冰海舰骸",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "霰弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Shot_Weakpoint.png"
+            },
+            {
+              "elementName": "刀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Melee_Weakpoint.png"
+            },
+            {
+              "elementName": "电导",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            },
+            {
+              "elementName": "酸蚀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
+            },
+            {
+              "elementName": "燃烧",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "反潜炮击",
+              "skillTags": "普攻 / 精准 / 减益",
+              "skillDamage": 5,
+              "skillDesc": "对约塔反潜武器周围半径6格内最近的1个敌方目标，造成100%攻击力的物理伤害。攻击前若该目标稳态指数≤6，则对其施加移动失效，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "移动失效",
+                  "content": "无法移动。移动类减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "多联机枪射击",
+              "skillTags": "主动 / 精准 / 减益",
+              "skillDamage": 4,
+              "skillDesc": "对双联机枪·远北岗哨周围半径6格内最近的1个敌方目标，造成100%攻击力的物理伤害，若射程内有且仅有1个敌方目标，则对其追加1次攻击。攻击前若该目标稳态指数≤4，则对其施加移动失效，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "移动失效",
+                  "content": "无法移动。移动类减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "榴炮轰击",
+              "skillTags": "普攻 / 范围",
+              "skillDamage": 8,
+              "skillDesc": "对潜鸟深弹炮组前方3x12格内所有敌方单位，造成100%攻击力的范围物理伤害，若攻击前敌方单位稳态指数≤4，则该单位主动技能的冷却时间增加1回合。",
+              "tooltips": []
+            },
+            {
+              "skillName": "极地导弹炮",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 8,
+              "skillDesc": "对极地导弹发射器前方5x9格内所有敌方单位，造成100%攻击力的范围物理伤害。攻击前若敌方单位稳态指数-6，则该单位导染指数减少2点。",
+              "tooltips": []
+            },
+            {
+              "skillName": "电浆导弹炮",
+              "skillTags": "普攻 / 范围 / 减益",
+              "skillDamage": 8,
+              "skillDesc": "对极地导弹发射器·电磁前方5x10格进行预警，下回合开始对范围内所有敌方单位造成100%攻击力的范围电导伤害，并施加移动隆低，持续2回合。",
+              "tooltips": []
+            },
+            {
+              "skillName": "苔原导弹炮",
+              "skillTags": "主动 / 范围 / 地格",
+              "skillDamage": 8,
+              "skillDesc": "对极地导弹发射器·冷凝最近的1个敌方单位及其周围5x5格进行预警，下回合开始对范围内所有敌方单位造成100%攻击力的范围冷凝伤害，并在敌方周围3x3格产生霜冻地格，永久存在。",
+              "tooltips": []
+            },
+            {
+              "skillName": "多联机枪连射",
+              "skillTags": "主动 / 精准 / 减益",
+              "skillDamage": 6,
+              "skillDesc": "对双联机枪·苔原玫瑰号周围半径6格内最近的1个敌方目标造成100%攻击力的物理伤害，若射程内有且仅有1个敌方目标则对其追加1次攻击。攻击前若该目标稳态指数≤4，则对其施加移动失效，持续1回合。",
+              "tooltips": []
+            },
+            {
+              "skillName": "舰骸守望Ⅲ",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "处于稳态崩溃时，所有稳态指数>0的友方单位造成伤害提高50%。若所有友方单位均处于稳态崩溃，则自身受到伤害提高100%。自身稳态崩溃2回合后，恢复所有友方单位的全部稳态指数。",
+              "tooltips": []
+            },
+            {
+              "skillName": "易损舰体",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "异位弱点被克制时，将会额外受到2点稳态伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "舰内通讯",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "本回合内，若有多个友方单位对同一目标造成伤害，则对其施加眩晕，持续1回合。",
+              "tooltips": []
+            },
+            {
+              "skillName": "舰毁Ⅱ",
+              "skillTags": "被动 / 范围",
+              "skillDamage": 0,
+              "skillDesc": "回合结束时，若存在稳态指数>0的友方单位，则获得1层舰毁预警。我方回合开始时，若舰毁预警达到6层则将对所有敌方单位造成致命伤害。",
+              "tooltips": []
+            }
+          ]
+        }
+      ]
     }
   ],
   "msg": "成功"
