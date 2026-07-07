@@ -4,7 +4,14 @@
     {
       "bannerId": 1,
       "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/SEARCH_BANNER.jpg",
-      "jump": "/pages/search/search"
+      "jump": "/pages/search/search",
+      "isShow": true
+    },
+    {
+      "bannerId": 2,
+      "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/HEADHUNTER.jpg",
+      "jump": "/pages/hunter/hunter",
+      "isShow": true
     }
   ],
   "msg": "成功"
