@@ -4,7 +4,7 @@
     {
       "weaponId": 10793,
       "weaponName": "切尔诺伯格",
-      "weaponEnName": "",
+      "weaponEnName": "AK-12",
       "weaponType": "突击步枪",
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1782469039401.png",
@@ -41,7 +41,7 @@
     {
       "weaponId": 10792,
       "weaponName": "12型突击步枪",
-      "weaponEnName": "",
+      "weaponEnName": "AK-12",
       "weaponType": "突击步枪",
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1782469599226.png",
@@ -78,7 +78,7 @@
     {
       "weaponId": 10791,
       "weaponName": "旧式12型突击步枪",
-      "weaponEnName": "",
+      "weaponEnName": "AK-12",
       "weaponType": "突击步枪",
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1782469723579.png",
@@ -115,7 +115,7 @@
     {
       "weaponId": 10783,
       "weaponName": "森牙戾兽",
-      "weaponEnName": "",
+      "weaponEnName": "G41",
       "weaponType": "突击步枪",
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1780908813284.png",
@@ -152,7 +152,7 @@
     {
       "weaponId": 10782,
       "weaponName": "格威尔41",
-      "weaponEnName": "",
+      "weaponEnName": "G41",
       "weaponType": "突击步枪",
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1780908563448.png",
@@ -188,7 +188,7 @@
     {
       "weaponId": 10781,
       "weaponName": "旧式格威尔41",
-      "weaponEnName": "",
+      "weaponEnName": "G41",
       "weaponType": "突击步枪",
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1780908417143.png",
@@ -260,13 +260,13 @@
     {
       "weaponId": 10623,
       "weaponName": "玩具匠",
-      "weaponEnName": "",
+      "weaponEnName": "Lewis",
       "weaponType": "机枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763814192692.png",
       "weaponDesc": "攻击390【60级】 / 攻击加成15%",
       "weaponTrait": "若产生克制，则无视目标10%防御，产生燃烧克制时，额外无视其10%防御。",
-      "weaponBrand": "【刘易斯·烙印增效】\n对持有燃烧类减益的目标造成伤害提高2.5%，对熵病毒造成的伤害提高2.5%。",
+      "weaponBrand": "【刘易斯·烙印增效】对持有燃烧类减益的目标造成伤害提高2.5%，对熵病毒造成的伤害提高2.5%。",
       "skills": [
         {
           "level": "稚心绽放Lv.1",
@@ -297,7 +297,7 @@
     {
       "weaponId": 10633,
       "weaponName": "缄默制裁",
-      "weaponEnName": "",
+      "weaponEnName": "Welrod MK Ⅱ",
       "weaponType": "手枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1778838531094.png",
@@ -334,7 +334,7 @@
     {
       "weaponId": 10743,
       "weaponName": "卡庇托林",
-      "weaponEnName": "",
+      "weaponEnName": "OTs-14",
       "weaponType": "突击步枪",
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1773402896558.png",
@@ -408,7 +408,7 @@
     {
       "weaponId": 10753,
       "weaponName": "西比尔",
-      "weaponEnName": "",
+      "weaponEnName": "SAN 511",
       "weaponType": "狙击枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1773403178766.png",
@@ -445,7 +445,7 @@
     {
       "weaponId": 10713,
       "weaponName": "告死礼赞",
-      "weaponEnName": "",
+      "weaponEnName": "MK 23 MOD 0",
       "weaponType": "手枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1767972957988.png",
@@ -519,7 +519,7 @@
     {
       "weaponId": 10723,
       "weaponName": "绝影",
-      "weaponEnName": "",
+      "weaponEnName": "Liu Rifle",
       "weaponType": "狙击枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1769769399556.png",
@@ -556,7 +556,7 @@
     {
       "weaponId": 10683,
       "weaponName": "绯红契约",
-      "weaponEnName": "",
+      "weaponEnName": "Type 100",
       "weaponType": "冲锋枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763813136361.png",
@@ -593,7 +593,7 @@
     {
       "weaponId": 10703,
       "weaponName": "夜行豆蔻",
-      "weaponEnName": "",
+      "weaponEnName": "Intervention M-200",
       "weaponType": "狙击枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1766129053848.png",
@@ -667,7 +667,7 @@
     {
       "weaponId": 10693,
       "weaponName": "潮涌夜曲",
-      "weaponEnName": "",
+      "weaponEnName": "DSR-50",
       "weaponType": "狙击枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1765007780806.png",
@@ -704,7 +704,7 @@
     {
       "weaponId": 10493,
       "weaponName": "二律背反",
-      "weaponEnName": "",
+      "weaponEnName": "Steyr TMP",
       "weaponType": "冲锋枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1765007954507.png",
@@ -741,7 +741,7 @@
     {
       "weaponId": 10673,
       "weaponName": "谧语永护",
-      "weaponEnName": "",
+      "weaponEnName": "DP-12",
       "weaponType": "霰弹枪",
       "weaponBullet": "霰弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763813256092.png",
@@ -1111,7 +1111,7 @@
     {
       "weaponId": 10663,
       "weaponName": "6P71",
-      "weaponEnName": "",
+      "weaponEnName": "AK-15",
       "weaponType": "突击步枪",
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763813479422.png",
@@ -1185,7 +1185,7 @@
     {
       "weaponId": 10653,
       "weaponName": "6P33",
-      "weaponEnName": "",
+      "weaponEnName": "AN-94",
       "weaponType": "突击步枪",
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763813933866.png",
@@ -1222,7 +1222,7 @@
     {
       "weaponId": 10613,
       "weaponName": "尼奥尔德",
-      "weaponEnName": "",
+      "weaponEnName": "LS26",
       "weaponType": "机枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763814336472.png",
@@ -1851,7 +1851,7 @@
     {
       "weaponId": 10373,
       "weaponName": "流羽白英",
-      "weaponEnName": "SUBORDINATE",
+      "weaponEnName": "",
       "weaponType": "刀",
       "weaponBullet": "",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763827021814.png",
@@ -2073,7 +2073,7 @@
     {
       "weaponId": 10007,
       "weaponName": "远行游鸽",
-      "weaponEnName": "SUBORDINATE",
+      "weaponEnName": "",
       "weaponType": "霰弹枪",
       "weaponBullet": "霰弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763811116817.png",
@@ -2109,7 +2109,7 @@
     {
       "weaponId": 10006,
       "weaponName": "妙尔尼尔",
-      "weaponEnName": "SUBORDINATE",
+      "weaponEnName": "",
       "weaponType": "机枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763810985559.png",
@@ -2145,7 +2145,7 @@
     {
       "weaponId": 10005,
       "weaponName": "王冠鹿角兔",
-      "weaponEnName": "SUBORDINATE",
+      "weaponEnName": "",
       "weaponType": "刀",
       "weaponBullet": "",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763810652901.png",
@@ -2181,7 +2181,7 @@
     {
       "weaponId": 10004,
       "weaponName": "盖尔诺",
-      "weaponEnName": "SUBORDINATE",
+      "weaponEnName": "",
       "weaponType": "突击步枪",
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763810270078.png",
@@ -2217,7 +2217,7 @@
     {
       "weaponId": 10003,
       "weaponName": "阿尔克纳",
-      "weaponEnName": "SUBORDINATE",
+      "weaponEnName": "",
       "weaponType": "狙击枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763810187535.png",
@@ -2253,7 +2253,7 @@
     {
       "weaponId": 10002,
       "weaponName": "绝密手稿",
-      "weaponEnName": "SUBORDINATE",
+      "weaponEnName": "",
       "weaponType": "冲锋枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763810042825.png",
@@ -2289,7 +2289,7 @@
     {
       "weaponId": 10632,
       "weaponName": "马克二型栓动手枪",
-      "weaponEnName": "",
+      "weaponEnName": "Welrod MK Ⅱ",
       "weaponType": "手枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1778838335829.png",
@@ -2325,7 +2325,7 @@
     {
       "weaponId": 10001,
       "weaponName": "喧闹恶灵",
-      "weaponEnName": "SUBORDINATE",
+      "weaponEnName": "",
       "weaponType": "手枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://gf2.mcc.wiki/image/weapon/Weapon_BpHRssr001_5_1024.png",
@@ -2397,7 +2397,7 @@
     {
       "weaponId": 10722,
       "weaponName": "刘氏步枪",
-      "weaponEnName": "",
+      "weaponEnName": "Liu Rifle",
       "weaponType": "狙击枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1769769809952.png",
@@ -2469,7 +2469,7 @@
     {
       "weaponId": 10742,
       "weaponName": "闪电-3",
-      "weaponEnName": "",
+      "weaponEnName": "OTs-14",
       "weaponType": "突击步枪",
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1773403457308.png",
@@ -2541,7 +2541,7 @@
     {
       "weaponId": 10712,
       "weaponName": "马克23进攻型手枪",
-      "weaponEnName": "",
+      "weaponEnName": "MK 23 MOD 0",
       "weaponType": "手枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1767972834874.png",
@@ -2577,7 +2577,7 @@
     {
       "weaponId": 10702,
       "weaponName": "干预200",
-      "weaponEnName": "",
+      "weaponEnName": "Intervention M-200",
       "weaponType": "狙击枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1766129167308.png",
@@ -3117,7 +3117,7 @@
     {
       "weaponId": 10692,
       "weaponName": "因戈尔夫50",
-      "weaponEnName": "",
+      "weaponEnName": "DSR-50",
       "weaponType": "狙击枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1765008081243.png",
@@ -3153,7 +3153,7 @@
     {
       "weaponId": 10492,
       "weaponName": "施泰尔冲锋手枪",
-      "weaponEnName": "",
+      "weaponEnName": "Steyr TMP",
       "weaponType": "冲锋枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1765008637141.png",
@@ -3189,7 +3189,7 @@
     {
       "weaponId": 10682,
       "weaponName": "樱花冲锋枪",
-      "weaponEnName": "",
+      "weaponEnName": "Type 100",
       "weaponType": "冲锋枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764324749101.png",
@@ -3225,7 +3225,7 @@
     {
       "weaponId": 10672,
       "weaponName": "12型双管霰弹枪",
-      "weaponEnName": "",
+      "weaponEnName": "DP-12",
       "weaponType": "霰弹枪",
       "weaponBullet": "霰弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764324923233.png",
@@ -3369,7 +3369,7 @@
     {
       "weaponId": 10622,
       "weaponName": "刘易斯轻机枪",
-      "weaponEnName": "",
+      "weaponEnName": "Lewis",
       "weaponType": "机枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764403618909.png",
@@ -3405,7 +3405,7 @@
     {
       "weaponId": 10612,
       "weaponName": "拉赫蒂26型轻机枪",
-      "weaponEnName": "",
+      "weaponEnName": "LS26",
       "weaponType": "机枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764325720094.png",
@@ -4484,7 +4484,7 @@
     {
       "weaponId": 10631,
       "weaponName": "旧式马克二型栓动手枪",
-      "weaponEnName": "",
+      "weaponEnName": "Welrod MK Ⅱ",
       "weaponType": "手枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1778838273408.png",
@@ -4589,7 +4589,7 @@
     {
       "weaponId": 10741,
       "weaponName": "旧式闪电-3",
-      "weaponEnName": "",
+      "weaponEnName": "OTs-14",
       "weaponType": "突击步枪",
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1773403599548.png",
@@ -4659,7 +4659,7 @@
     {
       "weaponId": 10721,
       "weaponName": "旧式刘氏步枪",
-      "weaponEnName": "",
+      "weaponEnName": "Liu Rifle",
       "weaponType": "狙击枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1769769948457.png",
@@ -4694,7 +4694,7 @@
     {
       "weaponId": 10711,
       "weaponName": "旧式马克23进攻型手枪",
-      "weaponEnName": "",
+      "weaponEnName": "MK 23 MOD 0",
       "weaponType": "手枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1767972577600.png",
@@ -5149,7 +5149,7 @@
     {
       "weaponId": 10701,
       "weaponName": "旧式干预200",
-      "weaponEnName": "",
+      "weaponEnName": "Intervention M-200",
       "weaponType": "狙击枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1766129292141.png",
@@ -5219,7 +5219,7 @@
     {
       "weaponId": 10691,
       "weaponName": "旧式因戈尔夫50",
-      "weaponEnName": "",
+      "weaponEnName": "DSR-50",
       "weaponType": "狙击枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1765008742620.png",
@@ -5254,7 +5254,7 @@
     {
       "weaponId": 10681,
       "weaponName": "旧式樱花冲锋枪",
-      "weaponEnName": "",
+      "weaponEnName": "Type 100",
       "weaponType": "冲锋枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764399657612.png",
@@ -5289,7 +5289,7 @@
     {
       "weaponId": 10671,
       "weaponName": "旧式12型双管霰弹枪",
-      "weaponEnName": "",
+      "weaponEnName": "DP-12",
       "weaponType": "霰弹枪",
       "weaponBullet": "霰弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764399733952.png",
@@ -5429,7 +5429,7 @@
     {
       "weaponId": 10621,
       "weaponName": "旧式刘易斯轻机枪",
-      "weaponEnName": "",
+      "weaponEnName": "Lewis",
       "weaponType": "机枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764400306513.png",
@@ -5464,7 +5464,7 @@
     {
       "weaponId": 10611,
       "weaponName": "旧式拉赫蒂26型轻机枪",
-      "weaponEnName": "",
+      "weaponEnName": "LS26",
       "weaponType": "机枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764400385033.png",
@@ -5884,7 +5884,7 @@
     {
       "weaponId": 10491,
       "weaponName": "旧式施泰尔冲锋手枪",
-      "weaponEnName": "",
+      "weaponEnName": "Steyr TMP",
       "weaponType": "冲锋枪",
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1765008853033.png",
