@@ -1038,7 +1038,7 @@
           "monsterWeakness": [
             {
               "elementName": "中型弹",
-              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
             },
             {
               "elementName": "重型弹",
