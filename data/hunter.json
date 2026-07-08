@@ -852,6 +852,288 @@
           ]
         }
       ]
+    },
+    {
+      "hunterId": 14,
+      "hunterName": "卡俄斯",
+      "icon": {
+        "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/14.png",
+        "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
+        "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
+        "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
+        "tip": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_TIP.png"
+      },
+      "hunterDesc": "金属素体与武装机械结合的产物，由不知名地下研究所秘密研发的第三代人形原型机。张牙舞爪的触手高举各色屠刀，伺机降下致命的一击。",
+      "hunterFeature": [
+        {
+          "title": "深度屏蔽",
+          "desc": "不会受到眩晕，嘲讽等控制效果、指令禁止效果以及僵冷的影响"
+        },
+        {
+          "title": "大型目标",
+          "desc": "体积巨大，不会受到掩体保护"
+        }
+      ],
+      "condition": [
+        { "title": "完成卡俄斯挑战一次" },
+        { "title": "阶段一不超过2个人形获得过信标锁定并击杀卡俄斯1次" },
+        { "title": "阶段二无人形损毁并击杀卡俄斯1次" },
+        { "title": "两个阶段每阶段触发感应地雷不超过4次并击杀卡俄斯1次" },
+        { "title": "两个阶段每阶段防御力大于0的未信标锁定人形不少于3个并击杀卡俄斯1次" },
+        { "title": "完成要塞伯爵所有挑战" }
+      ],
+      "abstract": [
+        {
+          "title": "核心策略",
+          "remarks": [
+            "打崩稳态是唯一出路：BOSS拥有80%最终减伤，只有将其打至稳态崩溃才能造成有效伤害。需集中火力快速削稳，利用2回合崩溃窗口爆发输出。",
+            "信标锁定机制：BOSS会锁定最远角色并优先追击，被锁定角色需远离团队，同时保持移动以规避伤害。若被锁定角色死亡，锁标会转移给下一个最远目标。",
+            "保持防御力＞0：BOSS第二阶段对防御≤0的目标有即死效果。需通过治疗、护盾、驱散等手段维持角色防御力，避免被秒杀。",
+            "规避狂魇：第一阶段BOSS全屏AOE会给全员施加【狂魇】（攻击附额外固伤），累计移动12格可解除，因此每个角色每回合都尽量移动。",
+            "分散站位：BOSS【一触即发】是3格近战AOE，且会破坏掩体。角色之间保持3格以上距离，被锁定的角色尤其要远离大部队。"
+          ]
+        },
+        {
+          "title": "第一轮攻坚",
+          "remarks": [
+            "1、信标锁定处理：被锁定的角色立即远离BOSS和大部队，利用高行动力拉扯BOSS走位，其余人在另一侧集中输出。",
+            "2、全力削稳：利用电导、浊刻、冷凝等弱点属性快速打空BOSS稳态。BOSS崩溃后全员集火爆发。",
+            "3、保持移动：每人每回合至少移动1格以累计解除【狂魇】。被锁定角色需持续移动风筝BOSS。",
+            "4、注意【一触即发】：若BOSS未命中任何目标会全屏施加【贯穿】（攻防-50%），尽量避免全部角色远离BOSS导致空技能，安排1名近战角色保持在3格内承受攻击。"
+          ]
+        },
+        {
+          "title": "第二轮攻坚",
+          "remarks": [
+            "1、信标锁定持续到死亡：被锁定角色若阵亡会转移锁标，因此需要重点保护被锁定角色，同时所有角色保持防御力＞0避免被【一触即发】秒杀。",
+            "2、BOSS移动距离监控：若BOSS上回合移动＜5格，【精准刺击】伤害+50%，可利用被锁定角色拉扯BOSS使其每回合移动超过5格。",
+            "3、防御力为0即死：需通过护盾（索米）、治疗回稳（寇尔芙）、驱散【贯穿】等方式确保全队防御力始终＞0。",
+            "4、掩体无用：BOSS会破坏掩体，不要依赖掩体减伤，依靠走位和护盾生存。"
+          ]
+        }
+      ],
+      "teams": [
+        {
+          "teamName": "电浊破稳队",
+          "characters": [1076, 1035, 1025, 1047, 1009],
+          "remarks": "索普冷凝输出，伏击削稳4点稳态伤害是破稳核心；绛雨电导辅助，提供电压地格和驱散，协助削稳；托洛洛浊刻主C，爆发输出；春田浊刻治疗，回血回稳保持全队防御力；寇尔芙全能治疗，回稳驱散，保障被锁定角色生存。被锁定角色负责拉扯BOSS，其余人集中削稳输出。"
+        },
+        {
+          "teamName": "燃烧破防队",
+          "characters": [1027, 1062, 1029, 1039, 1026],
+          "remarks": "琼玖燃烧支援核心，行动支援回合外削稳；刘易斯燃烧主C，提供锡兵卫队协同攻击；塞布丽娜浊刻坦克，提供掩护减少稳态伤害；索米冷凝护盾治疗，群体回血回稳、驱散【贯穿】；纳甘酸蚀辅助，提供防御降低和眩晕（虽BOSS免疫但可清小怪）。被锁定角色拉扯BOSS移动距离＞5格，其余人集火削稳爆发。"
+        }
+      ],
+      "monster": [
+        {
+          "monsterName": "卡俄斯",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "刀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Melee_Weakpoint.png"
+            },
+            {
+              "elementName": "电导",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "一触即发",
+              "skillTags": "普攻 / 范围 / 减益 / 近战",
+              "skillDamage": 4,
+              "skillDesc": "选取周围半径3格内的所有敌方目标，对其造成130%攻击力的近战范围物理伤害，并附加贯穿，持续2回合;若未命中目标，对全场敌方目标施加贯穿，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "贯穿",
+                  "content": "攻击力降低50%，防御力降低50%。减益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "锋面压制",
+              "skillTags": "主动 / 范围 / 增益 / 跨越地形",
+              "skillDamage": 2,
+              "skillDesc": "选取全场范围内所有敌方目标，对其造成80%攻击力的范围物理伤害，并获得狂魇。",
+              "tooltips": [
+                {
+                  "text": "狂魇",
+                  "content": "攻击额外造成50%攻击力的固定伤害，累计移动12格时移除该效果。增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "精准刺击",
+              "skillTags": "主动 / 范围 / 跨越地形",
+              "skillDamage": 5,
+              "skillDesc": "选取全场范围内所有敌方目标，对其造成120%攻击力的范围物理伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "突进矢",
+              "skillTags": "主动 / 减益",
+              "skillDamage": 5,
+              "skillDesc": "选取上回合持有信标锁定的敌方目标，对其造成150%攻击力的物理伤害，攻击后若该目标当前生命值小于80%最大生命值，对其施加锚定陷阱，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "信标锁定",
+                  "content": "卡俄斯优先朝向持有此效果的目标移动，该效果至多存在1个。不可驱散。"
+                },
+                {
+                  "text": "锚定陷阱",
+                  "content": "无法移动或主动位移。移动类减益效果，不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "刃旋",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "场上所有敌方单位防御力降低50%;大回合开始时，使场上所有敌方单位行动力降低1格，可以叠加。",
+              "tooltips": []
+            },
+            {
+              "skillName": "扰动屏蔽",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "免疫移动类效果，移动无视敌方阻挡，行动力固定为初始行动力。回合开始时，对最远的1个敌方人形施加信标锁定。",
+              "tooltips": [
+                {
+                  "text": "信标锁定",
+                  "content": "卡俄斯优先朝向持有此效果的目标移动，该效果至多存在1个。不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "弃子的执着",
+              "skillTags": "被动 / 稳态恢复",
+              "skillDamage": 0,
+              "skillDesc": "受到的最终伤害降低80%。稳态指数大于0时，造成的伤害提高50%，稳态崩溃时，造成的伤害提高30%。稳态崩溃2回合后恢复全部稳态指数。",
+              "tooltips": [
+                {
+                  "text": "最终伤害",
+                  "content": "计算了增伤、减伤等所有加成之后得到的最终的伤害。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "卡俄斯",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png",
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "燃烧",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            },
+            {
+              "elementName": "酸蚀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "一触即发",
+              "skillTags": "普攻 / 范围 / 破坏掩体 / 近战",
+              "skillDamage": 4,
+              "skillDesc": "选取周围半径3格内的所有敌方目标，对其造成80%攻击力的近战范围物理伤害并破坏掩体。对防御力小于等于0的目标额外造成100%该目标当前生命值的固定伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "锋面压制",
+              "skillTags": "主动 / 范围 / 增益 / 跨越地形",
+              "skillDamage": 2,
+              "skillDesc": "选取全场范围内所有敌方目标，对其造成80%攻击力的范围物理伤害，并获得狂魇。",
+              "tooltips": [
+                {
+                  "text": "狂魇",
+                  "content": "攻击额外造成50%攻击力的固定伤害，累计移动12格时移除该效果。增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "精准刺击",
+              "skillTags": "主动 / 范围 / 跨越地形",
+              "skillDamage": 5,
+              "skillDesc": "选取全场范围内所有敌方目标，对其造成120%攻击力的范围物理伤害。若卡俄斯上回合移动小于5格，造成伤害提高50%。",
+              "tooltips": []
+            },
+            {
+              "skillName": "突进矢",
+              "skillTags": "主动 / 减益",
+              "skillDamage": 5,
+              "skillDesc": "选取拥有信标锁定的敌方目标，对其造成120%攻击力的物理伤害并附加贯穿，持续2回合。攻击后若该目标当防御力小于等于0，移除其所有行动力，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "信标锁定",
+                  "content": "卡俄斯优先朝向持有此效果的目标移动，该效果至多存在1个。不可驱散。"
+                },
+                {
+                  "text": "贯穿",
+                  "content": "攻击力降低50%，防御力降低50%。减益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "刃旋",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "自身获得刻印侵蚀。使场上所有敌方单位防御力降低50%，每个大回合开始时再降低10%。",
+              "tooltips": []
+            },
+            {
+              "skillName": "扰动屏蔽",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "免疫移动类效果，移动无视敌方阻挡，行动力不会低于初始行动力。战斗开始时，对最远的1个敌方人形施加信标锁定，持续至战斗结束。拥有信标锁定的目标死亡时，对距离最远的1个敌方人形再次施加信标锁定。",
+              "tooltips": [
+                {
+                  "text": "信标锁定",
+                  "content": "卡俄斯优先朝向持有此效果的目标移动，该效果至多存在1个。不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "弃子的执着",
+              "skillTags": "被动 / 稳态恢复",
+              "skillDamage": 0,
+              "skillDesc": "受到的最终伤害降低80%。稳态指数大于0时，造成的伤害提高50%，稳态崩溃时，造成的伤害提高30%。稳态崩溃2回合后恢复全部稳态指数。",
+              "tooltips": [
+                {
+                  "text": "最终伤害",
+                  "content": "计算了增伤、减伤等所有加成之后得到的最终的伤害。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "msg": "成功"
