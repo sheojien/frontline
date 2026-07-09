@@ -854,6 +854,2432 @@
       ]
     },
     {
+      "hunterId": 3,
+      "hunterName": "壁瘤棘虫",
+      "icon": {
+        "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/03.png",
+        "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
+        "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
+        "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
+        "tip": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_TIP.png"
+      },
+      "hunterDesc": "寄生虫融合软体动物形成的伯介姆，外表被坚硬的躯壳所覆盖，某些身体部位会分化出独立的个体协助母体扩张领地，“一人成军”的典范。",
+      "hunterFeature": [
+        {
+          "title": "深度屏蔽",
+          "desc": "不会受到眩晕，嘲讽等控制效果、指令禁止效果以及僵冷的影响"
+        },
+        {
+          "title": "范围攻击",
+          "desc": "对指定范围内的敌方单位造成无视掩体的群体伤害"
+        },
+        {
+          "title": "增援",
+          "desc": "可呼叫不同的辅助单位进入战场，协助作战"
+        }
+      ],
+      "condition": [
+        { "title": "完成壁瘤棘虫挑战一次" },
+        { "title": "阶段一击杀壁瘤棘虫1次" },
+        { "title": "阶段二击杀壁瘤棘虫1次" },
+        { "title": "阶段三同时击杀壁瘤棘虫·疫和壁瘤棘虫·疾1次" },
+        { "title": "三个阶段每阶段均至少击杀2个壁瘤或根瘤" },
+        { "title": "完成壁瘤棘虫所有挑战" }
+      ],
+      "abstract": [],
+      "teams": [],
+      "monster": [
+        {
+          "monsterName": "壁瘤棘虫",
+          "monsterLevel": 55,
+          "monsterWeakness": [
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "刀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Melee_Weakpoint.png"
+            },
+            {
+              "elementName": "酸蚀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "裂刺飞击",
+              "skillTags": "普攻 / 精准 / 减益",
+              "skillDamage": 8,
+              "skillDesc": "选取最近的1个敌方目标，对其造成130%攻击力的物理伤害。若该目标稳态指数小于6，则对其施加眩晕，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "眩晕",
+                  "content": "无法行动"
+                }
+              ]
+            },
+            {
+              "skillName": "凋零滩涂",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 6,
+              "skillDesc": "选取本回合首个行动的敌方目标，对其及其周围3x3格内的所有敌方目标造成80%攻击力的范围酸蚀伤害，并产生腐沼，持续3回合。若敌方目标稳态指数小于6，则对其施加眩晕，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "腐沼",
+                  "content": "对行动结束后停留在区域上的敌方单位造成施加者20%攻击力的固定伤害。对区域上的敌方单位附加酸蚀弱点。每2回合开始时腐沼会朝各方向扩散1格，酸蚀类地格。"
+                }
+              ]
+            },
+            {
+              "skillName": "锐刺",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "选取全场范围内所有敌方目标，造成60%攻击力的范围酸蚀伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "感染扩散",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "受到的范围伤害提升50%;自身稳态指数大于0时，受到的精准伤害降低80%。",
+              "tooltips": []
+            },
+            {
+              "skillName": "棘瘤联体",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "回合结束时，场上若有蚰棘或壁瘤存活，则自身获得1层壁壳更生;回合结束时，场上若无蚰棘和壁瘤存活，所有敌方单位获得1层壁壳借夺。",
+              "tooltips": [
+                {
+                  "text": "蚰棘",
+                  "content": "回合结束时会恢复自身生命值。"
+                },
+                {
+                  "text": "壁瘤",
+                  "content": "周期性地为全体友方单位提供护盾，请尝试优先击杀。"
+                },
+                {
+                  "text": "壁壳更生",
+                  "content": "防御力提高50%，最多叠加4层。增益不可驱散。"
+                },
+                {
+                  "text": "壁壳借夺",
+                  "content": "防御力提高10%，至多叠加4层。增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "虫体分解",
+              "skillTags": "被动 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "回合开始时，在自身附近召唤3只蚰棘;每间隔1回合，额外召唤1只壁瘤。",
+              "tooltips": [
+                {
+                  "text": "蚰棘",
+                  "content": "回合结束时会恢复自身生命值。"
+                },
+                {
+                  "text": "壁瘤",
+                  "content": "周期性地为全体友方单位提供护盾，请尝试优先击杀。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "壁瘤棘虫",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "燃烧",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png"
+            },
+            {
+              "elementName": "酸蚀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "裂刺飞击",
+              "skillTags": "普攻 / 精准 / 减益",
+              "skillDamage": 4,
+              "skillDesc": "选取最近的1个敌方目标，对其造成130%攻击力的物理伤害。若该目标当前生命值小于等于50%，则对其施加逃避，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "逃避",
+                  "content": "无法操控，主动向状态施加者远离，施加者死亡时消除。"
+                }
+              ]
+            },
+            {
+              "skillName": "长刺透射",
+              "skillTags": "主动 / 精准 / 减益",
+              "skillDamage": 4,
+              "skillDesc": "选取最远的1个敌方目标，对其造成130%攻击力的物理伤害。若该目标当前生命值小于等于50%，则对其施加逃避，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "逃避",
+                  "content": "无法操控，主动向状态施加者远离，施加者死亡时消除。"
+                }
+              ]
+            },
+            {
+              "skillName": "酸蚀泥沼",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "选取最近的1个敌方目标，对其及其周围3x3格内的所有敌方目标造成80%攻击力的范围酸蚀伤害，并产生腐沼，持续3回合。",
+              "tooltips": [
+                {
+                  "text": "腐沼",
+                  "content": "对行动结束后停留在区域上的敌方单位造成施加者20%攻击力的固定伤害。对区域上的敌方单位附加酸蚀弱点。每2回合开始时腐沼会朝各方向扩散1格，酸蚀类地格。"
+                }
+              ]
+            },
+            {
+              "skillName": "毒触鞭挞",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "选择周围半径6格范围内所有敌方目标，造成60%攻击力的范围酸蚀伤害，并在该目标位置留下腐沼，持续3回合。",
+              "tooltips": [
+                {
+                  "text": "腐沼",
+                  "content": "对行动结束后停留在区域上的敌方单位造成施加者20%攻击力的固定伤害。对区域上的敌方单位附加酸蚀弱点。每2回合开始时腐沼会朝各方向扩散1格，酸蚀类地格。"
+                }
+              ]
+            },
+            {
+              "skillName": "剧毒天性",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "回合内若有技能未造成伤害，获得茶毒。受到的范围伤害提升50%;自身稳态指数大于0时，受到的精准伤害降低80%。",
+              "tooltips": [
+                {
+                  "text": "荼毒",
+                  "content": "造成伤害时附加自身30%攻击力的固定伤害。增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "虫体分解",
+              "skillTags": "被动 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "回合开始时，在自身附近召唤3只蛇棘;每间隔1回合，额外召唤1只根瘤。",
+              "tooltips": [
+                {
+                  "text": "蛇棘",
+                  "content": "回合结束时会分裂出另一只蛇棘。"
+                },
+                {
+                  "text": "根瘤",
+                  "content": "周期性地对全体敌方单位造成伤害，请尝试优先击杀。"
+                }
+              ]
+            },
+            {
+              "skillName": "棘瘤联体",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "回合结束时，场上若有蛇棘或根瘤存活，则自身获得1层毒棘更生;回合结束时，场上若无蛇棘和根瘤存活，所有敌方单位获得1层毒棘借夺。",
+              "tooltips": [
+                {
+                  "text": "蛇棘",
+                  "content": "回合结束时会分裂出另一只蛇棘。"
+                },
+                {
+                  "text": "根瘤",
+                  "content": "周期性地对全体敌方单位造成伤害，请尝试优先击杀。"
+                },
+                {
+                  "text": "毒棘更生",
+                  "content": "攻击力提高30%，至多叠加4层。增益不可驱散。"
+                },
+                {
+                  "text": "毒棘借夺",
+                  "content": "攻击力提高5%，至多叠加4层。增益不可驱散。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "壁瘤棘虫",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "刀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Melee_Weakpoint.png"
+            },
+            {
+              "elementName": "燃烧",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            },
+            {
+              "elementName": "酸蚀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "裂刺飞击",
+              "skillTags": "普攻 / 精准 / 减益",
+              "skillDamage": 8,
+              "skillDesc": "选取最近的1个敌方目标，对其造成130%攻击力的物理伤害。若该目标当前生命值小于等于50%，则对其施加逃避，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "逃避",
+                  "content": "无法操控，主动向状态施加者远离，施加者死亡时消除。"
+                }
+              ]
+            },
+            {
+              "skillName": "长刺透射",
+              "skillTags": "主动 / 精准 / 减益",
+              "skillDamage": 8,
+              "skillDesc": "选取最远的1个敌方目标，对其造成130%攻击力的物理伤害。若该目标当前生命值小于等于50%，则对其施加逃避，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "逃避",
+                  "content": "无法操控，主动向状态施加者远离，施加者死亡时消除。"
+                }
+              ]
+            },
+            {
+              "skillName": "凋零滩涂",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 6,
+              "skillDesc": "选取本回合首个行动的敌方目标，对其及其周围3x3格内的所有敌方目标造成80%攻击力的范围酸蚀伤害，并产生腐沼，持续3回合。若敌方目标稳态指数小于6，则对其施加眩晕，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "腐沼",
+                  "content": "对行动结束后停留在区域上的敌方单位造成施加者20%攻击力的固定伤害。对区域上的敌方单位附加酸蚀弱点。每2回合开始时腐沼会朝各方向扩散1格，酸蚀类地格。"
+                },
+                {
+                  "text": "眩晕",
+                  "content": "无法行动"
+                }
+              ]
+            },
+            {
+              "skillName": "锐刺",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "选取全场范围内所有敌方目标，造成60%攻击力的范围酸蚀伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "酸蚀泥沼",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "选取最近的1个敌方目标，对其及其周围3x3格内的所有敌方目标造成80%攻击力的范围酸蚀伤害，并产生腐沼，持续3回合。",
+              "tooltips": [
+                {
+                  "text": "腐沼",
+                  "content": "对行动结束后停留在区域上的敌方单位造成施加者20%攻击力的固定伤害。对区域上的敌方单位附加酸蚀弱点。每2回合开始时腐沼会朝各方向扩散1格，酸蚀类地格。"
+                }
+              ]
+            },
+            {
+              "skillName": "毒触鞭挞",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "选择周围半径6格范围内所有敌方目标，造成60%攻击力的范围酸蚀伤害，并在该目标位置留下腐沼，持续3回合。",
+              "tooltips": [
+                {
+                  "text": "腐沼",
+                  "content": "对行动结束后停留在区域上的敌方单位造成施加者20%攻击力的固定伤害。对区域上的敌方单位附加酸蚀弱点。每2回合开始时腐沼会朝各方向扩散1格，酸蚀类地格。"
+                }
+              ]
+            },
+            {
+              "skillName": "感染扩散",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "受到的范围伤害提升50%;自身稳态指数大于0时，受到的精准伤害降低80%。",
+              "tooltips": []
+            },
+            {
+              "skillName": "虫体分解",
+              "skillTags": "被动 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "回合开始时，在自身附近召唤2只蛇棘;每间隔1回合，额外召唤1只根瘤。",
+              "tooltips": [
+                {
+                  "text": "蛇棘",
+                  "content": "回合结束时会分裂出另一只蛇棘。"
+                },
+                {
+                  "text": "根瘤",
+                  "content": "周期性地对全体敌方单位造成伤害，请尝试优先击杀。"
+                }
+              ]
+            },
+            {
+              "skillName": "虫体分解",
+              "skillTags": "被动 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "回合开始时，在自身附近召唤2只蚰棘;每间隔1回合，额外召唤1只壁瘤。",
+              "tooltips": [
+                {
+                  "text": "蚰棘",
+                  "content": "回合结束时会恢复自身生命值。"
+                },
+                {
+                  "text": "壁瘤",
+                  "content": "周期性地为全体友方单位提供护盾，请尝试优先击杀。"
+                }
+              ]
+            },
+            {
+              "skillName": "剧毒天性",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "回合内若有技能未造成伤害，获得茶毒。受到的范围伤害提升50%;自身稳态指数大于0时，受到的精准伤害降低80%。",
+              "tooltips": [
+                {
+                  "text": "荼毒",
+                  "content": "造成伤害时附加自身30%攻击力的固定伤害。增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "修复性调节",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "我方回合开始时，若壁瘤棘虫·疾死亡，则自身获得修复性调节;若有蚰棘存活，则对所有敌方单位施加盲视，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "修复性调节",
+                  "content": "受到的伤害降低80%造成的伤害提升30%，获得自身最大生命值15%的护盾，造成的稳态伤害提高4点，不可驱散。"
+                },
+                {
+                  "text": "盲视",
+                  "content": "攻击力降低50%受到的治疗效果降低50%，减益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "修复性调节",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "我方回合开始时，若壁瘤棘虫·疫死亡，则自身获得修复性调节;若有蛇棘存活，则对所有敌方单位施加压制，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "修复性调节",
+                  "content": "受到的伤害降低80%造成的伤害提升30%，获得自身最大生命值15%的护盾，造成的稳态伤害提高4点，不可驱散。"
+                },
+                {
+                  "text": "压制",
+                  "content": "防御力降低50%受到稳态伤害提高5点，减益不可驱散。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hunterId": 4,
+      "hunterName": "蓝雪球",
+      "icon": {
+        "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/04.png",
+        "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
+        "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
+        "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
+        "tip": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_TIP.png"
+      },
+      "hunterDesc": "不知因何而呈现出残破与怪异身形的人形。烧伤痕迹和骼也无所顾忌地裸露在外。但与张扬且骇人的造型不狰狞的伤口，在她破损的仿生皮肤中若隐若现，金属骨同，她无比沉稳冷静，那张冷淡的脸似乎永远不会变换表情",
+      "hunterFeature": [
+        {
+          "title": "效果残留",
+          "desc": "会产生各种效果地格"
+        },
+        {
+          "title": "深度屏蔽",
+          "desc": "不会受到眩晕，嘲讽等控制效果、指令禁止效果以及僵冷的影响"
+        },
+        {
+          "title": "大型目标",
+          "desc": "体型巨大，不会受到掩体保护"
+        }
+      ],
+      "condition": [
+        { "title": "完成蓝雪球挑战一次" },
+        { "title": "阶段一断骸被冽风驱逐命中次数不大于8次并击杀蓝雪球1次" },
+        { "title": "阶段二断骸被冽风驱逐命中次数不大于5次并击杀蓝雪球1次" },
+        { "title": "阶段三断骸不被冽风驱逐命中并击杀蓝雪球1次" },
+        { "title": "三个阶段每阶段断骸均不被冽风驱逐命中并击杀蓝雪球1次" },
+        { "title": "完成蓝雪球所有挑战" }
+      ],
+      "abstract": [],
+      "teams": [],
+      "monster": [
+        {
+          "monsterName": "蓝雪球",
+          "monsterLevel": 55,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "酸蚀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "霜葬",
+              "skillTags": "普攻 / 精准 / 减益",
+              "skillDamage": 1,
+              "skillDesc": "选取最远的1个敌方目标，对其造成150%攻击力的冷凝伤害施加凝固，持续2回合。并在该目标周围半径1格内产生霜冻地格。",
+              "tooltips": [
+                {
+                  "text": "凝固",
+                  "content": "行动力降低1格;行动结束时若拥有2层凝固，则转化为僵冷，持续1回合；至多叠加2层。冷凝类移动减益"
+                },
+                {
+                  "text": "僵冷",
+                  "content": "无法移动、无法主动位移。冷凝类移动减益"
+                }
+              ]
+            },
+            {
+              "skillName": "坚冰散射",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 3,
+              "skillDesc": "对全场范围内所有敌方目标，造成60%攻击力的范围物理伤害，并施加攻击降低Ⅰ，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "攻击降低Ⅰ",
+                  "content": "攻击力降低10%，减益效果"
+                }
+              ]
+            },
+            {
+              "skillName": "断骨留骸",
+              "skillTags": "主动 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "在多个定点位置召唤蓝雪球·断骸，本回合内该断骸不会立刻行动。",
+              "tooltips": []
+            },
+            {
+              "skillName": "冽风驱逐",
+              "skillTags": "主动 / 范围 / 位移",
+              "skillDamage": 0,
+              "skillDesc": "从四方向中，选取半场内单位数量最多的方向，对该方向半场范围内每条直线上的第一个目标造成100%攻击力的物理伤害并击退4格。若命中蓝雪球·断骸，则击杀该断骸。",
+              "tooltips": []
+            },
+            {
+              "skillName": "雪崩",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "自身稳态指数大于0时，受到伤害降低80%。稳态崩溃时，获得心智激化;对停留在霜冻地格上的敌方单位造成30%攻击力的固定伤害，并在自身周围5x5格内产生霜冻地格。稳态崩溃期间无法受到稳态恢复的效果;稳态崩溃2回合后恢复全部稳态指数。",
+              "tooltips": [
+                {
+                  "text": "心智激化",
+                  "content": "造成伤害提升30%，受到伤害提升50%。不可驱散"
+                },
+                {
+                  "text": "霜冻",
+                  "content": "对行动结束后停留在区域上的敌方单位施加凝固，持续2回合。对区域上的敌方单位附加冷凝弱点，冷凝类地格"
+                },
+                {
+                  "text": "凝固",
+                  "content": "行动力降低1格;行动结束时若拥有2层凝固，则转化为僵冷，持续1回合；至多叠加2层。冷凝类移动减益"
+                },
+                {
+                  "text": "僵冷",
+                  "content": "无法移动、无法主动位移。冷凝类移动减益"
+                }
+              ]
+            },
+            {
+              "skillName": "凛风回旋",
+              "skillTags": "被动 / 精准",
+              "skillDamage": 0,
+              "skillDesc": "受到周围半径6格外的主动技能攻击时，使用霜葬技能进行反击。",
+              "tooltips": []
+            },
+            {
+              "skillName": "极地法则",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "自身受到的稳态伤害降低1点。对拥有冷凝类减益的目标，造成伤害提高10%，造成的稳态伤害提高1点。",
+              "tooltips": []
+            }
+          ]
+        },
+        {
+          "monsterName": "蓝雪球",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "电导",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png"
+            },
+            {
+              "elementName": "酸蚀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "霜葬",
+              "skillTags": "普攻 / 精准 / 减益",
+              "skillDamage": 1,
+              "skillDesc": "选取最远的1个敌方目标，对其造成150%攻击力的冷凝伤害施加凝固，持续2回合。并在该目标周围半径1格内产生霜冻地格。",
+              "tooltips": [
+                {
+                  "text": "凝固",
+                  "content": "行动力降低1格;行动结束时若拥有2层凝固，则转化为僵冷，持续1回合；至多叠加2层。冷凝类移动减益"
+                },
+                {
+                  "text": "僵冷",
+                  "content": "无法移动、无法主动位移。冷凝类移动减益"
+                }
+              ]
+            },
+            {
+              "skillName": "坚冰散射",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 3,
+              "skillDesc": "对全场范围内所有敌方目标，造成60%攻击力的范围物理伤害并施加攻击降低，持续2回合。若该目标当前稳态指数小于等于1点，则额外造成60%攻击力的物理伤害。",
+              "tooltips": [
+                {
+                  "text": "攻击降低Ⅰ",
+                  "content": "攻击力降低10%，减益效果"
+                }
+              ]
+            },
+            {
+              "skillName": "断骨留骸",
+              "skillTags": "主动 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "在多个定点位置召唤蓝雪球·断骸，本回合内该断骸不会立刻行动。",
+              "tooltips": []
+            },
+            {
+              "skillName": "冽风驱逐",
+              "skillTags": "主动 / 范围 / 位移",
+              "skillDamage": 0,
+              "skillDesc": "从四方向中，选取半场内单位数量最多的方向，对该方向半场范围内每条直线上的第一个目标造成100%攻击力的物理伤害并击退4格。若命中蓝雪球·断骸，则击杀该断骸。",
+              "tooltips": []
+            },
+            {
+              "skillName": "雪崩",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "自身稳态指数大于0时，受到伤害降低80%。稳态崩溃时，获得心智激化;对停留在霜冻地格上的敌方单位造成30%攻击力的固定伤害，并在自身周围5x5格内产生霜冻地格。稳态崩溃期间无法受到稳态恢复的效果;稳态崩溃2回合后恢复全部稳态指数。",
+              "tooltips": [
+                {
+                  "text": "心智激化",
+                  "content": "造成伤害提升30%，受到伤害提升50%。不可驱散"
+                },
+                {
+                  "text": "霜冻",
+                  "content": "对行动结束后停留在区域上的敌方单位施加凝固，持续2回合。对区域上的敌方单位附加冷凝弱点，冷凝类地格"
+                },
+                {
+                  "text": "凝固",
+                  "content": "行动力降低1格;行动结束时若拥有2层凝固，则转化为僵冷，持续1回合；至多叠加2层。冷凝类移动减益"
+                },
+                {
+                  "text": "僵冷",
+                  "content": "无法移动、无法主动位移。冷凝类移动减益"
+                }
+              ]
+            },
+            {
+              "skillName": "凛风回旋",
+              "skillTags": "被动 / 精准",
+              "skillDamage": 0,
+              "skillDesc": "受到周围半径6格外的主动技能攻击时，使用霜葬技能进行反击。",
+              "tooltips": []
+            },
+            {
+              "skillName": "极地法则",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "自身受到的稳态伤害降低1点。对拥有冷凝类减益的目标，造成伤害提高10%，造成的稳态伤害提高2点。攻击时，若敌方目标拥有的减益效果数量大于等于2个，则对其施加僵冷。",
+              "tooltips": [
+                {
+                  "text": "僵冷",
+                  "content": "无法移动、无法主动位移。冷凝类移动减益"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "蓝雪球",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "燃烧",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png"
+            },
+            {
+              "elementName": "电导",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "霜葬",
+              "skillTags": "普攻 / 精准 / 减益",
+              "skillDamage": 1,
+              "skillDesc": "选取最远的1个敌方目标，对其造成150%攻击力的冷凝伤害施加凝固，持续2回合。并在该目标周围半径1格内产生霜冻地格。",
+              "tooltips": [
+                {
+                  "text": "凝固",
+                  "content": "行动力降低1格;行动结束时若拥有2层凝固，则转化为僵冷，持续1回合；至多叠加2层。冷凝类移动减益"
+                },
+                {
+                  "text": "僵冷",
+                  "content": "无法移动、无法主动位移。冷凝类移动减益"
+                }
+              ]
+            },
+            {
+              "skillName": "坚冰散射",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 3,
+              "skillDesc": "对全场范围内所有敌方目标，造成60%攻击力的范围物理伤害并施加攻击降低Ⅲ，持续2回合。若该目标当前稳态指数小于等于1点，则额外造成60%攻击力的物理伤害。",
+              "tooltips": [
+                {
+                  "text": "攻击降低Ⅲ",
+                  "content": "攻击力降低20%，减益效果"
+                }
+              ]
+            },
+            {
+              "skillName": "断骨留骸",
+              "skillTags": "主动 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "在多个定点位置召唤蓝雪球·断骸，本回合内该断骸不会立刻行动。",
+              "tooltips": []
+            },
+            {
+              "skillName": "冽风驱逐",
+              "skillTags": "主动 / 范围 / 位移",
+              "skillDamage": 0,
+              "skillDesc": "从四方向中，选取半场内单位数量最多的方向，对该方向半场范围内每条直线上的第一个目标造成100%攻击力的物理伤害并击退4格。若命中蓝雪球·断骸，则击杀该断骸。",
+              "tooltips": []
+            },
+            {
+              "skillName": "雪崩",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "自身稳态指数大于0时，受到伤害降低80%。稳态崩溃时，获得心智激化;对停留在霜冻地格上的敌方单位造成30%攻击力的固定伤害，并在自身周围5x5格内产生霜冻地格。稳态崩溃期间无法受到稳态恢复的效果;稳态崩溃2回合后恢复全部稳态指数。",
+              "tooltips": [
+                {
+                  "text": "心智激化",
+                  "content": "造成伤害提升30%，受到伤害提升50%。不可驱散"
+                },
+                {
+                  "text": "霜冻",
+                  "content": "对行动结束后停留在区域上的敌方单位施加凝固，持续2回合。对区域上的敌方单位附加冷凝弱点，冷凝类地格"
+                },
+                {
+                  "text": "凝固",
+                  "content": "行动力降低1格;行动结束时若拥有2层凝固，则转化为僵冷，持续1回合；至多叠加2层。冷凝类移动减益"
+                },
+                {
+                  "text": "僵冷",
+                  "content": "无法移动、无法主动位移。冷凝类移动减益"
+                }
+              ]
+            },
+            {
+              "skillName": "凛风回旋",
+              "skillTags": "被动 / 精准",
+              "skillDamage": 0,
+              "skillDesc": "受到周围半径6格外的主动技能攻击时，使用霜葬技能进行反击。",
+              "tooltips": []
+            },
+            {
+              "skillName": "极地法则",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "自身受到的稳态伤害降低2点。回合开始时驱散自身2个减益效果。对拥有冷凝类减益的目标，造成伤害提高10%，造成的稳态伤害提高2点。攻击时，若敌方目标拥有的减益效果数量大于等于2个，则对其施加僵冷。",
+              "tooltips": [
+                {
+                  "text": "僵冷",
+                  "content": "无法移动、无法主动位移。冷凝类移动减益"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hunterId": 5,
+      "hunterName": "羊头恐蜥",
+      "icon": {
+        "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/05.png",
+        "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
+        "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
+        "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
+        "tip": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_TIP.png"
+      },
+      "hunterDesc": "进行了多次物种融合形成的伯介姆，躯体庞大，表面覆盖着某种坚硬的鳞甲。广阔的视域让它极为敏锐，既可以用粗壮的前肢攻击敌人，也可以将含有毒素的口水向四面八方扫射，无论距离远近，都十分难以对付。",
+      "hunterFeature": [
+        {
+          "title": "深度屏蔽",
+          "desc": "不会受到眩晕，嘲讽等控制效果、指令禁止效果以及僵冷的影响"
+        },
+        {
+          "title": "大型目标",
+          "desc": "体型巨大，不会受到掩体保护"
+        }
+      ],
+      "condition": [
+        { "title": "完成羊头恐蜥挑战一次" },
+        { "title": "阶段一使羊头恐蜥获得30层战栗并击杀羊头恐蜥1次" },
+        { "title": "阶段二使羊头恐蜥获得缓神并击杀羊头恐蜥1次" },
+        { "title": "两个阶段每阶段均在10回合内击杀羊头恐蜥1次" },
+        { "title": "两个阶段每阶段均无人形损毁并击杀羊头恐蜥1次" },
+        { "title": "完成羊头恐蜥所有挑战" }
+      ],
+      "abstract": [],
+      "teams": [],
+      "monster": [
+        {
+          "monsterName": "羊头恐蜥",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "刀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Melee_Weakpoint.png"
+            },
+            {
+              "elementName": "燃烧",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "粘液冲击",
+              "skillTags": "普攻 / 精准",
+              "skillDamage": 8,
+              "skillDesc": "选取最近的1个敌方目标，对其造成80%攻击力的物理伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "晶体进射",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 6,
+              "skillDesc": "选取本回合最后行动的敌方目标，对其及其半径3格内的所有敌方目标造成120%攻击力的范围物理伤害;若攻击前目标稳态指数小于6点，则施加移动失效，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "移动失效",
+                  "content": "无法移动"
+                }
+              ]
+            },
+            {
+              "skillName": "狂躁冲撞",
+              "skillTags": "主动 / 近战 / 击退",
+              "skillDamage": 3,
+              "skillDesc": "选取自身周围半径4格内的1个敌方目标，对其造成100%攻击力的近战伤害，并将目标击退1格;若攻击后目标稳态崩溃，则额外造成60%攻击力的固定伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "黏液倾泻",
+              "skillTags": "主动 / 范围 / 地格",
+              "skillDamage": 5,
+              "skillDesc": "选取全场范围内所有敌方目标，对其造成80%攻击力的范围酸蚀伤害，并产生3x3格范围的黏液地格，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "黏液",
+                  "content": "对区域上的敌方单位附加酸蚀弱点。停留在黏液地格上的敌方单位造成的伤害降低30%;停留在黏液上的羊头恐蜥受到的伤害提高40%。"
+                }
+              ]
+            },
+            {
+              "skillName": "横冲直撞",
+              "skillTags": "主动 / 范围 / 掩体破坏 / 增益",
+              "skillDamage": 5,
+              "skillDesc": "选取1个方向进行冲锋，冲锋停止时对前方3x3格内的所有敌方单位造成150%攻击力的物理伤害，并破坏可破坏掩体。若由于掩体阻挡停止冲锋，则获得10层战栗;若无掩体阻挡，则造成伤害后自身获得攻击提升Ⅲ，持续3回合。",
+              "tooltips": [
+                {
+                  "text": "战栗",
+                  "content": "防御力降低1%，不可驱散。"
+                },
+                {
+                  "text": "攻击提升Ⅲ",
+                  "content": "攻击力提高20%。增益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "环状警戒",
+              "skillTags": "被动 / 反击 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "受到自身周围半径4格内的主动技能伤害时，使用粘液冲击技能进行反击;自身回合开始时，获得2个随机强力增益，持续2回合。自身回合结束时，攻击力提升20%。",
+              "tooltips": []
+            },
+            {
+              "skillName": "临危战栗",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "受到精准伤害后为自身附加1层战栗，稳态崩溃时附加5层战栗，稳态崩溃1回合后恢复全部稳态指数。自身行动力不会受到移动类效果影响。因受到精准伤害而获得战栗时，每获得10次战栗，自身攻击力降低10%，扣除自身最大生命值的2%;当战栗叠加至30层时，受到的回合外伤害提升50%;当战栗叠加至60层，永久移除硬质护鳞。",
+              "tooltips": [
+                {
+                  "text": "硬质护鳞",
+                  "content": "不会受到普通攻击和技能造成的伤害，受到2次普通攻击或技能攻击后解除，增益不可驱散。"
+                },
+                {
+                  "text": "战栗",
+                  "content": "防御力降低1%，不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "再生鳞甲",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "回合开始时获得硬质护鳞，战斗开始时获得外壳加固，最大生命值首次小于50%时获得求生。",
+              "tooltips": [
+                {
+                  "text": "硬质护鳞",
+                  "content": "不会受到普通攻击和技能造成的伤害，受到2次普通攻击或技能攻击后解除，增益不可驱散。"
+                },
+                {
+                  "text": "外壳加固",
+                  "content": "受到伤害降低100%，防御力提升150%，增益不可驱散。"
+                },
+                {
+                  "text": "求生",
+                  "content": "获得最大生命值50%的护盾，持有护盾时造成伤害提升50%，增益不可驱散。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "羊头恐蜥",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "电导",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "粘液冲击",
+              "skillTags": "普攻 / 精准",
+              "skillDamage": 5,
+              "skillDesc": "选取最近的1个敌方目标，对其及其周围半径3格内的所有敌方单位造成80%攻击力的范围物理伤害，并生成黏液地格，持续3回合",
+              "tooltips": [
+                {
+                  "text": "黏液",
+                  "content": "对区域上的敌方单位附加酸蚀弱点。停留在黏液地格上的敌方单位造成的伤害降低30%;停留在黏液上的羊头恐蜥受到的伤害提高40%。"
+                }
+              ]
+            },
+            {
+              "skillName": "晶体进射",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 3,
+              "skillDesc": "选取本回合最后行动的敌方目标，对其及其半径3格内的所有敌方目标造成120%攻击力的范围物理伤害;若攻击前目标稳态指数小于6点，则施加移动失效，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "移动失效",
+                  "content": "无法移动"
+                }
+              ]
+            },
+            {
+              "skillName": "气息标记",
+              "skillTags": "主动 / 范围 / 减益 / 地格",
+              "skillDamage": 3,
+              "skillDesc": "选取自身周围半径4格范围外的所有敌方单位，对其造成120%攻击力的范围酸蚀伤害，施加盲视和压制，并产生3x3格范围的黏液地格，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "盲视",
+                  "content": "攻击力降低50%受到的治疗效果降低50%，减益不可驱散。"
+                },
+                {
+                  "text": "压制",
+                  "content": "防御力降低50%受到稳态伤害提高5点，减益不可驱散。"
+                },
+                {
+                  "text": "黏液",
+                  "content": "对区域上的敌方单位附加酸蚀弱点。停留在黏液地格上的敌方单位造成的伤害降低30%;停留在黏液上的羊头恐蜥受到的伤害提高40%。"
+                }
+              ]
+            },
+            {
+              "skillName": "黏液倾泻",
+              "skillTags": "主动 / 范围 / 地格",
+              "skillDamage": 5,
+              "skillDesc": "选取全场范围内所有敌方目标，对其造成80%攻击力的范围酸蚀伤害，并产生3x3格范围的黏液地格，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "黏液",
+                  "content": "对区域上的敌方单位附加酸蚀弱点。停留在黏液地格上的敌方单位造成的伤害降低30%;停留在黏液上的羊头恐蜥受到的伤害提高40%。"
+                }
+              ]
+            },
+            {
+              "skillName": "横冲直撞",
+              "skillTags": "主动 / 掩体破坏 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "随机选择1个方向进行预警，下回合开始时驱散自身所有减益效果并朝此方向发起冲锋，冲锋停止时对前方3x3格内的敌方单位造成250%攻击力的物理伤害，并破坏可破坏掩体。若由于掩体阻挡停止冲锋，则获得破坏心理，持续2回合;若无掩体阻挡，则造成伤害后自身获得缓神，持续3回合;若未造成伤害，则额外发动一次攻击，对所有单位造成500%攻击力的范围酸蚀伤害;",
+              "tooltips": [
+                {
+                  "text": "破坏心理",
+                  "content": "攻击力提高20%，造成伤害提升20%，受到稳态伤害降低2点增益不可驱散。"
+                },
+                {
+                  "text": "缓神",
+                  "content": "防御力降低60%受到伤害提高50%，减益可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "族群召唤",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "场上若有友方单位存活，则自身获得族群感应，友方单位全部死亡时移除该效果。每有1个友方单位死亡，扣除自身最大生命值的6%，",
+              "tooltips": []
+            },
+            {
+              "skillName": "急性应激",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "受到伤害降低100%，防御力提升100%;稳态崩溃期间，防御力降低50%，稳态崩溃2回合后恢复全部稳态指数。自身行动力不会受到移动类效果影响。",
+              "tooltips": []
+            },
+            {
+              "skillName": "感官聚焦",
+              "skillTags": "被动 / 反击 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "若范围伤害类主动技能命中的敌方单位少于2个，则自身获得1层专注;若受到非克制主动攻击，则释放1次黏液倾泻。",
+              "tooltips": [
+                {
+                  "text": "专注",
+                  "content": "造成伤害提高25%最高叠加至4层，增益不可驱散。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hunterId": 6,
+      "hunterName": "诡异人形",
+      "icon": {
+        "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/06.png",
+        "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
+        "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
+        "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
+        "tip": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_TIP.png"
+      },
+      "hunterDesc": "一个徘徊在空旷废墟旧址的幽灵，似乎在守护着什么、等待着什么、抗拒着什么。",
+      "hunterFeature": [
+        {
+          "title": "深度屏蔽",
+          "desc": "不会受到眩晕，嘲讽等控制效果、指令禁止效果以及僵冷的影响"
+        }
+      ],
+      "condition": [
+        { "title": "完成诡异人形挑战一次" },
+        { "title": "阶段一不受到全域镇压伤害并击杀诡异人形1次" },
+        { "title": "阶段二诡异人形的生命值总回复量不大于70000井击杀诡异人形1次" },
+        { "title": "两个阶段每阶段均在10回合内击杀诡异人形1次" },
+        { "title": "两个阶段每阶段均无人形损毁并击杀诡异人形1次" },
+        { "title": "完成诡异人形所有挑战" }
+      ],
+      "abstract": [],
+      "teams": [],
+      "monster": [
+        {
+          "monsterName": "诡异人形",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "燃烧",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "腐朽诡刺",
+              "skillTags": "普攻 / 精准",
+              "skillDamage": 2,
+              "skillDesc": "选取周围3x3格内的1个敌方目标，对其造成80%攻击力的近战物理伤害，并附加移动降低Ⅱ，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "移动降低Ⅱ",
+                  "content": "行动力降低2格。移动类减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "幽魂审判",
+              "skillTags": "主动 / 位移 / 范围",
+              "skillDamage": 2,
+              "skillDesc": "选取距离自身最远的敌方目标，瞬移到该目标周围最近的格子上，对自身周围半径3格内所有敌方目标造成80%攻击力的无视掩体的范围物理伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "诡影降临",
+              "skillTags": "主动 / 位移 / 范围",
+              "skillDamage": 2,
+              "skillDesc": "选取最大生命值最高的敌方目标，瞬移到该目标周围最近的格子上，对自身周围半径3格内所有敌方目标造成180%攻击力的范围物理伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "全域镇压",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "诡异人形和骸影进入预警状态，被动技能异面招引失效。下回合开始时，对全场内与自身处于同一平面的所有敌方目标造成200%攻击力的范围物理伤害。诡异人形解除预警状态后，被动技能异面招引生效。",
+              "tooltips": []
+            },
+            {
+              "skillName": "无所定形",
+              "skillTags": "主动 / 截击",
+              "skillDamage": 0,
+              "skillDesc": "自身进入隐身状态，无法被选中，持续到下回合行动开始或被范围技能攻击后解除。若敌方移动中途经诡异人形3x3格范围内，则诡异人形使用腐朽诡刺发起一次截击，并中止其行动，随后解除隐身。若在敌方回合未使自身解除隐形，则己方回合开始时，诡异人形对当前生命值最高的敌方目标造成其99%当前生命值的固定伤害。",
+              "tooltips": [
+                {
+                  "text": "截击",
+                  "content": "进行一次攻击，此攻击会中止目标行动。无法触发支援攻击、伏击和反击。"
+                }
+              ]
+            },
+            {
+              "skillName": "隐骸",
+              "skillTags": "主动 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "在场上随机位置创造1个骸影。骸影获得2层光学防护。若下个己方回合前骸影被击败，骸影与诡异人形不再施放全域镇压。",
+              "tooltips": [
+                {
+                  "text": "光学防护",
+                  "content": "防御力提升25%，可被攻击消耗，可被驱散。"
+                },
+                {
+                  "text": "全域镇压",
+                  "content": "下回合开始时，对全场内与自身处于同一平面的所有敌方目标造成200%攻击力的范围物理伤害。"
+                }
+              ]
+            },
+            {
+              "skillName": "幻光躯壳",
+              "skillTags": "被动 / 减伤",
+              "skillDamage": 0,
+              "skillDesc": "稳态崩溃后诡异人形自身减少15%最大生命值的生命值，2回合后恢复稳态。受到伤害降低100%，受到攻击累计20/40/60/80次后，受到伤害降低75/50/25/0%",
+              "tooltips": []
+            },
+            {
+              "skillName": "异面招引",
+              "skillTags": "被动 / 精准",
+              "skillDamage": 2,
+              "skillDesc": "受到敌方目标造成的伤害后，对其进行反击，造成25%攻击力的物理伤害，每回合至多触发2次。",
+              "tooltips": []
+            }
+          ]
+        },
+        {
+          "monsterName": "诡异人形",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "腐朽诡刺",
+              "skillTags": "普攻 / 精准",
+              "skillDamage": 2,
+              "skillDesc": "选取周围3x3格内的1个敌方目标，对其造成80%攻击力的近战物理伤害，并附加移动降低Ⅱ，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "移动降低Ⅱ",
+                  "content": "行动力降低2格。移动类减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "幽魂审判",
+              "skillTags": "主动 / 位移 / 范围",
+              "skillDamage": 2,
+              "skillDesc": "选取距离自身最远的敌方目标，瞬移到该目标周围最近的格子上，对自身周围半径3格内所有敌方目标造成80%攻击力的无视掩体的范围物理伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "诡影降临",
+              "skillTags": "主动 / 位移 / 范围",
+              "skillDamage": 2,
+              "skillDesc": "选取最大生命值最高的敌方目标，瞬移到该目标周围最近的格子上，对自身周围半径3格内所有敌方目标造成180%攻击力的范围物理伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "无所定形",
+              "skillTags": "主动 / 截击",
+              "skillDamage": 0,
+              "skillDesc": "自身进入隐身状态，无法被选中，持续到下回合行动开始或被范围技能攻击后解除。若敌方移动中途经诡异人形3x3格范围内，则诡异人形使用腐朽诡刺发起一次截击，并中止其行动，随后解除隐身。",
+              "tooltips": [
+                {
+                  "text": "截击",
+                  "content": "进行一次攻击，此攻击会中止目标行动。无法触发支援攻击、伏击和反击。"
+                }
+              ]
+            },
+            {
+              "skillName": "衍射隐骸",
+              "skillTags": "主动 / 召唤",
+              "skillDamage": 3,
+              "skillDesc": "在场上随机位置创造骸影，若下个己方回合前未被击败，诡异人形回复10%自身最大生命值的生命值。每消灭一个骸影，诡异人形减少10%自身最大生命值的生命值。累计击败4个骸影自身立即解除回溯代码，清除场上剩余骸影。",
+              "tooltips": []
+            },
+            {
+              "skillName": "异面招引",
+              "skillTags": "被动 / 精准",
+              "skillDamage": 2,
+              "skillDesc": "受到敌方目标造成的伤害后，对其进行反击，造成25%攻击力的物理伤害，每回合至多触发2次。",
+              "tooltips": []
+            },
+            {
+              "skillName": "回溯代码",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "受到伤害降低90%。回合开始时，恢复自身8%最大生命值的生命值。",
+              "tooltips": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hunterId": 7,
+      "hunterName": "纵火者",
+      "icon": {
+        "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/07.png",
+        "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
+        "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
+        "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
+        "tip": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_TIP.png"
+      },
+      "hunterDesc": "以杀戮为乐的纵火者，在瓦良格帮内都鲜少有同伴愿意靠近他们。焚烧一切的火焰，将一切都拒之于外。",
+      "hunterFeature": [
+        {
+          "title": "效果残留",
+          "desc": "会产生各种效果的地格"
+        },
+        {
+          "title": "深度屏蔽",
+          "desc": "不会受到眩晕，嘲讽等控制效果、指令禁止效果以及僵冷的影响"
+        }
+      ],
+      "condition": [
+        { "title": "完成诡异人形挑战一次" },
+        { "title": "阶段一不受到全域镇压伤害并击杀诡异人形1次" },
+        { "title": "阶段二诡异人形的生命值总回复量不大于70000井击杀诡异人形1次" },
+        { "title": "两个阶段每阶段均在10回合内击杀诡异人形1次" },
+        { "title": "两个阶段每阶段均无人形损毁并击杀诡异人形1次" },
+        { "title": "完成诡异人形所有挑战" }
+      ],
+      "abstract": [],
+      "teams": [],
+      "monster": [
+        {
+          "monsterName": "纵火者·炽烈",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "定点引燃Ⅰ",
+              "skillTags": "普攻 / 精准 / 减益",
+              "skillDamage": 5,
+              "skillDesc": "选择最远的1个敌方目标，对其造成120%攻击力的燃烧伤害并施加1层热力烧伤Ⅰ。",
+              "tooltips": [
+                {
+                  "text": "热力烧伤Ⅰ",
+                  "content": "获得该效果及行动结束时，自身受到施加者12%攻击力的固定伤害，至多叠加5层，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "燃烧火域",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 4,
+              "skillDesc": "选取最近的1个敌方目标所在方向，对前方5×3格范围内所有敌方目标造成无视掩体的150%攻击力的范围燃烧伤害，施加1层热力烧伤和屏蔽受损并生成储气区，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "热力烧伤Ⅰ",
+                  "content": "获得该效果及行动结束时，自身受到施加者12%攻击力的固定伤害，至多叠加5层，减益效果。"
+                },
+                {
+                  "text": "屏蔽受损",
+                  "content": "受到燃烧火域伤害提高150%。"
+                },
+                {
+                  "text": "储气区",
+                  "content": "对行动结束后停留在区域上的敌方单位施加1层热力烧伤I，持续2回合。对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                }
+              ]
+            },
+            {
+              "skillName": "焚烧殆尽Ⅰ",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "以装备为原初火源，对全场范围内所有敌方目标造成40%攻击力的范围燃烧伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "局部焚毁！",
+              "skillTags": "主动 / 精准 / 减益",
+              "skillDamage": 5,
+              "skillDesc": "选取攻击力最高的敌方目标，对其造成120%攻击力的燃烧伤害并施加1层热力烧伤Ⅰ。",
+              "tooltips": [
+                {
+                  "text": "热力烧伤Ⅰ",
+                  "content": "获得该效果及行动结束时，自身受到施加者12%攻击力的固定伤害，至多叠加5层，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "高温引燃",
+              "skillTags": "被动",
+              "skillDamage": 5,
+              "skillDesc": "每当敌方目标获得5层热力烧伤，该目标行动结束时，在自身周围3×3格范围内造成100%攻击力的范围燃烧伤害并生成储气区，驱散自身全部热力烧伤层数。",
+              "tooltips": [
+                {
+                  "text": "热力烧伤Ⅰ",
+                  "content": "获得该效果及行动结束时，自身受到施加者12%攻击力的固定伤害，至多叠加5层，减益效果。"
+                },
+                {
+                  "text": "储气区",
+                  "content": "对行动结束后停留在区域上的敌方单位施加1层热力烧伤I，持续2回合。对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                }
+              ]
+            },
+            {
+              "skillName": "隔热防护",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "免疫燃烧伤害，受到伤害降低100%，受到攻击累计12/24/36/48次后，受到伤害降低为75%/50%/25%/0%。受到蚀刻伤害提高8%。回合开始时，若自身生命值低于60%，自身获得2层耐火。若自身生命值低于40%，则攻击力提高20%，自身获得4层耐火，每受到1次攻击消耗1层。",
+              "tooltips": [
+                {
+                  "text": "耐火",
+                  "content": "免疫受到的伤害。可叠加。增益效果不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "芝艾同焚",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "稳态崩溃时，受到8%最大生命值的固定伤害。稳态崩溃期间无法受到稳态恢复的效果，稳态崩溃2回合后恢复全部稳态指数。",
+              "tooltips": [
+                {
+                  "text": "稳态崩溃",
+                  "content": "稳态指数归零时进入该状态，无法行动且防御大幅降低。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "纵火者·焰浪",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "定点引燃Ⅱ",
+              "skillTags": "普攻 / 精准 / 减益",
+              "skillDamage": 5,
+              "skillDesc": "选择最远的2个敌方目标，对其造成120%攻击力的燃烧伤害并施加1层热力烧伤II。",
+              "tooltips": [
+                {
+                  "text": "热力烧伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加6层，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "焚烧火域",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 4,
+              "skillDesc": "选取最近的1个敌方目标所在方向，对前方5×3格范围内所有敌方目标造成无视掩体的150%攻击力的范围燃烧伤害，施加2层热力烧伤并生成储气区，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "热力烧伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加6层，减益效果。"
+                },
+                {
+                  "text": "储气区",
+                  "content": "对行动结束后停留在区域上的敌方单位施加1层热力烧伤Ⅱ，持续2回合。对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                }
+              ]
+            },
+            {
+              "skillName": "焚烧殆尽Ⅱ",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 3,
+              "skillDesc": "对全场范围内所有敌方目标造成60%攻击力的范围燃烧伤害并施加1层热力烧伤Ⅱ。",
+              "tooltips": [
+                {
+                  "text": "热力烧伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加6层，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "局部焚毁Ⅱ",
+              "skillTags": "主动 / 精准 / 减益",
+              "skillDamage": 5,
+              "skillDesc": "选取攻击力最高的敌方目标，对其造成120%攻击力的燃烧伤害并施加2层热力烧伤Ⅱ。",
+              "tooltips": [
+                {
+                  "text": "热力烧伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加6层，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "高温爆燃",
+              "skillTags": "被动",
+              "skillDamage": 5,
+              "skillDesc": "每当敌方目标获得6层热力烧伤Ⅱ，该目标行动结束时，在自身周围半径2格范围内造成120%攻击力的范围燃烧伤害并生成储气区，驱散自身全部热力烧伤Ⅱ层数。我方单位若被该目标的燃烧伤害命中，则获得3层热力烧伤Ⅱ。",
+              "tooltips": [
+                {
+                  "text": "热力烧伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加6层，减益效果。"
+                },
+                {
+                  "text": "储气区",
+                  "content": "对行动结束后停留在区域上的敌方单位施加1层热力烧伤Ⅱ，持续2回合。对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                }
+              ]
+            },
+            {
+              "skillName": "高效阻燃",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "免疫燃烧伤害。受到范围伤害降低80%。战斗开始和自身回合开始时获得3层防御增幅，每受到1次攻击消耗1层。回合开始时，若自身生命值低于60%，则防御力提高10%。若自身生命值低于40%，则攻击力提高20%，防御力提高20%。",
+              "tooltips": [
+                {
+                  "text": "防御增幅",
+                  "content": "自身防御力提高200%，可叠加。增益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "爆燃不息",
+              "skillTags": "被动 / 减益 / 地格",
+              "skillDamage": 0,
+              "skillDesc": "若自身生命值低于40%，则在周围半径6格范围内产生燃烧地格，并释放焚烧殆尽。焚烧殆尽改为自身回合结束时释放1次。",
+              "tooltips": []
+            },
+            {
+              "skillName": "芝艾俱焚",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "稳态崩溃时，受到10%最大生命值的固定伤害。稳态崩溃期间受到物理伤害和浊刻伤害提高8%，无法受到稳态恢复的效果，稳态崩溃2回合后恢复全部稳态指数。",
+              "tooltips": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hunterId": 8,
+      "hunterName": "尖喙铁兽",
+      "icon": {
+        "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/08.png",
+        "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
+        "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
+        "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
+        "tip": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_TIP.png"
+      },
+      "hunterDesc": "原本是庆典用铁兽的仿制品，因为失控而游荡于污染区。尖锐的鸟喙搭配并不轻盈的身躯，呈现出一种奇妙的混搭感，带来一种与众不同的威风与华丽。",
+      "hunterFeature": [
+        {
+          "title": "深度屏蔽",
+          "desc": "不会受到眩晕、嘲讽等控制效果、指令禁止效果以及僵冷的影响。"
+        },
+        {
+          "title": "范围攻击",
+          "desc": "对指定范围内的敌方单位造成无视掩体的群体伤害。"
+        },
+        {
+          "title": "增援",
+          "desc": "可呼叫不同的辅助单位进入战场，协助作战。"
+        }
+      ],
+      "condition": [
+        { "title": "完成尖喙铁兽挑战一次" },
+        { "title": "阶段一8回合内击杀尖喙铁兽1次" },
+        { "title": "阶段二无人形损毁并击杀尖喙铁兽1次" },
+        { "title": "阶段一尖喙铁兽不触发死斗协议并击杀尖喙铁兽1次" },
+        { "title": "阶段二尖喙铁兽触发兆赫悲鸣不超过1次并击杀尖喙铁兽1次" },
+        { "title": "完成尖喙铁兽所有挑战" }
+      ],
+      "abstract": [],
+      "teams": [],
+      "monster": [
+        {
+          "monsterName": "尖喙铁兽·浊雷",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "电导",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "重锤礼炮",
+              "skillTags": "普攻 / 精准 / 减益 / 增益",
+              "skillDamage": 4,
+              "skillDesc": "选取半径4格内最近的1个敌方目标，对其造成130%攻击力的无视掩体的近战电导伤害并击退1格，施加1层防御降低Ⅲ，持续2回合。若该技能未命中敌方目标，则自身获得死斗协议Ⅰ。",
+              "tooltips": [
+                {
+                  "text": "防御降低Ⅲ",
+                  "content": "防御力降低30%，至多叠加2层，减益不可驱散。"
+                },
+                {
+                  "text": "死斗协议",
+                  "content": "攻击力提高25%，至多叠加5层，增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "浊流奔袭Ⅰ",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 4,
+              "skillDesc": "选取最远的1个敌方目标，对其及其周围半径3格内的所有敌方目标造成80%攻击力的范围浊刻伤害，施加1层防御降低Ⅱ，持续2回合，并生成浊刻地格，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "防御降低Ⅱ",
+                  "content": "防御力降低20%，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "点域投射Ⅰ",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 4,
+              "skillDesc": "选取当前生命值最高的1个敌方目标，对其及其周围半径3格内的所有敌方目标造成100%攻击力的范围浊刻伤害，施加1层移动降低Ⅱ，持续2回合，并生成浊刻地格，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "移动降低Ⅱ",
+                  "content": "行动力降低2格，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "超频崩解",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 4,
+              "skillDesc": "回合开始时，对全场范围内所有敌方目标造成120%攻击力的范围伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "双极矩阵",
+              "skillTags": "主动 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "回合开始时，在自身周围召唤2个正闻终端和2个负闻终端，持续1回合。",
+              "tooltips": []
+            },
+            {
+              "skillName": "反斥力场",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "自身受到伤害降低90%。回合开始时，获得2层喙霆反斥，回合结束时随机对1个敌方目标施加移动降低Ⅱ和防御降低Ⅱ，持续2回合。获得正极或负极，若尖喙铁兽拥有正极，则其所有技能都为正极属性，反之亦然。自身受到3次主动异极攻击造成的精准伤害后，获得1层暗哑，每回合至多获得1层。",
+              "tooltips": [
+                {
+                  "text": "喙霆反斥",
+                  "content": "受到敌方单位伤害后进行反击，对其造成60%攻击力的蚀刻伤害和2点稳态伤害，并施加1层攻击降低Ⅱ。反击后消耗1层。蚀刻类增益不可驱散。"
+                },
+                {
+                  "text": "攻击降低Ⅱ",
+                  "content": "攻击力降低20%，减益效果。"
+                },
+                {
+                  "text": "移动降低Ⅱ",
+                  "content": "行动力降低2格，减益效果。"
+                },
+                {
+                  "text": "防御降低Ⅱ",
+                  "content": "防御力降低20%，减益效果。"
+                },
+                {
+                  "text": "暗哑",
+                  "content": "受到伤害增加10%，可叠加，减益效果不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "机械造物",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "不会受到恐惧、嘲讽等控制以及指令禁止效果影响；稳态崩溃后，获得锈蚀。稳态崩溃2回合后恢复全部稳态指数。",
+              "tooltips": [
+                {
+                  "text": "锈蚀",
+                  "content": "攻击力降低30%，行动力降低3格，减益不可驱散。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "尖喙铁兽·震潮",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "电导",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "重锤礼炮",
+              "skillTags": "普攻 / 精准 / 减益 / 增益",
+              "skillDamage": 4,
+              "skillDesc": "选取半径4格内最近的1个敌方目标，对其造成180%攻击力的无视掩体的近战电导伤害并击退1格，施加1层防御降低Ⅲ，持续2回合。若该技能未命中敌方目标，则自身获得死斗协议Ⅱ。",
+              "tooltips": [
+                {
+                  "text": "防御降低Ⅲ",
+                  "content": "防御力降低30%，至多叠加2层，减益不可驱散。"
+                },
+                {
+                  "text": "死斗协议Ⅱ",
+                  "content": "攻击力提高50%，至多叠加5层，增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "浊流奔袭Ⅱ",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 4,
+              "skillDesc": "选取最远的1个敌方目标，对其及其周围半径4格内的所有敌方目标造成100%攻击力的范围浊刻伤害，施加1层防御降低Ⅱ，持续2回合，并生成浊刻地格，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "防御降低Ⅱ",
+                  "content": "防御力降低20%，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "点域投射Ⅱ",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 4,
+              "skillDesc": "选取当前生命值最高的1个敌方目标，对其及其周围半径4格内的所有敌方目标造成130%攻击力的范围蚀刻伤害，施加1层移动降低Ⅱ，持续2回合，并生成蚀刻地格，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "移动降低II",
+                  "content": "行动力降低2格，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "超频崩解",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 4,
+              "skillDesc": "回合开始时，对全场范围内所有敌方目标造成160%攻击力的范围伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "兆赫悲鸣",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 8,
+              "skillDesc": "回合结束时，对全场范围内所有敌方目标造成100%攻击力的无视防御的范围伤害，并施加1层暗哑。",
+              "tooltips": [
+                {
+                  "text": "暗哑",
+                  "content": "受到伤害增加10%。可叠加，减益效果不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "双极矩阵",
+              "skillTags": "主动 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "回合开始时，在自身周围召唤2个正闻终端和2个负闻终端，持续1回合。",
+              "tooltips": []
+            },
+            {
+              "skillName": "雷枢阵列",
+              "skillTags": "主动 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "召唤3个导雷柱。",
+              "tooltips": []
+            },
+            {
+              "skillName": "反斥力场",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "自身受到伤害降低99%。回合开始时，获得2层喙霆反斥，回合结束时随机对2个敌方目标施加移动降低Ⅱ和防御降低Ⅱ，持续2回合。获得正极或负极，若尖喙铁兽拥有正极，则其所有技能都为正极属性，反之亦然。自身受到4次主动异极攻击造成的精准伤害后，该回合不再释放兆赫悲鸣，且获得1层暗哑，每回合至多获得1层。",
+              "tooltips": [
+                {
+                  "text": "喙霆反斥",
+                  "content": "受到敌方单位伤害后进行反击，对其造成60%攻击力的蚀刻伤害和2点稳态伤害，并施加1层攻击降低Ⅱ。反击后消耗1层。蚀刻类增益不可驱散。"
+                },
+                {
+                  "text": "攻击降低Ⅱ",
+                  "content": "攻击力降低20%，减益效果。"
+                },
+                {
+                  "text": "移动降低Ⅱ",
+                  "content": "行动力降低2格，减益效果。"
+                },
+                {
+                  "text": "防御降低Ⅱ",
+                  "content": "防御力降低20%，减益效果。"
+                },
+                {
+                  "text": "暗哑",
+                  "content": "受到伤害增加10%，可叠加，减益效果不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "机械造物",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "不会受到恐惧、嘲讽等控制以及指令禁止效果影响；稳态崩溃后，获得锈蚀。稳态崩溃2回合后恢复全部稳态指数。",
+              "tooltips": [
+                {
+                  "text": "锈蚀",
+                  "content": "攻击力降低30%，行动力降低3格，减益不可驱散。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hunterId": 9,
+      "hunterName": "徒士双塔",
+      "icon": {
+        "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/09.png",
+        "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
+        "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
+        "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
+        "tip": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_TIP.png"
+      },
+      "hunterDesc": "皮糙肉厚，膘肥体壮，是体型最庞大的战士。",
+      "hunterFeature": [
+        {
+          "title": "深度屏蔽",
+          "desc": "不会受到眩晕、嘲讽等控制效果、指令禁止效果以及僵冷的影响。"
+        },
+        {
+          "title": "范围攻击",
+          "desc": "对指定范围内的敌方单位造成无视掩体的群体伤害。"
+        },
+        {
+          "title": "增援",
+          "desc": "可呼叫不同的辅助单位进入战场，协助作战。"
+        }
+      ],
+      "condition": [
+        { "title": "完成徒士双塔挑战一次" },
+        { "title": "阶段一徒士双塔未获得双重防御或携手共进并击杀徒士双塔1次" },
+        { "title": "阶段二无人形损毁并击杀徒士双塔1次" },
+        { "title": "两个阶段每阶段均在10回合内击杀徒士双塔1次" },
+        { "title": "两个阶段获得的移动降低I均不超过2层并击杀徒士双塔1次" },
+        { "title": "完成徒士双塔所有挑战" }
+      ],
+      "abstract": [],
+      "teams": [],
+      "monster": [
+        {
+          "monsterName": "徒士-137",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "巨锤重砸",
+              "skillTags": "主动 / 范围 / 减益 / 地格",
+              "skillDamage": 4,
+              "skillDesc": "选取1个方向，对前方5×3格范围内的所有敌方目标造成100%攻击力的近战范围物理伤害，并施加防御降低Ⅱ和移动降低Ⅱ，生成地热，持续2回合。优先选取拥有死斗狩契-137的敌方目标所在的方向。",
+              "tooltips": [
+                {
+                  "text": "防御降低Ⅱ",
+                  "content": "防御力降低30%，减益效果。"
+                },
+                {
+                  "text": "移动降低Ⅱ",
+                  "content": "行动力降低2格，减益效果。"
+                },
+                {
+                  "text": "地热",
+                  "content": "对行动结束后停留在区域上的敌方单位施加灼伤Ⅱ，持续2回合。对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                },
+                {
+                  "text": "灼伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加3层。燃烧类减益。"
+                },
+                {
+                  "text": "死斗狩契-137",
+                  "content": "行动力降低1格，优先被徒士-137索敌。"
+                }
+              ]
+            },
+            {
+              "skillName": "狂劈急跃",
+              "skillTags": "主动 / 范围 / 减益 / 地格",
+              "skillDamage": 4,
+              "skillDesc": "随机选取1个敌方目标，跳跃至该目标身边并对其及其周围半径2格内的所有敌方目标造成100%攻击力的近战范围物理伤害，施加移动降低I，生成地热，持续2回合。优先选取拥有死斗狩契-137的敌方目标。",
+              "tooltips": [
+                {
+                  "text": "移动降低I",
+                  "content": "行动力降低1格，至多叠加3层，减益效果。"
+                },
+                {
+                  "text": "地热",
+                  "content": "对行动结束后停留在区域上的敌方单位施加灼伤Ⅱ，持续2回合。对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                },
+                {
+                  "text": "灼伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加3层。燃烧类减益。"
+                },
+                {
+                  "text": "死斗狩契-137",
+                  "content": "行动力降低1格，优先被徒士-137索敌。"
+                }
+              ]
+            },
+            {
+              "skillName": "烈焰火场",
+              "skillTags": "主动 / 精准 / 减益 / 地格",
+              "skillDamage": 3,
+              "skillDesc": "随机选取1个敌方目标，对其造成120%攻击力的燃烧伤害，并在其周围半径3格内生成地热，附加移动降低Ⅱ，持续2回合。优先选取物理人形，非物理人形免疫伤害。",
+              "tooltips": [
+                {
+                  "text": "地热",
+                  "content": "对行动结束后停留在区域上的敌方单位施加灼伤Ⅱ，持续2回合。对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                },
+                {
+                  "text": "灼伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加3层。燃烧类减益。"
+                },
+                {
+                  "text": "移动降低Ⅱ",
+                  "content": "行动力降低2格，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "全域打击",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 3,
+              "skillDesc": "对全场范围内所有敌方目标造成80%攻击力的范围燃烧伤害，并施加1层灼伤Ⅱ，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "灼伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加3层。燃烧类减益。"
+                }
+              ]
+            },
+            {
+              "skillName": "吊桥效应",
+              "skillTags": "被动 / 治疗 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "行动开始时，若双方生命值百分比的差值大于30%，则为其中生命值最低的单位恢复自身生命值上限20%的生命值；若另一方死亡，则自身获得应激，持续时间无限，不可驱散。",
+              "tooltips": [
+                {
+                  "text": "应激",
+                  "content": "行动力提高2格，攻击力提高100%。增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "异位猎杀",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "免疫异位伤害。战斗开始时，随机选取全场范围内的1个敌方目标，对其施加死斗狩契-137。优先选取物理人形。稳态指数大于0时，受到伤害降低90%；稳态崩溃期间，受到伤害降低50%且无法受到稳态恢复的效果，稳态崩溃2回合后恢复全部稳态指数。",
+              "tooltips": [
+                {
+                  "text": "死斗狩契-137",
+                  "content": "行动力降低1格，优先被徒士-137索敌。"
+                }
+              ]
+            },
+            {
+              "skillName": "联手防卫",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "行动结束时，若与徒士-212距离不超过6格，则获得双重防御，持续1回合。若与徒士-212距离不超过4格，则对全场范围内所有敌方目标造成5点稳态伤害和150%攻击力的无视防御力的范围物理伤害。",
+              "tooltips": [
+                {
+                  "text": "双重防御",
+                  "content": "防御力增加200%，增益不可驱散。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "徒士-212",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "燃烧",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "狂暴旋风",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 3,
+              "skillDesc": "对自身周围半径3格内所有敌方目标造成100%攻击力的近战范围物理伤害，并施加移动降低I。",
+              "tooltips": [
+                {
+                  "text": "移动降低I",
+                  "content": "行动力降低1格，至多叠加3层，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "尖锐突刺",
+              "skillTags": "主动 / 范围 / 减益 / 地格",
+              "skillDamage": 4,
+              "skillDesc": "选取1个方向，对前方3×8格范围内的所有敌方目标造成100%攻击力的近战范围物理伤害，并施加防御降低Ⅱ和移动降低Ⅱ，生成霜冻，持续2回合。优先选取拥有死斗狩契-212的敌方目标所在的方向。",
+              "tooltips": [
+                {
+                  "text": "防御降低Ⅱ",
+                  "content": "防御力降低30%，减益效果。"
+                },
+                {
+                  "text": "移动降低Ⅱ",
+                  "content": "行动力降低2格，减益效果。"
+                },
+                {
+                  "text": "霜冻",
+                  "content": "对行动结束后停留在区域上的敌方单位施加凝固，持续2回合。对区域上的敌方单位附加冷凝弱点，冷凝类地格。"
+                },
+                {
+                  "text": "死斗狩契-212",
+                  "content": "行动力降低1格，优先被徒士-212索敌。"
+                }
+              ]
+            },
+            {
+              "skillName": "凛霜冰域",
+              "skillTags": "主动 / 精准 / 减益 / 地格",
+              "skillDamage": 3,
+              "skillDesc": "随机选取1个敌方目标，对其造成80%攻击力的冷凝伤害并施加移动降低I，持续2回合，在其周围半径3格内生成冷凝地格，持续2回合。优先选取非物理人形，物理人形免疫伤害。",
+              "tooltips": [
+                {
+                  "text": "移动降低I",
+                  "content": "行动力降低1格，至多叠加3层，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "呼啸威摄",
+              "skillTags": "主动 / 范围 / 位移",
+              "skillDamage": 2,
+              "skillDesc": "对全场范围内的所有敌方目标造成30%攻击力的无视防御力和掩体的范围物理伤害，并将所有非物理人形向自身所在位置拉拽3格。",
+              "tooltips": []
+            },
+            {
+              "skillName": "双影移行",
+              "skillTags": "主动 / 位移",
+              "skillDamage": 0,
+              "skillDesc": "徒士-137与徒士-212互换位置。",
+              "tooltips": []
+            },
+            {
+              "skillName": "吊桥效应",
+              "skillTags": "被动 / 治疗 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "行动开始时，若双方生命值百分比的差值大于30%，则为其中生命值最低的单位恢复自身生命值上限20%的生命值；若另一方死亡，则自身获得应激，持续时间无限，不可驱散。",
+              "tooltips": [
+                {
+                  "text": "应激",
+                  "content": "行动力提高2格，攻击力提高100%。增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "携手共进",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "行动结束时，若与徒士-137相距6格内，则自身获得携手共进，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "携手共进",
+                  "content": "造成伤害提高50%，增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "实兵逐戮",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "免疫物理伤害。战斗开始时，随机选取全场范围内的1个敌方目标，对其施加死斗狩契-212。优先选取非物理人形。稳态指数大于0时，受到伤害降低90%；稳态崩溃期间，受到伤害降低50%且无法受到稳态恢复的效果，稳态崩溃2回合后恢复全部稳态指数。",
+              "tooltips": [
+                {
+                  "text": "死斗狩契-212",
+                  "content": "行动力降低1格，优先被徒士-212索敌。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "徒士-137",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "巨锤重砸",
+              "skillTags": "主动 / 范围 / 减益 / 地格",
+              "skillDamage": 4,
+              "skillDesc": "选取1个方向，对前方5×3格范围内的所有敌方目标造成120%攻击力的近战范围物理伤害，并施加防御降低Ⅲ和移动降低Ⅲ，生成地热，持续2回合。优先选取拥有死斗狩契-137的敌方目标所在的方向。",
+              "tooltips": [
+                {
+                  "text": "防御降低Ⅲ",
+                  "content": "防御力降低50%，至多叠加2层，减益不可驱散。"
+                },
+                {
+                  "text": "移动降低Ⅲ",
+                  "content": "行动力降低3格，减益效果。"
+                },
+                {
+                  "text": "地热",
+                  "content": "对行动结束后停留在区域上的敌方单位施加灼伤II，持续2回合。对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                },
+                {
+                  "text": "死斗狩契-137",
+                  "content": "行动力降低1格，优先被徒士-137索敌。"
+                }
+              ]
+            },
+            {
+              "skillName": "狂劈急跃",
+              "skillTags": "主动 / 范围 / 减益 / 地格",
+              "skillDamage": 4,
+              "skillDesc": "随机选取1个敌方目标，跳跃至该目标身边并对其及其周围半径2格内的所有敌方目标造成120%攻击力的近战范围物理伤害，施加移动降低I，生成地热，持续2回合。优先选取拥有死斗狩契-137的敌方目标。",
+              "tooltips": [
+                {
+                  "text": "移动降低I",
+                  "content": "行动力降低1格，至多叠加3层，减益效果。"
+                },
+                {
+                  "text": "地热",
+                  "content": "对行动结束后停留在区域上的敌方单位施加灼伤II，持续2回合。对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                },
+                {
+                  "text": "灼伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加3层。燃烧类减益。"
+                },
+                {
+                  "text": "死斗狩契-137",
+                  "content": "行动力降低1格，优先被徒士-137索敌。"
+                }
+              ]
+            },
+            {
+              "skillName": "焰烈火场",
+              "skillTags": "主动 / 精准 / 减益 / 地格",
+              "skillDamage": 3,
+              "skillDesc": "随机选取1个敌方目标，对其造成150%攻击力的燃烧伤害，并在其周围半径3格内生成地热，附加移动降低Ⅱ，持续2回合。优先选取物理人形，非物理人形免疫伤害。",
+              "tooltips": [
+                {
+                  "text": "地热",
+                  "content": "对行动结束后停留在区域上的敌方单位施加灼伤II，持续2回合。对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                },
+                {
+                  "text": "灼伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加3层。燃烧类减益。"
+                },
+                {
+                  "text": "移动降低Ⅱ",
+                  "content": "行动力降低2格，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "全域打击",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 3,
+              "skillDesc": "对全场范围内所有敌方目标造成100%攻击力的范围燃烧伤害，并施加1层灼伤II，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "灼伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加3层。燃烧类减益。"
+                }
+              ]
+            },
+            {
+              "skillName": "吊桥效应",
+              "skillTags": "被动 / 治疗 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "行动开始时，若双方生命值百分比的差值大于30%，则为其中生命值最低的单位恢复自身生命值上限20%的生命值；若另一方死亡，则自身获得应激，持续时间无限，不可驱散。",
+              "tooltips": [
+                {
+                  "text": "应激",
+                  "content": "行动力提高2格，攻击力提高100%。增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "异位猎杀",
+              "skillTags": "被动",
+              "skillDamage": 0,
+              "skillDesc": "免疫异位伤害，行动力提升1格。战斗开始及每3回合开始时，随机选取全场范围内的1个敌方目标，对其施加死斗狩契-137。优先选取物理人形。自身回合开始时，获得移动提升I，持续2回合。回合结束时，驱散自身所有减益效果。稳态指数大于0时，受到伤害降低90%；稳态崩溃期间，受到伤害降低50%且无法受到稳态恢复的效果，稳态崩溃2回合后恢复全部稳态指数。",
+              "tooltips": [
+                {
+                  "text": "死斗狩契-137",
+                  "content": "行动力降低1格，优先被徒士-137索敌。"
+                },
+                {
+                  "text": "移动提升I",
+                  "content": "行动力提高1格，增益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "联手防卫",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "行动结束时，若与徒士-212距离不超过6格，则获得双重防御，持续1回合。若与徒士-212距离不超过4格，则对全场范围内所有敌方目标造成5点稳态伤害和250%攻击力的无视防御力的范围物理伤害。",
+              "tooltips": [
+                {
+                  "text": "双重防御",
+                  "content": "防御力增加200%，增益不可驱散。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "徒士-212",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "重型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Heavy_Weakpoint.png"
+            },
+            {
+              "elementName": "电导",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "狂暴旋风",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 3,
+              "skillDesc": "对自身周围半径3格内所有敌方目标造成150%攻击力的近战范围物理伤害，并施加移动降低I。",
+              "tooltips": [
+                {
+                  "text": "移动降低I",
+                  "content": "行动力降低1格，至多叠加3层，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "尖锐突刺",
+              "skillTags": "主动 / 范围 / 减益 / 地格",
+              "skillDamage": 4,
+              "skillDesc": "选取1个方向，对前方3×8格范围内的所有敌方目标造成120%攻击力的近战范围物理伤害，并施加防御降低Ⅲ和移动降低Ⅲ，生成霜冻，持续2回合。优先选取拥有死斗狩契-212的敌方目标所在的方向。",
+              "tooltips": [
+                {
+                  "text": "防御降低Ⅲ",
+                  "content": "防御力降低50%，至多叠加2层，减益不可驱散。"
+                },
+                {
+                  "text": "移动降低Ⅲ",
+                  "content": "行动力降低3格，减益效果。"
+                },
+                {
+                  "text": "霜冻",
+                  "content": "对行动结束后停留在区域上的敌方单位施加凝固，持续2回合。对区域上的敌方单位附加冷凝弱点，冷凝类地格。"
+                },
+                {
+                  "text": "死斗狩契-212",
+                  "content": "行动力降低1格，优先被徒士-212索敌。"
+                }
+              ]
+            },
+            {
+              "skillName": "凛霜冰域",
+              "skillTags": "主动 / 精准 / 减益 / 地格",
+              "skillDamage": 3,
+              "skillDesc": "随机选取1个敌方目标，对其造成120%攻击力的冷凝伤害并施加移动降低I，持续2回合，在其周围半径3格内生成霜冻，持续2回合。优先选取非物理人形，物理人形免疫伤害。",
+              "tooltips": [
+                {
+                  "text": "移动降低I",
+                  "content": "行动力降低1格，至多叠加3层，减益效果。"
+                },
+                {
+                  "text": "霜冻",
+                  "content": "对行动结束后停留在区域上的敌方单位施加凝固，持续2回合。对区域上的敌方单位附加冷凝弱点，冷凝类地格。"
+                }
+              ]
+            },
+            {
+              "skillName": "呼啸威摄",
+              "skillTags": "主动 / 范围 / 位移",
+              "skillDamage": 2,
+              "skillDesc": "对全场范围内的所有敌方目标造成50%攻击力的无视防御力和掩体的范围物理伤害，并将所有非物理人形向自身所在位置拉拽3格，并施加移动降低I，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "移动降低I",
+                  "content": "行动力降低1格，至多叠加3层，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "双影移行",
+              "skillTags": "主动 / 位移",
+              "skillDamage": 0,
+              "skillDesc": "徒士-137与徒士-212互换位置。",
+              "tooltips": []
+            },
+            {
+              "skillName": "吊桥效应",
+              "skillTags": "被动 / 治疗 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "行动开始时，若双方生命值百分比的差值大于30%，则为其中生命值最低的单位恢复自身生命值上限20%的生命值；若另一方死亡，则自身获得应激，持续时间无限，不可驱散。",
+              "tooltips": [
+                {
+                  "text": "应激",
+                  "content": "行动力提高2格，攻击力提高100%。增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "携手共进",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "行动结束时，若与徒士-137相距6格内，则自身获得携手共进，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "携手共进",
+                  "content": "造成伤害提高50%，增益不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "实兵逐戮",
+              "skillTags": "被动 / 增益 / 驱散",
+              "skillDamage": 0,
+              "skillDesc": "免疫物理伤害，行动力提升1格。战斗开始及每3回合开始时，随机选取全场范围内的1个敌方目标，对其施加死斗狩契-212。优先选取非物理人形。自身回合开始时，获得移动提升I，持续2回合。回合结束时，驱散自身所有减益效果。稳态指数大于0时，受到伤害降低90%；稳态崩溃期间，受到伤害降低50%且无法受到稳态恢复的效果，稳态崩溃2回合后恢复全部稳态指数。",
+              "tooltips": [
+                {
+                  "text": "死斗狩契-212",
+                  "content": "行动力降低1格，优先被徒士-212索敌。"
+                },
+                {
+                  "text": "移动提升I",
+                  "content": "行动力提高1格，增益效果。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "hunterId": 14,
       "hunterName": "卡俄斯",
       "icon": {
@@ -881,7 +3307,7 @@
         { "title": "阶段二无人形损毁并击杀卡俄斯1次" },
         { "title": "两个阶段每阶段触发感应地雷不超过4次并击杀卡俄斯1次" },
         { "title": "两个阶段每阶段防御力大于0的未信标锁定人形不少于3个并击杀卡俄斯1次" },
-        { "title": "完成要塞伯爵所有挑战" }
+        { "title": "完成卡俄斯所有挑战" }
       ],
       "abstract": [
         {

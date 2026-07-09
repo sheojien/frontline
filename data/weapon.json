@@ -1037,7 +1037,7 @@
     {
       "weaponId": 11020,
       "weaponName": "光学幻境",
-      "weaponEnName": "RPK",
+      "weaponEnName": "PKP-SP",
       "weaponType": "机枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763812439404.png",
@@ -2901,7 +2901,7 @@
     {
       "weaponId": 11026,
       "weaponName": "佩切涅",
-      "weaponEnName": "",
+      "weaponEnName": "PKP-SP",
       "weaponType": "机枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764321163053.png",
@@ -5009,7 +5009,7 @@
     {
       "weaponId": 11024,
       "weaponName": "旧式佩切涅",
-      "weaponEnName": "",
+      "weaponEnName": "PKP-SP",
       "weaponType": "机枪",
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764399238923.png",
