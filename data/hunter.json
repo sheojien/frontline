@@ -3280,6 +3280,254 @@
       ]
     },
     {
+      "hunterId": 10,
+      "hunterName": "堡垒泰坦",
+      "icon": {
+        "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/10.png",
+        "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
+        "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
+        "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
+        "tip": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_TIP.png"
+      },
+      "hunterDesc": "堡垒泰坦的特殊型号，在两种模式的切换下，释放出不同的辅助机械，从而达到全方面的性能飞跃。",
+      "hunterFeature": [
+        {
+          "title": "深度屏蔽",
+          "desc": "不会受到眩晕、嘲讽等控制效果、指令禁止效果以及僵冷的影响。"
+        },
+        {
+          "title": "范围攻击",
+          "desc": "对指定范围内的敌方单位造成无视掩体的群体伤害。"
+        },
+        {
+          "title": "大型目标",
+          "desc": "体积巨大，不会受到掩体保护。"
+        }
+      ],
+      "condition": [
+        { "title": "完成堡垒泰坦挑战一次" },
+        { "title": "阶段一无人形损毁击杀堡垒泰坦1次" },
+        { "title": "阶段二获得瓦解不超过2层并击杀堡垒泰坦1次" },
+        { "title": "两个阶段每阶段均在5回合内并击杀堡垒泰坦1次" },
+        { "title": "两个阶段堡垒泰坦均未获得功率增幅或护盾共鸣并击杀堡垒泰坦1次" },
+        { "title": "完成堡垒泰坦所有挑战" }
+      ],
+      "abstract": [],
+      "teams": [],
+      "monster": [
+        {
+          "monsterName": "堡垒泰坦·械跃",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "霰弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Shot_Weakpoint.png"
+            },
+            {
+              "elementName": "酸蚀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "重力震荡",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "对所有敌方目标造成90%攻击力的范围物理伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "崩裂震荡",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 3,
+              "skillDesc": "选取周围半径3格范围内的所有敌方目标，对其造成90%攻击力的范围物理伤害，并施加移动降低I，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "移动降低I",
+                  "content": "行动力降低1格。移动类减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "焦土制裁",
+              "skillTags": "主动 / 精准 / 地格",
+              "skillDamage": 6,
+              "skillDesc": "选取全场范围内任意2个敌方目标，对其造成80%攻击力的物理伤害，在其周围半径2格范围内生成地热，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "地热",
+                  "content": "对行动结束后停留在区域上的敌方单位施加灼伤Ⅱ，持续2回合。对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                },
+                {
+                  "text": "灼伤Ⅱ",
+                  "content": "获得该效果及行动结束时，自身受到施加者20%攻击力的固定伤害，至多叠加3层。燃烧类减益。"
+                }
+              ]
+            },
+            {
+              "skillName": "哨戒模式",
+              "skillTags": "被动 / 控制 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "受到最终伤害降低50%。回合开始时，召唤2个哨兵。选取攻击力最高的敌方目标，对其施加逃避，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "最终伤害",
+                  "content": "计算了增伤、减伤等所有加成之后得到的最终的伤害。"
+                },
+                {
+                  "text": "逃避",
+                  "content": "无法操控，主动向状态施加者远离，施加者死亡时消除。"
+                }
+              ]
+            },
+            {
+              "skillName": "跃升模式",
+              "skillTags": "被动 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "受到最终伤害降低55%。大回合开始时，召唤2个堡垒装置。回合开始时驱散自身1个减益效果。回合结束时释放重力震荡。任务完成后，从跃升模式切换为哨戒模式。",
+              "tooltips": [
+                {
+                  "text": "最终伤害",
+                  "content": "计算了增伤、减伤等所有加成之后得到的最终的伤害。"
+                },
+                {
+                  "text": "重力震荡",
+                  "content": "对所有敌方目标造成90%攻击力的范围物理伤害。"
+                }
+              ]
+            },
+            {
+              "skillName": "泰坦威势",
+              "skillTags": "被动 / 增益 / 稳态恢复",
+              "skillDamage": 0,
+              "skillDesc": "当稳态指数大于0时，攻击敌方目标时额外造成2点固定稳态伤害；稳态崩溃状态会持续2回合。崩溃期间无法受到稳态恢复的效果，2回合后恢复全部稳态指数。",
+              "tooltips": []
+            }
+          ]
+        },
+        {
+          "monsterName": "堡垒泰坦·械跃",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "霰弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Shot_Weakpoint.png"
+            },
+            {
+              "elementName": "酸蚀",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "重力震荡",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "对所有敌方目标造成120%攻击力的范围物理伤害，施加滞缓II和瓦解，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "滞缓",
+                  "content": "移动力降低1格，至多叠加2层，减益效果。"
+                },
+                {
+                  "text": "瓦解",
+                  "content": "防御力降低20%，至多叠加3层，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "崩裂震荡",
+              "skillTags": "主动 / 范围 / 减益",
+              "skillDamage": 3,
+              "skillDesc": "选取周围半径3格范围内的所有敌方目标，对其造成120%攻击力的范围物理伤害，并施加移动降低I和瓦解，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "移动降低I",
+                  "content": "行动力降低1格。移动类减益效果。"
+                },
+                {
+                  "text": "瓦解",
+                  "content": "防御力降低20%，至多叠加3层，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "焦土制裁",
+              "skillTags": "主动 / 精准 / 地格 / 减益",
+              "skillDamage": 6,
+              "skillDesc": "选取全场范围内任意3个敌方目标，对其造成100%攻击力的物理伤害，施加滞缓，持续2回合，并在其周围半径2格范围内生成地热，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "滞缓",
+                  "content": "移动力降低1格，至多叠加2层，减益效果。"
+                },
+                {
+                  "text": "地热",
+                  "content": "对行动结束后停留在区域上的敌方单位施加灼伤II，持续2回合。对区域上的敌方单位附加燃烧弱点，燃烧类地格。"
+                }
+              ]
+            },
+            {
+              "skillName": "哨戒模式",
+              "skillTags": "被动 / 控制 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "受到最终伤害降低55%，行动力增加1格。回合开始时，召唤3个哨兵。选取攻击力最高的敌方目标，对其施加逃避，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "最终伤害",
+                  "content": "计算了增伤、减伤等所有加成之后得到的最终的伤害。"
+                },
+                {
+                  "text": "逃避",
+                  "content": "无法操控，主动向状态施加者远离，施加者死亡时消除。"
+                }
+              ]
+            },
+            {
+              "skillName": "跃升模式",
+              "skillTags": "被动 / 召唤",
+              "skillDamage": 0,
+              "skillDesc": "受到最终伤害降低60%，行动力增加1格。大回合开始时，召唤3个堡垒装置。回合开始时驱散自身2个减益效果。回合结束时释放重力震荡。任务完成后，从跃升模式切换为暗戒模式。",
+              "tooltips": [
+                {
+                  "text": "最终伤害",
+                  "content": "计算了增伤、减伤等所有加成之后得到的最终的伤害。"
+                },
+                {
+                  "text": "重力震荡",
+                  "content": "对所有敌方目标造成120%攻击力的范围物理伤害，施加滞缓II和瓦解，持续2回合。"
+                }
+              ]
+            },
+            {
+              "skillName": "泰坦威势",
+              "skillTags": "被动 / 增益 / 稳态恢复",
+              "skillDamage": 0,
+              "skillDesc": "当稳态指数大于0时，攻击敌方目标时额外造成2点固定稳态伤害；稳态崩溃状态会持续2回合。崩溃期间无法受到稳态恢复的效果，2回合后恢复全部稳态指数。",
+              "tooltips": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "hunterId": 14,
       "hunterName": "卡俄斯",
       "icon": {
