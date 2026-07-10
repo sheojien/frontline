@@ -3528,6 +3528,259 @@
       ]
     },
     {
+      "hunterId": 11,
+      "hunterName": "闪电?",
+      "icon": {
+        "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/11.png",
+        "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
+        "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
+        "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
+        "tip": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_TIP.png"
+      },
+      "hunterDesc": "神秘的敌对人形，具备优秀的指挥能力。素体外观与艾莫号的闪电极其相似，在此基础上似乎又强化了不少模块的性能",
+      "hunterFeature": [
+        {
+          "title": "深度屏蔽",
+          "desc": "不会受到眩晕、嘲讽等控制效果、指令禁止效果以及僵冷的影响。"
+        },
+        {
+          "title": "增援",
+          "desc": "可呼叫不同的辅助单位进入战场，协助作战。"
+        },
+        {
+          "title": "攻击切换",
+          "desc": "能够切换不同的战斗姿态。"
+        }
+      ],
+      "condition": [
+        { "title": "完成闪电?挑战一次" },
+        { "title": "阶段一无人形损毁击杀闪电?1次" },
+        { "title": "阶段二人形获得揭露层数均不超过4层且击杀闪电?1次" },
+        { "title": "两个阶段每阶段未触发强力压制并击杀闪电?1次" },
+        { "title": "两个阶段每阶段闪电?获得战斗激励层数不超过15层并击杀闪电?1次" },
+        { "title": "完成闪电?所有挑战" }
+      ],
+      "abstract": [],
+      "teams": [],
+      "monster": [
+        {
+          "monsterName": "闪电?",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "射击指令？",
+              "skillTags": "普攻 / 减益",
+              "skillDamage": 3,
+              "skillDesc": "选取最近1个敌方目标，对其造成80%攻击力的物理伤害，并施加揭露，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "揭露",
+                  "content": "防御力降低10%，至多叠加5层，减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "完美掩护？",
+              "skillTags": "主动 / 控制 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "对自身周围半径5格内的所有敌方单位施加嘲讽，持续2回合。为全场所有友方单位施加1层掩护和攻击提升II，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "嘲讽",
+                  "content": "无法控制，强制使用普通攻击对状态施加者进行攻击，施加者死亡时消除。"
+                },
+                {
+                  "text": "掩护",
+                  "content": "获得稳态保护，使自身受到的稳态伤害降低2点；每受到一次稳态伤害消耗1层，至多叠加3层。增益效果。"
+                },
+                {
+                  "text": "攻击提升Ⅱ",
+                  "content": "攻击力提高15%。增益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "强力压制？",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 4,
+              "skillDesc": "自身回合结束时，对低于20%生命值的敌方目标及其周围半径4格内的所有敌方目标造成100%攻击力的范围物理伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "自爆轰击？",
+              "skillTags": "主动",
+              "skillDamage": 0,
+              "skillDesc": "自身获得自爆指令，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "自爆指令",
+                  "content": "行动结束进行自爆，对自身周围半径3格内的所有敌方单位造成100%攻击力固定伤害。不可驱散。"
+                }
+              ]
+            },
+            {
+              "skillName": "流变试验体",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "不可被位移，获得迎敌姿态。回合开始时，每有1位人形生命值未达80%，则获得1层战斗激励。战斗开始时进入攻击特型。友方单位（不包含自身）进行攻击时，进行行动支援，造成50%攻击力的物理伤害，2点稳态伤害并施加揭露，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "迎敌姿态",
+                  "content": "受到最终伤害降低60%。"
+                },
+                {
+                  "text": "战斗激励",
+                  "content": "攻击力提高3%，最大叠加至30层。增益效果不可驱散。"
+                },
+                {
+                  "text": "行动支援",
+                  "content": "支援攻击。进行一次攻击；无法被支援攻击触发。"
+                },
+                {
+                  "text": "揭露",
+                  "content": "防御力降低10%，至多叠加5层，减益效果。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "闪电?",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "轻型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Light_Weakpoint.png"
+            },
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            },
+            {
+              "elementName": "浊刻",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "射击指令？",
+              "skillTags": "普攻 / 减益 / 地格",
+              "skillDamage": 3,
+              "skillDesc": "选取最近1个敌方目标，对其造成100%攻击力的物理伤害，并施加揭露，持续2回合；且在其周围半径2格内产生熵能紊乱。",
+              "tooltips": [
+                {
+                  "text": "揭露",
+                  "content": "防御力降低10%，至多叠加5层，减益效果。"
+                },
+                {
+                  "text": "熵能紊乱",
+                  "content": "对行动结束后停留在区域上的敌方单位施加受难和2个随机元素减益，持续2回合。对区域上的敌方单位附加所有元素弱点。"
+                },
+                {
+                  "text": "受难",
+                  "content": "携带者行动结束后，减少其10%×层数当前生命值的伤害并对周围半径2格内的友方单位施加该效果，至多叠加15层。减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "完美掩护？",
+              "skillTags": "主动 / 控制 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "对自身周围半径5格内的所有敌方单位施加嘲讽，持续2回合。为全场所有友方单位施加1层掩护和攻击提升Ⅱ，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "嘲讽",
+                  "content": "无法控制，强制使用普通攻击对状态施加者进行攻击，施加者死亡时消除。"
+                },
+                {
+                  "text": "掩护",
+                  "content": "获得稳态保护，使自身受到的稳态伤害降低2点；每受到一次稳态伤害消耗1层，至多叠加3层。增益效果。"
+                },
+                {
+                  "text": "攻击提升Ⅱ",
+                  "content": "攻击力提高15%。增益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "强力压制？",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 4,
+              "skillDesc": "自身回合结束时，对低于30%生命值的敌方目标及其周围半径4格内的所有敌方目标造成150%攻击力的范围物理伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "自爆轰击？",
+              "skillTags": "主动 / 地格",
+              "skillDamage": 0,
+              "skillDesc": "为自身和全场所有情感投射施加自爆指令，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "自爆指令",
+                  "content": "行动结束进行自爆，对自身周围半径3格内的所有敌方单位造成100%攻击力固定伤害并生成熵能紊乱。不可驱散。"
+                },
+                {
+                  "text": "熵能紊乱",
+                  "content": "对行动结束后停留在区域上的敌方单位施加受难和2个随机元素减益，持续2回合。对区域上的敌方单位附加所有元素弱点。"
+                },
+                {
+                  "text": "受难",
+                  "content": "携带者行动结束后，减少其10%×层数当前生命值的伤害并对周围半径2格内的友方单位施加该效果，至多叠加15层。减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "流变试验体",
+              "skillTags": "被动 / 增益",
+              "skillDamage": 0,
+              "skillDesc": "不可被位移，获得迎敌姿态。回合开始时，每有1位人形生命值未达80%，则获得1层战斗激励。战斗开始时进入攻击特型。友方单位（不包含自身）进行攻击时，进行行动支援，造成50%攻击力的物理伤害，2点稳态伤害并施加揭露，持续2回合。",
+              "tooltips": [
+                {
+                  "text": "迎敌姿态",
+                  "content": "受到最终伤害降低60%。"
+                },
+                {
+                  "text": "战斗激励",
+                  "content": "攻击力提高3%，最大叠加至30层。增益效果不可驱散。"
+                },
+                {
+                  "text": "行动支援",
+                  "content": "支援攻击。进行一次攻击；无法被支援攻击触发。"
+                },
+                {
+                  "text": "揭露",
+                  "content": "防御力降低10%，至多叠加5层，减益效果。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "hunterId": 14,
       "hunterName": "卡俄斯",
       "icon": {
