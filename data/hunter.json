@@ -3781,6 +3781,330 @@
       ]
     },
     {
+      "hunterId": 12,
+      "hunterName": "百兽战车",
+      "icon": {
+        "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/12.png",
+        "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
+        "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
+        "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
+        "tip": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_TIP.png"
+      },
+      "hunterDesc": "样式少见的组合式大型战车，颜色异常鲜艳，且每种颜色的部件似乎代表着不同的功能。能够应付多种情况的战场",
+      "hunterFeature": [
+        {
+          "title": "深度屏蔽",
+          "desc": "不会受到眩晕、嘲讽等控制效果、指令禁止效果以及僵冷的影响。"
+        },
+        {
+          "title": "范围攻击",
+          "desc": "对指定范围内的敌方单位造成无视掩体的群体伤害。"
+        },
+        {
+          "title": "增援",
+          "desc": "可呼叫不同的辅助单位进入战场，协助作战。"
+        }
+      ],
+      "condition": [
+        { "title": "完成百兽战车挑战一次" },
+        { "title": "阶段一无人形损毁击杀百兽战车1次" },
+        { "title": "阶段二百兽战车未获得献祭部卒治疗并击杀百兽战车1次" },
+        { "title": "阶段二使百兽战车所有部件进入过短路并击杀百兽战车1次" },
+        { "title": "两个阶段每阶段均获得寒僵不超过2层并击杀百兽战车1次" },
+        { "title": "完成百兽战车所有挑战" }
+      ],
+      "abstract": [],
+      "teams": [],
+      "monster": [
+        {
+          "monsterName": "百兽战车",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "霰弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Shot_Weakpoint.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            },
+            {
+              "elementName": "燃烧",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "剧腐毒液",
+              "skillTags": "主动 / 精准",
+              "skillDamage": 3,
+              "skillDesc": "选取最远的1个敌方人形，对其造成70%攻击力的酸蚀伤害。王蛇强化效果：若王蛇未短路则额外对目标施加1个蛇王炸弹。",
+              "tooltips": [
+                {
+                  "text": "蛇王炸弹",
+                  "content": "持有者行动结束后，百兽战车引爆蛇王炸弹，对持有者周围半径3格内的目标造成2点稳态伤害和50%攻击力酸蚀伤害并施加易染，王蛇死亡时会直接引爆其所属炸弹。"
+                },
+                {
+                  "text": "易染",
+                  "content": "下次受到蛇王炸弹伤害提高100%。减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "威震四方",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "对全场范围内的所有敌方目标造成30%攻击力的范围伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "寒蚀吐息",
+              "skillTags": "主动 / 范围 / 召唤",
+              "skillDamage": 3,
+              "skillDesc": "选取最近的1个敌方人形，对其及其周围半径3格范围内的所有敌方目标造成60%攻击力的范围冷凝伤害。霜龙强化效果：若霜龙未短路则额外在该目标附近召唤1只蟾鲸·冷凝。",
+              "tooltips": []
+            },
+            {
+              "skillName": "针对锁定",
+              "skillTags": "主动 / 精准",
+              "skillDamage": 3,
+              "skillDesc": "选取最远的1个敌方人形，对其造成70%攻击力的物理伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "爆闪原野",
+              "skillTags": "主动 / 精准",
+              "skillDamage": 3,
+              "skillDesc": "选择最近的1个敌方人形，对其造成70%攻击力的电导伤害。电蝎强化效果：若电蝎未短路则攻击人形后，对其周围半径3格范围内最近的1个人形弹射攻击造成90%攻击力的伤害，最多弹射2次，每次弹射的伤害递增20%。",
+              "tooltips": []
+            },
+            {
+              "skillName": "王者威压",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "对全场范围内的所有敌方目标造成30%攻击力的范围伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "燃烧屏障",
+              "skillTags": "被动 / 治疗",
+              "skillDamage": 0,
+              "skillDesc": "若燃盾未短路，则自身回合开始时，为自身施加8%最大生命值的护盾和恢复8%最大生命值的生命值。为所有友方单位施加其20%最大生命值的护盾和恢复其20%最大生命值的生命值。",
+              "tooltips": []
+            },
+            {
+              "skillName": "灵活切变",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "自身免疫受到治疗效果降低、无法受到治疗和治疗转化为伤害的效果。战斗开始时，百兽战车获得兽王防线，进入合体模式，持续2回合后进入分离模式。分离模式同样持续2回合后切换为合体模式。",
+              "tooltips": [
+                {
+                  "text": "兽王防线",
+                  "content": "受到的最终伤害降低40%，增益不可驱散。"
+                },
+                {
+                  "text": "合体模式",
+                  "content": "部件不可被攻击，仅生效被动技能神经毒素、凝冰、静电吸附和残喘。"
+                },
+                {
+                  "text": "神经毒素",
+                  "content": "回合结束时，对全场范围内所有敌方目标随机施加1个减益效果，持续2回合。当生命值降至10%以下时获得短路·蛇王。"
+                },
+                {
+                  "text": "短路·蛇王",
+                  "content": "生命值不低于1，技能失效并对百兽战车造成12.5%最大生命值的物理伤害。"
+                },
+                {
+                  "text": "凝冰",
+                  "content": "主动攻击造成伤害提高15%。当生命值降至10%以下时获得短路·霜龙。"
+                },
+                {
+                  "text": "短路·霜龙",
+                  "content": "生命值不低于1，技能失效并对百兽战车造成12.5%最大生命值的物理伤害。"
+                },
+                {
+                  "text": "静电吸附",
+                  "content": "回合结束时将所有人形拉拽到自身周围2格内随机位置，并造成20%攻击力的无视掩体的范围电导伤害。当生命值降至10%以下时获得短路·电蝎。"
+                },
+                {
+                  "text": "短路·电蝎",
+                  "content": "生命值不低于1，技能失效并对百兽战车造成12.5%最大生命值的物理伤害。"
+                },
+                {
+                  "text": "残喘",
+                  "content": "当生命值降至10%以下时获得短路·燃盾。"
+                },
+                {
+                  "text": "短路·燃盾",
+                  "content": "生命值不低于1，技能失效并对百兽战车造成12.5%最大生命值的物理伤害。"
+                },
+                {
+                  "text": "分离模式",
+                  "content": "部件携带技能生效且可以被攻击，持续2回合。每有1个部件短路，回合开始时百兽战车获得1层兽王之气。"
+                },
+                {
+                  "text": "兽王之气",
+                  "content": "增加3%攻击力与防御力，最多叠加12层。不可驱散。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "monsterName": "百兽战车",
+          "monsterLevel": 60,
+          "monsterWeakness": [
+            {
+              "elementName": "中型弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Middle_Weakpoint.png"
+            },
+            {
+              "elementName": "霰弹",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/colorful/Icon_BulletHit_Shot_Weakpoint.png"
+            },
+            {
+              "elementName": "冷凝",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png"
+            },
+            {
+              "elementName": "燃烧",
+              "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png"
+            }
+          ],
+          "monsterSkills": [
+            {
+              "skillName": "剧腐毒液",
+              "skillTags": "主动 / 精准",
+              "skillDamage": 3,
+              "skillDesc": "选取最远的1个敌方人形，对其造成90%攻击力的酸蚀伤害。王蛇强化效果：若王蛇未短路则额外对目标施加1个蛇王炸弹。",
+              "tooltips": [
+                {
+                  "text": "蛇王炸弹",
+                  "content": "持有者行动结束后，百兽战车引爆蛇王炸弹，对持有者周围半径3格内的目标造成2点稳态伤害和50%攻击力酸蚀伤害并施加易染，王蛇死亡时会直接引爆其所属炸弹。"
+                },
+                {
+                  "text": "易染",
+                  "content": "下次受到蛇王炸弹伤害提高100%。减益效果。"
+                }
+              ]
+            },
+            {
+              "skillName": "威震四方",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 4,
+              "skillDesc": "对全场范围内的所有敌方目标造成50%攻击力的范围伤害，每有1个短路部件则额外释放1次，最多释放4次。",
+              "tooltips": []
+            },
+            {
+              "skillName": "寒蚀吐息",
+              "skillTags": "主动 / 范围 / 召唤 / 地格",
+              "skillDamage": 3,
+              "skillDesc": "选取最近的1个敌方人形，对其及其周围半径3格范围内的所有敌方目标造成70%攻击力的范围冷凝伤害，并生成半径2格范围冷凝地格。霜龙强化效果：若霜龙未短路则额外在该目标附近召唤1只蟾鲸·冷凝。",
+              "tooltips": []
+            },
+            {
+              "skillName": "针对锁定",
+              "skillTags": "主动 / 精准",
+              "skillDamage": 4,
+              "skillDesc": "选取最远的1个敌方人形，对其造成60%攻击力的物理伤害，每有1个短路部件则额外释放1次，最多释放4次。",
+              "tooltips": []
+            },
+            {
+              "skillName": "爆闪原野",
+              "skillTags": "主动 / 精准",
+              "skillDamage": 3,
+              "skillDesc": "选择最近的1个敌方人形，对其造成90%攻击力的电导伤害。电蝎强化效果：若电蝎未短路则攻击人形后，对其周围半径3格范围内最近的1个人形弹射攻击造成110%攻击力的伤害，最多弹射3次，每次弹射的伤害递增20%，并施加麻痹，持续1回合。",
+              "tooltips": [
+                {
+                  "text": "麻痹",
+                  "content": "指令禁止，禁止使用普通攻击和主动技能。电导类减益。"
+                }
+              ]
+            },
+            {
+              "skillName": "王者威压",
+              "skillTags": "主动 / 范围",
+              "skillDamage": 3,
+              "skillDesc": "对全场范围内的所有敌方目标造成40%攻击力的范围伤害。",
+              "tooltips": []
+            },
+            {
+              "skillName": "燃烧屏障",
+              "skillTags": "被动 / 治疗",
+              "skillDamage": 0,
+              "skillDesc": "若燃盾未短路，则自身回合开始时，为自身施加10%最大生命值的护盾和恢复10%最大生命值的生命值。为所有友方单位施加其30%最大生命值的护盾和恢复其30%最大生命值的生命值。",
+              "tooltips": []
+            },
+            {
+              "skillName": "灵活切变",
+              "skillTags": "被动 / 减益",
+              "skillDamage": 0,
+              "skillDesc": "自身免疫受到治疗效果降低、无法受到治疗和治疗转化为伤害的效果。战斗开始时，百兽战车获得兽王防线，进入分离模式，持续2回合后进入合体模式。合体模式同样持续2回合后切换为分离模式。",
+              "tooltips": [
+                {
+                  "text": "兽王防线",
+                  "content": "受到的最终伤害降低40%，增益不可驱散。"
+                },
+                {
+                  "text": "分离模式",
+                  "content": "部件携带技能生效且可以被攻击，持续2回合。每有1个部件短路，回合开始时百兽战车获得1层兽王之气。每存在1个未短路部件，部件与百兽战车获得1层同御，进入合体模式后该效果消失。"
+                },
+                {
+                  "text": "兽王之气",
+                  "content": "增加3%攻击力与防御力，最多叠加12层。不可驱散。"
+                },
+                {
+                  "text": "同御",
+                  "content": "受到的最终伤害降低10%，最多叠至4层。增益不可驱散。"
+                },
+                {
+                  "text": "合体模式",
+                  "content": "部件不可被攻击，仅生效被动技能神经毒素、凝冰、静电吸附和残喘。"
+                },
+                {
+                  "text": "神经毒素",
+                  "content": "回合结束时，对全场范围内所有敌方目标随机施加1个减益效果，持续2回合。当生命值降至10%以下时获得短路·蛇王。"
+                },
+                {
+                  "text": "短路·蛇王",
+                  "content": "生命值不低于1，技能失效并对百兽战车造成12.5%最大生命值的物理伤害。"
+                },
+                {
+                  "text": "凝冰",
+                  "content": "主动攻击造成伤害提高15%。当生命值降至10%以下时获得短路·霜龙。"
+                },
+                {
+                  "text": "短路·霜龙",
+                  "content": "生命值不低于1，技能失效并对百兽战车造成12.5%最大生命值的物理伤害。"
+                },
+                {
+                  "text": "静电吸附",
+                  "content": "回合结束时将所有人形拉拽到自身周围2格内随机位置，并造成20%攻击力的无视掩体的范围电导伤害。当生命值降至10%以下时获得短路·电蝎。"
+                },
+                {
+                  "text": "短路·电蝎",
+                  "content": "生命值不低于1，技能失效并对百兽战车造成12.5%最大生命值的物理伤害。"
+                },
+                {
+                  "text": "残喘",
+                  "content": "当生命值降至10%以下时获得短路·燃盾。"
+                },
+                {
+                  "text": "短路·燃盾",
+                  "content": "生命值不低于1，技能失效并对百兽战车造成12.5%最大生命值的物理伤害。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "hunterId": 14,
       "hunterName": "卡俄斯",
       "icon": {
