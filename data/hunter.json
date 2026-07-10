@@ -6,7 +6,8 @@
       "hunterName": "要塞伯爵",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/01.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-01.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -409,7 +410,8 @@
       "hunterName": "冰海舰骸",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/02.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-02.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -858,7 +860,8 @@
       "hunterName": "壁瘤棘虫",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/03.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-03.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -1360,7 +1363,8 @@
       "hunterName": "蓝雪球",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/04.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-04.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -1774,7 +1778,8 @@
       "hunterName": "羊头恐蜥",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/05.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-05.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -2083,7 +2088,8 @@
       "hunterName": "诡异人形",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/06.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-06.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -2335,7 +2341,8 @@
       "hunterName": "纵火者",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/07.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-07.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -2640,7 +2647,8 @@
       "hunterName": "尖喙铁兽",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/08.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-08.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -2934,7 +2942,8 @@
       "hunterName": "徒士双塔",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/09.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-09.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -3542,7 +3551,8 @@
       "hunterName": "堡垒泰坦",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/10.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-10.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -3828,7 +3838,8 @@
       "hunterName": "闪电?",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/11.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-11.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -4120,7 +4131,8 @@
       "hunterName": "百兽战车",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/12.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-12.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -4483,7 +4495,8 @@
       "hunterName": "针",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/13.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-13.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -4889,7 +4902,8 @@
       "hunterName": "卡俄斯",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/14.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-14.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -5172,7 +5186,8 @@
       "hunterName": "卢米",
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
-        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/15.png",
+        "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-15.png",
+        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
