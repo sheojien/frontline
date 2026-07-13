@@ -7,7 +7,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-01.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -411,7 +411,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-02.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -861,7 +861,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-03.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -1364,7 +1364,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-04.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -1779,7 +1779,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-05.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -2089,7 +2089,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-06.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -2342,7 +2342,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-07.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -2648,7 +2648,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-08.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -2943,7 +2943,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-09.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -3552,7 +3552,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-10.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -3839,7 +3839,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-11.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -4132,7 +4132,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-12.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -4496,7 +4496,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-13.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -4903,7 +4903,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-14.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
@@ -5187,7 +5187,7 @@
       "icon": {
         "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
         "panel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-PANEL-15.png",
-        "back": "http://192.168.3.86:28325/media/data/frontline/source/monster/HUNTER-BACK.png",
+        "back": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/monster/HUNTER-BACK.png",
         "condition": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_ASSIST.png",
         "boss": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_BOSS.png",
         "skill": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_SKILL.png",
