@@ -12,6 +12,12 @@
       "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/HEADHUNTER.jpg",
       "jump": "/pages/hunter/hunter",
       "isShow": true
+    },
+    {
+      "bannerId": 3,
+      "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/TERMS_DEFINITION.jpg",
+      "jump": "/pages/definition/definition",
+      "isShow": true
     }
   ],
   "msg": "成功"
