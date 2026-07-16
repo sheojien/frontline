@@ -2,6 +2,23 @@
   "code": 0,
   "data": [
     {
+      "weaponId": 10803,
+      "weaponName": "忏悔罗盘",
+      "weaponEnName": "AR-15",
+      "weaponType": "突击步枪",
+      "weaponBullet": "中型弹",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/char/WEAPON.png",
+      "weaponDesc": "",
+      "weaponTrait": "造成弹种物理伤害时，无视目标部分防御力。",
+      "weaponBrand": "",
+      "skills": [
+        {
+          "level": "罪恶衡量",
+          "description": "偶数回合时，造成物理伤害时无视目标部分防御力并且造成的物理伤害提高。奇数回合时，效果翻倍。"
+        }
+      ]
+    },
+    {
       "weaponId": 10793,
       "weaponName": "切尔诺伯格",
       "weaponEnName": "AK-12",
