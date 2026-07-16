@@ -3,6 +3,12 @@
   "data": [
     {
       "bannerId": 1,
+      "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/ASTIA.png",
+      "jump": "/pages/character/character?id=1080",
+      "isShow": true
+    },
+    {
+      "bannerId": 1,
       "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/SEARCH_BANNER.jpg",
       "jump": "/pages/search/search",
       "isShow": true
