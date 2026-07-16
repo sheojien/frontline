@@ -1,0 +1,18 @@
+{
+  "code": 0,
+  "data": {
+    "footerOA": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/code/official-account.png",
+    "footerCM": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/code/community.png",
+    "weaponPack": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/PACKAGE_BACK.png",
+    "weaponPackLeft": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/PACKAGE_LEFT.png",
+    "weaponView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/DECO_LEFT.png",
+    "weaponViewRight": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/DECO_RIGHT.png",
+    "bossIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/TEAM_EMPTY.png",
+    "characterRogue": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/ROGUE.png",
+    "characterAnnive": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/ANNIVE.png",
+    "characterTeam": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/TEAM_EMPTY.png",
+    "characterSandbox": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/SANDBOX.png",
+    "homeBack": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HOME_HEADER_BACK.png"
+  },
+  "msg": "成功"
+}
