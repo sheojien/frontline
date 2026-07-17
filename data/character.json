@@ -9909,7 +9909,7 @@
           "keyDesc": "锡兵卫队持有者行动结束时获得2层功勋。",
           "keyParam": ""
         },
-        {"keyId":"10629","keyType":"固键","keyName":"乐天派的奇思妙想","keyIcon":"https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/keys/common/A.png","keyDesc":"","keyParam":"","keySource":"刘易斯"},
+        {"keyId":"10629","keyType":"固键","keyName":"乐天派的奇思妙想","keyIcon":"https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/keys/common/A.png","keyDesc":"攻击持有溢火的目标时，造成的伤害提高15%，并对其施加防御降低Ⅱ持续2回合","keyParam":"","keySource":"刘易斯"},
         {
           "keyId": "10626",
           "keyType": "共键",
