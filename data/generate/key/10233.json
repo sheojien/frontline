@@ -1,1 +1,1 @@
-{"code":0,"data":{"keyId":"10233","keyType":"固键","keyName":"魔法援护","keyIcon":"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_Dusevnyj03.png","keyDesc":"主动技能产生冷凝类地格时，若范围内已有冷凝类地格，则触发地格反应，消除敌方目标脚下地格并驱散1个增益效果。每消除1个地格，获得1层寒冰的祝福，至多获得3层。","keyParam":"","keySource":"杜莎妮"},"msg":"成功"}
+{"code":0,"data":{"keyId":"10233","keyType":"固键","keyName":"魔法援护","keyIcon":"https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/keys/common/A.png","keyDesc":"主动技能产生冷凝类地格时，若范围内已有冷凝类地格，则触发地格反应，消除敌方目标脚下地格并驱散1个增益效果。每消除1个地格，获得1层寒冰的祝福，至多获得3层。","keyParam":"","keySource":"杜莎妮"},"msg":"成功"}
