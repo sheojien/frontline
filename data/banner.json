@@ -8,19 +8,19 @@
       "isShow": true
     },
     {
-      "bannerId": 1,
+      "bannerId": 2,
       "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/SEARCH_BANNER.jpg",
       "jump": "/pages/search/search",
       "isShow": true
     },
     {
-      "bannerId": 2,
+      "bannerId": 3,
       "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/HEADHUNTER.jpg",
       "jump": "/pages/hunter/hunter",
       "isShow": true
     },
     {
-      "bannerId": 3,
+      "bannerId": 4,
       "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/TERMS_DEFINITION.jpg",
       "jump": "/pages/definition/definition",
       "isShow": true
