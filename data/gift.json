@@ -2,6 +2,34 @@
   "code": 0,
   "data": [
     {
+      "giftId": 2,
+      "title": "艾莫号修复企划 直播兑换码",
+      "background": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/gift/YLAZW.jpg",
+      "expTime": "2026年6月25日 17:00",
+      "codes": [
+        {
+          "code": "3SV2BWRXXA",
+          "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/KIN.png",
+          "count": 30
+        },
+        {
+          "code": "9SCSPWG9PL",
+          "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/KIN.png",
+          "count": 30
+        },
+        {
+          "code": "LE36GS7ZNL",
+          "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/KIN.png",
+          "count": 30
+        },
+        {
+          "code": "RJL28KJDNK",
+          "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/KIN.png",
+          "count": 30
+        }
+      ]
+    },
+    {
       "giftId": 1,
       "title": "特别版本『伊利昂之围』前瞻直播兑换码",
       "background": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/gift/YLAZW.jpg",

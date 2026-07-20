@@ -3,7 +3,7 @@
   "data": [
     {
       "capId": 1,
-      "isShow": false,
+      "isShow": true,
       "capTitle": "前瞻兑换码",
       "capTitleIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/KIN.png",
       "capTo": "前往查看",
@@ -13,7 +13,7 @@
     },
     {
       "capId": 1,
-      "isShow": true,
+      "isShow": false,
       "capTitle": "歧路挑战",
       "capTitleIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HUNTER_MONSTER.png",
       "capTo": "前往查看",
