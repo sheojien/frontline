@@ -3,6 +3,7 @@
   "data": [
     {
       "rankName": "火力人形",
+      "rankIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/SENTINEL-WHITE.png",
       "children": [
         {
           "title": "幻神",
@@ -10,7 +11,7 @@
           "details": []
         },
         {
-          "title": "T0",
+          "title": "Τ0",
           "chars": [1077, 1076],
           "details": []
         },
@@ -28,14 +29,17 @@
     },
     {
       "rankName": "尖兵人形",
+      "rankIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/VANGUARD-WHITE.png",
       "children": []
     },
     {
       "rankName": "支援人形",
+      "rankIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/SUPPORT-WHITE.png",
       "children": []
     },
     {
       "rankName": "防卫人形",
+      "rankIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/BULWARK-WHITE.png",
       "children": []
     }
   ],
