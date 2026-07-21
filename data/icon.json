@@ -12,7 +12,11 @@
     "characterAnnive": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/ANNIVE.png",
     "characterTeam": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/TEAM_EMPTY.png",
     "characterSandbox": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/SANDBOX.png",
-    "homeBack": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HOME_HEADER_BACK.png"
+    "homeBack": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/HOME_HEADER_BACK.png",
+    "homeTagGift": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/king/GIFT.png",
+    "homeTagFight": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/king/FIGHT.png",
+    "homeTagHelp": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/king/HELP.png",
+    "homeTagRank": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/king/RANK.png"
   },
   "msg": "成功"
 }

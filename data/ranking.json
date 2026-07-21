@@ -6,30 +6,37 @@
       "children": [
         {
           "title": "幻神",
-          "chars": []
+          "chars": [1052, 1074, 1079, 1066],
+          "details": []
         },
         {
           "title": "T0",
-          "chars": []
+          "chars": [1077, 1076],
+          "details": []
         },
         {
           "title": "T1",
-          "chars": []
+          "chars": [1078],
+          "details": []
         },
         {
           "title": "T2",
-          "chars": []
+          "chars": [],
+          "details": []
         }
       ]
     },
     {
-      "rankName": "尖兵人形"
+      "rankName": "尖兵人形",
+      "children": []
     },
     {
-      "rankName": "支援人形"
+      "rankName": "支援人形",
+      "children": []
     },
     {
-      "rankName": "防卫人形"
+      "rankName": "防卫人形",
+      "children": []
     }
   ],
   "msg": "成功"
