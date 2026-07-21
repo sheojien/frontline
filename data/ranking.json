@@ -1,0 +1,36 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "rankName": "火力人形",
+      "children": [
+        {
+          "title": "幻神",
+          "chars": []
+        },
+        {
+          "title": "T0",
+          "chars": []
+        },
+        {
+          "title": "T1",
+          "chars": []
+        },
+        {
+          "title": "T2",
+          "chars": []
+        }
+      ]
+    },
+    {
+      "rankName": "尖兵人形"
+    },
+    {
+      "rankName": "支援人形"
+    },
+    {
+      "rankName": "防卫人形"
+    }
+  ],
+  "msg": "成功"
+}

@@ -7,14 +7,108 @@
       "weaponEnName": "AR-15",
       "weaponType": "突击步枪",
       "weaponBullet": "中型弹",
-      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/char/WEAPON.png",
-      "weaponDesc": "",
-      "weaponTrait": "造成弹种物理伤害时，无视目标部分防御力。",
+      "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1784284849764.png",
+      "weaponDesc": "攻击341【60级】 / 暴击伤害25%",
+      "weaponTrait": "造成弹种伤害时，无视目标10%防御力。",
+      "weaponBrand": "对持有防御类减益的目标造成伤害提高2.5%，对帕拉蒂斯造成的伤害提高2.5%。",
+      "skills": [
+        {
+          "level": "罪恶衡量Lv.1",
+          "description": "偶数回合时，造成物理伤害时无视目标5%防御力并且造成的物理伤害提高15%。奇数回合时，效果翻倍。"
+        },
+        {
+          "level": "罪恶衡量Lv.2",
+          "description": "偶数回合时，造成物理伤害时无视目标7%防御力并且造成的物理伤害提高17%。奇数回合时，效果翻倍。"
+        },
+        {
+          "level": "罪恶衡量Lv.3",
+          "description": "偶数回合时，造成物理伤害时无视目标9%防御力并且造成的物理伤害提高19%。奇数回合时，效果翻倍。"
+        },
+        {
+          "level": "罪恶衡量Lv.4",
+          "description": "偶数回合时，造成物理伤害时无视目标11%防御力并且造成的物理伤害提高21%。奇数回合时，效果翻倍。"
+        },
+        {
+          "level": "罪恶衡量Lv.5",
+          "description": "偶数回合时，造成物理伤害时无视目标13%防御力并且造成的物理伤害提高23%。奇数回合时，效果翻倍。"
+        },
+        {
+          "level": "罪恶衡量Lv.6",
+          "description": "偶数回合时，造成物理伤害时无视目标15%防御力并且造成的物理伤害提高25%。奇数回合时，效果翻倍。"
+        }
+      ]
+    },
+    {
+      "weaponId": 10802,
+      "weaponName": "阿玛莱特15型自动步枪",
+      "weaponEnName": "AR-15",
+      "weaponType": "突击步枪",
+      "weaponBullet": "中型弹",
+      "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1784285092131.png",
+      "weaponDesc": "攻击244【60级】",
+      "weaponTrait": "造成弹种伤害时，无视目标10%防御力。",
       "weaponBrand": "",
       "skills": [
         {
-          "level": "罪恶衡量",
-          "description": "偶数回合时，造成物理伤害时无视目标部分防御力并且造成的物理伤害提高。奇数回合时，效果翻倍。"
+          "level": "缄默射击Lv.1",
+          "description": "造成弹种伤害时，造成的伤害提高10%。"
+        },
+        {
+          "level": "缄默射击Lv.2",
+          "description": "造成弹种伤害时，造成的伤害提高12%。"
+        },
+        {
+          "level": "缄默射击Lv.3",
+          "description": "造成弹种伤害时，造成的伤害提高14%。"
+        },
+        {
+          "level": "缄默射击Lv.4",
+          "description": "造成弹种伤害时，造成的伤害提高16%。"
+        },
+        {
+          "level": "缄默射击Lv.5",
+          "description": "造成弹种伤害时，造成的伤害提高18%。"
+        },
+        {
+          "level": "缄默射击Lv.6",
+          "description": "造成弹种伤害时，造成的伤害提高20%。"
+        }
+      ]
+    },
+    {
+      "weaponId": 10801,
+      "weaponName": "旧式阿玛莱特15型自动步枪",
+      "weaponEnName": "AR-15",
+      "weaponType": "突击步枪",
+      "weaponBullet": "中型弹",
+      "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1784285233912.png",
+      "weaponDesc": "攻击174【60级】",
+      "weaponTrait": "",
+      "weaponBrand": "",
+      "skills": [
+        {
+          "level": "火力武装Lv.1",
+          "description": "造成伤害提高1%。"
+        },
+        {
+          "level": "火力武装Lv.2",
+          "description": "造成伤害提高2%。"
+        },
+        {
+          "level": "火力武装Lv.3",
+          "description": "造成伤害提高3%。"
+        },
+        {
+          "level": "火力武装Lv.4",
+          "description": "造成伤害提高4%。"
+        },
+        {
+          "level": "火力武装Lv.5",
+          "description": "造成伤害提高5%。"
+        },
+        {
+          "level": "火力武装Lv.6",
+          "description": "造成伤害提高6%。"
         }
       ]
     },
