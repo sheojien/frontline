@@ -7,22 +7,22 @@
       "children": [
         {
           "title": "幻神",
-          "chars": [1052, 1074, 1079, 1066],
+          "chars": [1052, 1074],
           "details": []
         },
         {
-          "title": "Τ0",
-          "chars": [1077, 1076],
+          "title": "第一梯队",
+          "chars": [1077, 1076, 1070, 1066, 1078, 1059, 1057, 1025, 1056],
           "details": []
         },
         {
-          "title": "T1",
-          "chars": [1078],
+          "title": "第二梯队",
+          "chars": [1072, 1062, 1060, 1034, 1027, 1021, 1055, 1075, 1058],
           "details": []
         },
         {
-          "title": "T2",
-          "chars": [],
+          "title": "第三梯队",
+          "chars": [1022, 1040, 1041, 1038, 1033, 1008],
           "details": []
         }
       ]
@@ -30,17 +30,65 @@
     {
       "rankName": "尖兵人形",
       "rankIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/VANGUARD-WHITE.png",
-      "children": []
+      "children": [
+        {
+          "title": "幻神",
+          "chars": [1079],
+          "details": []
+        },
+        {
+          "title": "第一梯队",
+          "chars": [1048, 1068, 1032],
+          "details": []
+        },
+        {
+          "title": "第二梯队",
+          "chars": [1037, 1045, 1050, 1049, 1043],
+          "details": []
+        },
+        {
+          "title": "第三梯队",
+          "chars": [1015, 1001],
+          "details": []
+        }
+      ]
     },
     {
       "rankName": "支援人形",
       "rankIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/SUPPORT-WHITE.png",
-      "children": []
+      "children": [
+        {
+          "title": "第一梯队",
+          "chars": [1073, 1065, 1047],
+          "details": []
+        },
+        {
+          "title": "第二梯队",
+          "chars": [1071, 1054, 1069, 1080, 1039, 1064, 1044, 1051, 1035, 1013, 1028],
+          "details": []
+        },
+        {
+          "title": "第三梯队",
+          "chars": [1023, 1061, 1036, 1026, 1024, 1009],
+          "details": []
+        }
+      ]
     },
     {
       "rankName": "防卫人形",
       "rankIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/BULWARK-WHITE.png",
-      "children": []
+      "children": [
+        {
+          "title": "第一梯队",
+          "chars": [1067, 1042, 1063],
+          "details": []
+        },
+        {
+          "title": "第二梯队",
+          "chars": [1053, 1029, 1017],
+          "details": []
+        }
+      ]
     }
   ],
   "msg": "成功"
