@@ -18,7 +18,9 @@
     "homeTagHelp": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/king/HELP.png",
     "homeTagRank": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/king/RANK.png",
     "homeRankTOP": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/rank/TOP.png",
-    "homeRankBOTTOM": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/rank/BOTTOM.png"
+    "homeRankBOTTOM": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/rank/BOTTOM.png",
+    "homeRankFLOW": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/rank/FLOW.png",
+    "homeRankFLOOR": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/rank/FLOOR.png"
   },
   "msg": "成功"
 }
