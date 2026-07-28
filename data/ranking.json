@@ -89,6 +89,39 @@
           "details": []
         }
       ]
+    },
+    {
+      "rankName": "治疗人形",
+      "rankIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/CHAR_TREAT.png",
+      "children": [
+        {
+          "title": "第一梯队",
+          "chars": [1064, 1047, 1038, 1039, 1054, 1071, 1073, 1036, 1034, 1009],
+          "details": []
+        }
+      ]
+    },
+    {
+      "rankName": "护盾人形",
+      "rankIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/CHAR_SHIELD.png",
+      "children": [
+        {
+          "title": "第一梯队",
+          "chars": [1067, 1039, 1065, 1076, 1057],
+          "details": []
+        }
+      ]
+    },
+    {
+      "rankName": "召唤人形",
+      "rankIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/classtype/CHAR_SUMMON.png",
+      "children": [
+        {
+          "title": "第一梯队",
+          "chars": [1035, 1077, 1079, 1071, 1072, 1047, 1064, 1069, 1065, 1061, 1058, 1055, 1042, 1040, 1050],
+          "details": []
+        }
+      ]
     }
   ],
   "msg": "成功"
