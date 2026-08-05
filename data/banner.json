@@ -3,8 +3,8 @@
   "data": [
     {
       "bannerId": 1,
-      "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/NEW_CHAR.jpg",
-      "jump": "/pages/character/character?id=1080",
+      "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/NEW_CHAR_1081.png",
+      "jump": "/pages/character/character?id=1081",
       "isShow": true
     },
     {
