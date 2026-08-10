@@ -1,0 +1,710 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "characterId": 1081,
+      "characterName": "伊格蕾塔",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/char/PANEL-1081.png",
+        "imageAvatar": ""
+      }
+    },
+    {
+      "characterId": 1080,
+      "characterName": "阿斯缇亚",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1080_96c8f3c8ce.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Asteria_1413f18fef.png"
+      }
+    },
+    {
+      "characterId": 1079,
+      "characterName": "克莱妲",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1079_a1c5f5d4b0.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Koleda_a0ed740c0d.png"
+      }
+    },
+    {
+      "characterId": 1078,
+      "characterName": "芙铃",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1078_33c52a39cb.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Faelynn_37f8802e09.png"
+      }
+    },
+    {
+      "characterId": 1063,
+      "characterName": "维尔德",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1063_323d5ae533.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Welrod_39b4f9bedd.png"
+      }
+    },
+    {
+      "characterId": 1077,
+      "characterName": "米蒂尔",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1077_aa85457b5c.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Mityl_dca84bd6c7.png"
+      }
+    },
+    {
+      "characterId": 1076,
+      "characterName": "索普",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1076_9ee93d0140.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Soppo_e6c112651f.png"
+      }
+    },
+    {
+      "characterId": 1074,
+      "characterName": "OTs-14",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Soil.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1074_b856947363.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-OTs14_80bf30e18f.png"
+      }
+    },
+    {
+      "characterId": 1075,
+      "characterName": "纳美西丝·衍光",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1075_83383cce65.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-NemesisGnosis_d5ea5d036b.png"
+      }
+    },
+    {
+      "characterId": 1072,
+      "characterName": "刘莳",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1072_49beee9ec7.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Liushih_d1d28a2246.png"
+      }
+    },
+    {
+      "characterId": 1073,
+      "characterName": "六分仪",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1073_25a4075bcb.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Sextans_10cdd2a6e8.png"
+      }
+    },
+    {
+      "characterId": 1071,
+      "characterName": "贝丝蒂",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1071_722abe7d7a.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Basti_059509fe1e.png"
+      }
+    },
+    {
+      "characterId": 1070,
+      "characterName": "夏安",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1070_9574042046.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Cheyanne_ba1c23bd8c.png"
+      }
+    },
+    {
+      "characterId": 1069,
+      "characterName": "罗蕾莱",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1069_b08627b9df.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Lorelei_dc789a433f.png"
+      }
+    },
+    {
+      "characterId": 1049,
+      "characterName": "哈卜茜",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png",
+      "quality": "SSR",
+      "isPermanent": "true",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1049_a7fce48e77.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Harpsy_8bc48a28e6.png"
+      }
+    },
+    {
+      "characterId": 1068,
+      "characterName": "樱花",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1068_31e4226651.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Sakura_bff060b387.png"
+      }
+    },
+    {
+      "characterId": 1067,
+      "characterName": "海伦",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1067_192e18c662.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Helen_d3bafc6bcc.png"
+      }
+    },
+    {
+      "characterId": 1062,
+      "characterName": "刘易斯",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1062_e70b412c38.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Lewis_bf325cfeaf.png"
+      }
+    },
+    {
+      "characterId": 1066,
+      "characterName": "威玛西娜",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1066_2537c47b16.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Voymastina_c00b874e89.png"
+      }
+    },
+    {
+      "characterId": 1064,
+      "characterName": "芙洛伦",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1064_180da17759.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Florence_48230e6dea.png"
+      }
+    },
+    {
+      "characterId": 1065,
+      "characterName": "埃芙",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1065_d29968d78b.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Alva_6f29d96665.png"
+      }
+    },
+    {
+      "characterId": 1061,
+      "characterName": "巴希达",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1061_432d299767.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Balthilde_33ce708751.png"
+      }
+    },
+    {
+      "characterId": 1060,
+      "characterName": "翡图萨",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1060_8af01bb77b.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Phaetusa_5dc72465d3.png"
+      }
+    },
+    {
+      "characterId": 1059,
+      "characterName": "琳德",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1059_859fa8f7a1.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Lind_376c46e2f8.png"
+      }
+    },
+    {
+      "characterId": 1058,
+      "characterName": "莱妮",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1058_3b1bdd21a2.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-LAINIE_a3b3eb7463.png"
+      }
+    },
+    {
+      "characterId": 1057,
+      "characterName": "洛贝拉",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1057_e2d9175be4.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Robella_6b031b59ac.png"
+      }
+    },
+    {
+      "characterId": 1056,
+      "characterName": "莱娅",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1056_e9d39e5fd6.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Leva_66d226beac.png"
+      }
+    },
+    {
+      "characterId": 1055,
+      "characterName": "妮基塔",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1055_70c5449069.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Nikketa_a8e6b3f8bb.png"
+      }
+    },
+    {
+      "characterId": 1054,
+      "characterName": "幼熙",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1054_df5af21b4e.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-YooHee_08e4af49b2.png"
+      }
+    },
+    {
+      "characterId": 1048,
+      "characterName": "秋桦",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1048_0f2dc446db.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Qiuhua_4278640b58.png"
+      }
+    },
+    {
+      "characterId": 1053,
+      "characterName": "佩莉",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1053_bfb8fb1535.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Peri_4ee0253525.png"
+      }
+    },
+    {
+      "characterId": 1043,
+      "characterName": "绯",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png",
+      "quality": "SSR",
+      "isPermanent": "true",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1043_d14fb11fe8.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Faye_bc2657354c.png"
+      }
+    },
+    {
+      "characterId": 1047,
+      "characterName": "春田",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1047_8796a429c6.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-Springfield_9b08164e51.png"
+      }
+    },
+    {
+      "characterId": 1045,
+      "characterName": "比悠卡",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1045_c8ac322d50.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-BELKA_9237c09f49.png"
+      }
+    },
+    {
+      "characterId": 1042,
+      "characterName": "安朵丝",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1042_d666488a90.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-ANDORIS_ab2d2b0883.png"
+      }
+    },
+    {
+      "characterId": 1044,
+      "characterName": "维克托",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1044_45e47b48a1.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-VECTOR_c8c69e63ba.png"
+      }
+    },
+    {
+      "characterId": 1051,
+      "characterName": "米什缇",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1051_f72b339822.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-MECHTY_0b9a94c3ef.png"
+      }
+    },
+    {
+      "characterId": 1052,
+      "characterName": "可露凯",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1052_90a39637c3.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-KLUKAI_af9559593b.png"
+      }
+    },
+    {
+      "characterId": 1040,
+      "characterName": "波波沙",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1040_4c8a4705b6.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-PAPASHA_f290f01d19.png"
+      }
+    },
+    {
+      "characterId": 1050,
+      "characterName": "朝晖",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1050_6cd79ea968.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-ZHAOHUI_07bea4b3ed.png"
+      }
+    },
+    {
+      "characterId": 1023,
+      "characterName": "杜莎妮",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1023_215c460387.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-DUSHEVNAYA_fd2e19f86f.png"
+      }
+    },
+    {
+      "characterId": 1039,
+      "characterName": "索米",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1039_11a7ef0fdd.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-SUOMI_431d49e07d.png"
+      }
+    },
+    {
+      "characterId": 1041,
+      "characterName": "洛塔",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png",
+      "quality": "SR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1041_42d3da6aff.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-LOTTA_29fceffd86.png"
+      }
+    },
+    {
+      "characterId": 1037,
+      "characterName": "乌尔丽德",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1037_563e11906a.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-ULLRID_f9dad958df.png"
+      }
+    },
+    {
+      "characterId": 1034,
+      "characterName": "玛绮朵",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Ice.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1034_b0c99de712.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-MACQIATO_bd683307fd.png"
+      }
+    },
+    {
+      "characterId": 1035,
+      "characterName": "绛雨",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1035_00ff9a342b.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-JIANGYU_fa072374cc.png"
+      }
+    },
+    {
+      "characterId": 1013,
+      "characterName": "莱娜",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1013_9e173c8e08.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-LENNA_8e283cc17d.png"
+      }
+    },
+    {
+      "characterId": 1028,
+      "characterName": "桑朵莱希",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1028_c07edffd60.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-CENTAUREISSI_6b7e1f757a.png"
+      }
+    },
+    {
+      "characterId": 1038,
+      "characterName": "莉塔拉",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png",
+      "quality": "SR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1038_2f4d0ca7f2.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-LITTARA_edc5d24561.png"
+      }
+    },
+    {
+      "characterId": 1036,
+      "characterName": "科谢尼娅",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png",
+      "quality": "SR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1036_ae475605ca.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-KSENIA_54a50f4fa8.png"
+      }
+    },
+    {
+      "characterId": 1033,
+      "characterName": "莫辛纳甘",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Electric.png",
+      "quality": "SSR",
+      "isPermanent": "true",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1033_05d0ab8eaf.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-MOSINNAGANT_69e75cd0e7.png"
+      }
+    },
+    {
+      "characterId": 1032,
+      "characterName": "黛烟",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1032_53f7b14def.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-DAIYAN_4ee1c05ff3.png"
+      }
+    },
+    {
+      "characterId": 1027,
+      "characterName": "琼玖",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png",
+      "quality": "SSR",
+      "isPermanent": "true",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1027_d439d59940.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-QIONGJIU_4ffaad9eff.png"
+      }
+    },
+    {
+      "characterId": 1026,
+      "characterName": "纳甘",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png",
+      "quality": "SR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1026_c1ca34af90.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-NAGANT_c7043a5816.png"
+      }
+    },
+    {
+      "characterId": 1029,
+      "characterName": "塞布丽娜",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png",
+      "quality": "SSR",
+      "isPermanent": "true",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1029_8b188b32bc.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-SABRINA_72b3d549a2.png"
+      }
+    },
+    {
+      "characterId": 1025,
+      "characterName": "托洛洛",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png",
+      "quality": "SSR",
+      "isPermanent": "true",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1025_70adcdc0b6.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-TOLOLO_7e8c5efd7a.png"
+      }
+    },
+    {
+      "characterId": 1024,
+      "characterName": "奇塔",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png",
+      "quality": "SR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1024_22853225d7.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-CHEETA_785ce6dcf3.png"
+      }
+    },
+    {
+      "characterId": 1022,
+      "characterName": "夏克里",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png",
+      "quality": "SR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1022_ac00086a5f.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-SHARKRY_e875cd821f.png"
+      }
+    },
+    {
+      "characterId": 1021,
+      "characterName": "佩里缇亚",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png",
+      "quality": "SSR",
+      "isPermanent": "true",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1021_1d1cdea0de.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-PERITYA_4787a8f4cc.png"
+      }
+    },
+    {
+      "characterId": 1015,
+      "characterName": "维普蕾",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png",
+      "quality": "SSR",
+      "isPermanent": "true",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1015_9e36a42c1a.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-VEPLEY_82a5b48ffc.png"
+      }
+    },
+    {
+      "characterId": 1009,
+      "characterName": "寇尔芙",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Water.png",
+      "quality": "SR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1009_8bf0f4e816.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-COLPHNE_666109f1e6.png"
+      }
+    },
+    {
+      "characterId": 1001,
+      "characterName": "克罗丽科",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Fire.png",
+      "quality": "SR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1001_fd92f43f6a.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-CHAROLIC_defd5b1f6d.png"
+      }
+    },
+    {
+      "characterId": 1008,
+      "characterName": "纳美西丝",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Poison.png",
+      "quality": "SR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1008_d87fe75ab9.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-NEMESIS_61023bda0c.png"
+      }
+    },
+    {
+      "characterId": 1017,
+      "characterName": "闪电",
+      "elementIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/element/Physical.png",
+      "quality": "SR",
+      "isPermanent": "false",
+      "image": {
+        "imagePanel": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/allroles-roles-1017_539d950a0c.png",
+        "imageAvatar": "https://gf2-cn.cdn.sunborngame.com/website/official_zf/pc/image2/head-GROZA_3ebd9c635e.png"
+      }
+    }
+  ],
+  "msg": "成功"
+}

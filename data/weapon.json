@@ -11,6 +11,8 @@
       "weaponDesc": "",
       "weaponTrait": "若技能不消耗导染指数，则暴击伤害提高",
       "weaponBrand": "对持有防御类减益的目标造成伤害提高2.5%，对帕拉蒂斯造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "逐风Lv.1",
@@ -28,6 +30,8 @@
       "weaponDesc": "攻击341【60级】 / 暴击伤害25%",
       "weaponTrait": "造成弹种伤害时，无视目标10%防御力。",
       "weaponBrand": "对持有防御类减益的目标造成伤害提高2.5%，对帕拉蒂斯造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "罪恶衡量Lv.1",
@@ -65,6 +69,8 @@
       "weaponDesc": "攻击244【60级】",
       "weaponTrait": "造成弹种伤害时，无视目标10%防御力。",
       "weaponBrand": "",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "缄默射击Lv.1",
@@ -102,6 +108,8 @@
       "weaponDesc": "攻击174【60级】",
       "weaponTrait": "",
       "weaponBrand": "",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -139,6 +147,8 @@
       "weaponDesc": "攻击362【60级】 / 攻击加成25%",
       "weaponTrait": "自身及自身召唤物的暴击伤害提高5%，若造成浊刻伤害，则提高至10%。",
       "weaponBrand": "对拥有浊刻类减益的目标造成伤害提高2.5%，对帕拉蒂斯造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "灾厄Lv.1",
@@ -176,6 +186,8 @@
       "weaponDesc": "攻击258【60级】",
       "weaponTrait": "自身及自身召唤物的暴击上海提高5%，若造成浊刻伤害，则提高至10%。",
       "weaponBrand": "",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "亵渎Lv.1",
@@ -213,6 +225,8 @@
       "weaponDesc": "攻击181【60级】",
       "weaponTrait": "",
       "weaponBrand": "",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -250,6 +264,8 @@
       "weaponDesc": "攻击383【60级】 / 暴击伤害25%",
       "weaponTrait": "造成范围伤害提高5%，若造成酸蚀范围伤害，则造成的范围伤害额外提高5%。",
       "weaponBrand": "【芙铃·烙印增效】\n对拥有酸蚀类减益的目标造成伤害提高2.5%，对帕拉蒂斯造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "狡犬衔锁Lv.1",
@@ -286,6 +302,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1780908563448.png",
       "weaponDesc": "攻击272【60级】",
       "weaponTrait": "累计受到30%初始生命值的伤害时，造成的伤害提高10%。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "兽抓刨伤Lv.1",
@@ -321,6 +339,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1780908417143.png",
       "weaponDesc": "攻击188【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -358,6 +378,8 @@
       "weaponDesc": "攻击390【60级】 / 攻击加成15%",
       "weaponTrait": "对位于燃烧类地格或冷凝类地格上的敌人造成的伤害提高5%，若此次伤害为燃烧伤害或冷凝伤害，则提升至10%。",
       "weaponBrand": "【索普·烙印增效】\n对拥有燃烧类或冷凝类减益的目标造成伤害提高2.5%，对伯介姆造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "结构性绞杀Lv.1",
@@ -395,6 +417,8 @@
       "weaponDesc": "攻击390【60级】 / 攻击加成15%",
       "weaponTrait": "若产生克制，则无视目标10%防御，产生燃烧克制时，额外无视其10%防御。",
       "weaponBrand": "【刘易斯·烙印增效】对持有燃烧类减益的目标造成伤害提高2.5%，对熵病毒造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "稚心绽放Lv.1",
@@ -432,6 +456,8 @@
       "weaponDesc": "攻击313【60级】 / 攻击加成15%",
       "weaponTrait": "累计受到30%初始生命值的伤害时，造成的伤害提高10%。",
       "weaponBrand": "【维尔德·烙印增效】\n对拥有酸蚀类减益的目标造成伤害提高2.5%，对塞卡科技造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "诺克斯十戒Lv.1",
@@ -469,6 +495,8 @@
       "weaponDesc": "攻击369【60级】 / 暴击伤害25%",
       "weaponTrait": "若产生克制，则无视目标20%的防御力。",
       "weaponBrand": "【Ots-14·烙印增效】\n对拥减益的目标造成伤害提高2.5%，对奥尔劳格财团造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "凯旋誓约Lv.1",
@@ -506,6 +534,8 @@
       "weaponDesc": "攻击383【60级】 / 攻击加成15%",
       "weaponTrait": "自身及自身的召唤物造成的伤害提高5%，若造成的是浊刻伤害，提高10%。",
       "weaponBrand": "【米蒂尔·烙印增效】\n对拥有浊刻类减益的目标造成伤害提高2.5%，对瓦良格帮造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "幻影尖兵Lv.1",
@@ -543,6 +573,8 @@
       "weaponDesc": "攻击383【60级】 / 暴击伤害25%",
       "weaponTrait": "行动支援造成的伤害提高10%。",
       "weaponBrand": "【纳美西丝·衍光·烙印增效】\n对拥有酸蚀类减益的目标造成伤害提高2.5%，对帕拉蒂斯造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "炽曜辉光Lv.1",
@@ -580,6 +612,8 @@
       "weaponDesc": "攻击341【60级】/攻击加成15%",
       "weaponTrait": "自身和自身的召唤物造成的范围伤害提高5%，若造成酸蚀范围伤害，则造成的范围伤害额外提高5%。",
       "weaponBrand": "【贝丝蒂·烙印增效】\n 对拥有酸蚀类减益的目标造成伤害提高2.5%，对奥尔劳格财团造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "群星殉灭Lv.1",
@@ -617,6 +651,8 @@
       "weaponDesc": "攻击341【60级】 / 攻击加成15%",
       "weaponTrait": "友方单位(不包括自己)释放主动技能前，若自身导染指数小于等于5点，则技能后自身获得1点导染指数，每回合至多触发1次。",
       "weaponBrand": "【六分仪·烙印增效】\n对拥有电导类减益的目标造成伤害提高2.5%，对生骸造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "日裁决Lv.1",
@@ -654,6 +690,8 @@
       "weaponDesc": "生命值946【60级】 / 暴击伤害25%",
       "weaponTrait": "行动结束时，自身实体召唤物获得1个随机初级增益效果，持续2回合。",
       "weaponBrand": "【刘莳·烙印增效】\n对拥有浊刻类减益的目标造成伤害提高2.5%，对无阵营的目标造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "戮力同心Lv.1",
@@ -691,6 +729,8 @@
       "weaponDesc": "攻击362【60级】 / 暴击伤害25%",
       "weaponTrait": "若产生克制，则无视目标10%防御，产生燃烧克制时，额外无视其10%防御。",
       "weaponBrand": "【樱花·烙印增效】\n对拥有燃烧类减益的目标造成伤害提高2.5%，对P.M.C.造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "绯樱灼华Lv.1",
@@ -728,6 +768,8 @@
       "weaponDesc": "攻击397 【60级】/ 攻击加成15%",
       "weaponTrait": "攻击防御力小于等于0的敌方目标后，造成1点固定稳态伤害。",
       "weaponBrand": "【夏安·烙印增效】 对拥有防御类减益的目标造成伤害提高2.5%，对莫科什造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "孤星寄怀Lv.1",
@@ -765,6 +807,8 @@
       "weaponDesc": "攻击348【60级】 / 暴击伤害25%",
       "weaponTrait": "行动结束时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
       "weaponBrand": "【比悠卡·烙印增效】\n对罗联造成的伤害提高2.5%，若目标拥有电导类减益，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "松鼠的魔法Lv.1",
@@ -802,6 +846,8 @@
       "weaponDesc": "攻击369【60级】 / 攻击加成15%",
       "weaponTrait": "行动结束时，若自身导染指数不满，则获得1个随机增益效果，持续1回合。",
       "weaponBrand": "【罗蕾莱·烙印增效】\n对拥有燃烧类减益的目标造成伤害提高2.5%，对生骸造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "月火遗诗Lv.1",
@@ -839,6 +885,8 @@
       "weaponDesc": "攻击348【60级】/ 攻击加成25%",
       "weaponTrait": "造成范围伤害提高5%，若造成酸蚀范围伤害，则造成的范围伤害额外提高5%。",
       "weaponBrand": "【哈卜茜·烙印增效】\n对莫科什造成的伤害提高2.5%，若目标拥有酸蚀类减益，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "true",
       "skills": [
         {
           "level": "数字进化Lv.1",
@@ -876,6 +924,8 @@
       "weaponDesc": "攻击299【60级】 / 攻击加成15%",
       "weaponTrait": "受到的物理伤害降低8%。",
       "weaponBrand": "【海伦·烙印增效】\n对塞卡科技造成的伤害提高2.5%，若目标拥有冷凝类减益，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "斗争的顶点Lv.1",
@@ -913,6 +963,8 @@
       "weaponDesc": "攻击390【60级】 / 攻击加成15%",
       "weaponTrait": "攻击无视1点稳态指数，拥有洞察时，额外无视1点稳态指数。",
       "weaponBrand": "【妮基塔·烙印增效】\n对拥有浊刻类减益的目标造成伤害提高2.5%，对塞卡科技造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "美德礼赞Lv.1",
@@ -950,6 +1002,8 @@
       "weaponDesc": "攻击369【60级】 / 暴击伤害25%",
       "weaponTrait": "造成范围伤害提高5%，若造成酸蚀范围伤害，则造成的范围伤害额外提高5%。",
       "weaponBrand": "【翡图萨·烙印增效】\n对拥有酸蚀类减益的目标造成伤害提高2.5%，对P.M.C.造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "萤火淬炼Lv.1",
@@ -987,6 +1041,8 @@
       "weaponDesc": "攻击320 【60级】/ 攻击加成15%",
       "weaponTrait": "治疗后，自身恢复2点稳态指数，每回合至多触发1次。",
       "weaponBrand": "【桑朵莱希·烙印增效】\n对帕拉蒂斯造成伤害提高2.5%，若使用的技能拥有异位属性，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "沉稳守护Lv.1",
@@ -1024,6 +1080,8 @@
       "weaponDesc": "攻击341【60级】 / 暴击伤害25%",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
       "weaponBrand": "【黛烟·烙印增效】\n对P.M.C.造成伤害提高2.5%，暴击伤害提高5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "历音Lv.1",
@@ -1061,6 +1119,8 @@
       "weaponDesc": "攻击327【60级】 / 攻击加成15%",
       "weaponTrait": "破坏掩体时，获得速效屏障。",
       "weaponBrand": "【塞布丽娜·烙印增效】\n对瓦良格帮造成伤害提高2.5%，若使用的技能为导染类技能，则额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "true",
       "skills": [
         {
           "level": "完美食谱Lv.1",
@@ -1098,6 +1158,8 @@
       "weaponDesc": "攻击369【60级】 / 攻击加成15%",
       "weaponTrait": "行动结束时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
       "weaponBrand": "【琼玖·烙印增效】\n对生骸造成伤害提高2.5%，若对方不受掩体保护，则额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "true",
       "skills": [
         {
           "level": "积势Lv.1",
@@ -1135,6 +1197,8 @@
       "weaponDesc": "攻击376 【60级】/ 暴击伤害25%",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个攻击类增益，持续1回合。",
       "weaponBrand": "【托洛洛·烙印增效】\n对生骸造成伤害提高2.5%，若自身处于满稳态，则额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "true",
       "skills": [
         {
           "level": "轨迹巡弋Lv.1",
@@ -1172,6 +1236,8 @@
       "weaponDesc": "攻击348 【60级】/ 暴击25%",
       "weaponTrait": "若造成范围伤害，则施加1个减益效果，持续1回合；若目标拥有3个以上减益效果，则此次攻击无视其15%的掩体减伤。",
       "weaponBrand": "【佩里缇亚·烙印增效】\n对瓦良格帮造成伤害提高2.5%，若使用的技能为基础类技能，则额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "true",
       "skills": [
         {
           "level": "谐振腔Lv.1",
@@ -1209,6 +1275,8 @@
       "weaponDesc": "攻击320 【60级】/ 导染增伤30%",
       "weaponTrait": "破坏掩体时，获得速效屏障。",
       "weaponBrand": "【维普蕾·烙印增效】\n对帕拉蒂斯造成伤害提高2.5%，若目标身上无增益效果，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "true",
       "skills": [
         {
           "level": "安可Lv.1",
@@ -1246,6 +1314,8 @@
       "weaponDesc": "攻击390 【60级】/ 暴击伤害25%",
       "weaponTrait": "攻击防御力小于等于0的敌方目标后，造成1点固定稳态伤害。",
       "weaponBrand": "【威玛西娜·烙印增效】\n对拥有防御类减益的目标造成伤害提高2.5%，对吉拉尔集团造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "斗争的顶点Lv.1",
@@ -1283,6 +1353,8 @@
       "weaponDesc": "攻击355【60级】 / 攻击加成15%",
       "weaponTrait": "使用主动技能前，驱散自身1个减益效果，若驱散成功，则获得1个随机增益，持续1回合。",
       "weaponBrand": "【芙洛伦·烙印增效】\n对拥有浊刻类减益的目标造成伤害提高2.5%，对P.M.C.造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "禁忌支配者Lv.1",
@@ -1320,6 +1392,8 @@
       "weaponDesc": "攻击348【60级】 / 暴击伤害25%",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
       "weaponBrand": "【埃芙·烙印增效】\n对拥有冷凝类减益的目标造成伤害提高2.5%，对吉拉尔集团造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "雪镜协奏Lv.1",
@@ -1357,6 +1431,8 @@
       "weaponDesc": "攻击313【60级】 / 攻击加成15%",
       "weaponTrait": "攻击防御力小于等于0的敌方目标后，造成1点固定稳态伤害。",
       "weaponBrand": "【巴希达·烙印增效】\n对拥有防御类减益的目标造成伤害提高2.5%，对吉拉尔集团造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "沉重的咬合Lv.1",
@@ -1394,6 +1470,8 @@
       "weaponDesc": "攻击390【60级】 / 暴击伤害25%",
       "weaponTrait": "攻击防御力小于等于0的敌方目标后，造成1点固定稳态伤害。",
       "weaponBrand": "【莱妮·烙印增效】\n对拥有防御类减益的目标造成伤害提高2.5%，对P.M.C.造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "伞尖锋芒Lv.1",
@@ -1431,6 +1509,8 @@
       "weaponDesc": "攻击390【60级】 / 攻击加成15%",
       "weaponTrait": "造成范围伤害提高5%，若造成酸蚀范围伤害，则造成的范围伤害额外提高5%。",
       "weaponBrand": "【琳德·烙印增效】 \n对拥有酸蚀类减益的目标造成伤害提高2.5%，对P.M.C.造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "焦虑代偿Lv.1",
@@ -1468,6 +1548,8 @@
       "weaponDesc": "攻击390【60级】 / 攻击加成15%",
       "weaponTrait": "造成的稳态伤害提高1点，若目标为首领单位，则额外提高1点。",
       "weaponBrand": "【莱娅·烙印增效】\n对拥有电导类减益的目标造成伤害提高2.5%，对吉拉尔集团造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "引敌入局Lv.1",
@@ -1505,6 +1587,8 @@
       "weaponDesc": "攻击390 【60级】/ 攻击加成15%",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
       "weaponBrand": "【洛贝拉·烙印增效】\n对拥有冷凝类减益的目标造成伤害提高2.5%，对吉拉尔集团造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "冷静审视Lv.1",
@@ -1542,6 +1626,8 @@
       "weaponDesc": "攻击348 【60级】/ 攻击加成15%",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
       "weaponBrand": "【幼熙·烙印增效】\n对持有防御减益的目标造成伤害提高2.5%，对塞卡科技造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "璀璨火花Lv.1",
@@ -1579,6 +1665,8 @@
       "weaponDesc": "攻击320 【60级】/ 攻击加成15%",
       "weaponTrait": "受到伤害时，攻击者每拥有1个燃烧类减益，自身受到伤害降低2%，至多降低6%。",
       "weaponBrand": "【佩莉·烙印增效】\n对塞卡科技造成的伤害提高2.5%，若目标拥有燃烧类减益，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "致命红心Lv.1",
@@ -1616,6 +1704,8 @@
       "weaponDesc": "攻击390【60级】 / 攻击加成15%",
       "weaponTrait": "若产生克制，则无视目标10%防御，产生酸蚀克制时，额外无视其10%防御。",
       "weaponBrand": "【可露凯·烙印增效】\n对罗联造成的伤害提高2.5%，若目标拥有酸蚀类减益，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "鳄鱼的眼泪Lv.1",
@@ -1653,6 +1743,8 @@
       "weaponDesc": "攻击341【60级】 / 攻击加成15%",
       "weaponTrait": "普攻时，无视目标20%防御。",
       "weaponBrand": "【米什缇·烙印增效】\n对罗联造成的伤害提高2.5%，若目标拥有酸蚀类减益，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "多重梦空间Lv.1",
@@ -1690,6 +1782,8 @@
       "weaponDesc": "攻击348 【60级】/ 暴击伤害25%",
       "weaponTrait": "若移动5格及以上，则下次行动开始时，获得移动提升II，持续1回合。",
       "weaponBrand": "【朝晖·烙印增效】\n对P.M.C.造成伤害提高2.5%；若目标拥有浊刻类减益，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "除恶务尽Lv.1",
@@ -1727,6 +1821,8 @@
       "weaponDesc": "攻击348【60级】 / 暴击伤害25%",
       "weaponTrait": "使用主动技能前，驱散自身1个减益效果，若驱散成功，则获得1个随机攻击增益，持续1回合。",
       "weaponBrand": "【秋桦·烙印增效】\n对塞卡科技造成的伤害提高2.5%，若目标拥有燃烧类减益，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "薪火燎原Lv.1",
@@ -1764,6 +1860,8 @@
       "weaponDesc": "攻击320【60级】 / 攻击加成15%",
       "weaponTrait": "治疗后，自身恢复2点稳态指数，每回合至多触发1次。",
       "weaponBrand": "【春田·烙印增效】\n对拥有浊刻类减益的目标造成伤害提高2.5%，对塞卡科技造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "同心所向Lv.1",
@@ -1801,6 +1899,8 @@
       "weaponDesc": "攻击348【60级】 / 攻击加成15%",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
       "weaponBrand": "【维克托·烙印增效】\n对罗联造成的伤害提高2.5%，若目标拥有燃烧类减益，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "悼亡诗Lv.1",
@@ -1838,6 +1938,8 @@
       "weaponDesc": "攻击341【60级】 / 暴击伤害25%",
       "weaponTrait": "使自身周围半径3格内的敌方单位受到的稳态伤害提高1点。",
       "weaponBrand": "【绯·烙印增效】\n对持有防御减益的目标造成伤害提高2.5%，对塞卡科技造成的伤害提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "true",
       "skills": [
         {
           "level": "仙灵吐息Lv.1",
@@ -1875,6 +1977,8 @@
       "weaponDesc": "攻击327 【60级】/ 攻击加成15%",
       "weaponTrait": "受到伤害时目标每有1个电导类减益降低2%伤害，最大6%。",
       "weaponBrand": "【安朵丝·烙印增效】\n对罗联造成的伤害提高2.5%，若目标拥有电导类减益，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "和暖关照Lv.1",
@@ -1912,6 +2016,8 @@
       "weaponDesc": "攻击369【60级】 / 攻击加成15%",
       "weaponTrait": "造成伤害时，目标每拥有1个减益效果，无视其5%的防御，至多20%。",
       "weaponBrand": "【波波沙·烙印增效】\n对P.M.C.造成伤害提高2.5%；对大型目标，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "荣光照引Lv.1",
@@ -1949,6 +2055,8 @@
       "weaponDesc": "攻击313【60级】 / 攻击加成15%",
       "weaponTrait": "若移动5格及以上，则下次行动开始时，获得移动提升II，持续1回合。",
       "weaponBrand": "【索米·烙印增效】\n对马利热电厂造成伤害提高2.5%；若目标拥有僵冷，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "致密防护Lv.1",
@@ -1986,6 +2094,8 @@
       "weaponDesc": "攻击341 【60级】/ 暴击25%",
       "weaponTrait": "主动攻击后自身获得1点导染，每回合至多触发1次。",
       "weaponBrand": "【乌尔丽德·烙印增效】\n对马利热电厂造成伤害提高2.5%；若目标生命值不满，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "首领威势Lv.1",
@@ -2023,6 +2133,8 @@
       "weaponDesc": "攻击348 【60级】/ 暴击伤害25%",
       "weaponTrait": "释放制胜技能后，获得3格移动追加。每回合至多生效1次。",
       "weaponBrand": "【绛雨·烙印增效】\n对P.M.C.造成伤害提高2.5%，若目标拥有防御减益，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "跃步积势Lv.1",
@@ -2060,6 +2172,8 @@
       "weaponDesc": "攻击390【60级】 / 暴击伤害25%",
       "weaponTrait": "攻击无视目标10%防御，若目标拥有冷凝类减益，额外无视其10%防御。",
       "weaponBrand": "【玛绮朵·烙印增效】\n对帕拉蒂斯造成伤害提高2.5%，若目标拥有凝固，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "抹杀艺术Lv.1",
@@ -2097,6 +2211,8 @@
       "weaponDesc": "攻击383 【60级】/ 暴击伤害25%",
       "weaponTrait": "攻击无视1点稳态指数，拥有洞察时，额外无视1点稳态指数。",
       "weaponBrand": "【杜莎妮·烙印增效】\n对P.M.C.造成伤害提高2.5%，若目标拥有麻痹，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "true",
       "skills": [
         {
           "level": "加把劲Lv.1",
@@ -2134,6 +2250,8 @@
       "weaponDesc": "攻击348【60级】 / 攻击加成15%",
       "weaponTrait": "若产生克制，则无视目标10%防御，产生冷凝克制时，额外无视其10%防御。",
       "weaponBrand": "【杜莎妮·烙印增效】\n对马利热电厂造成伤害提高2.5%；若目标拥有凝固，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "胜者加冕Lv.1",
@@ -2171,6 +2289,8 @@
       "weaponDesc": "攻击313【60级】 / 攻击加成15%",
       "weaponTrait": "造成伤害时，目标每拥有1个减益效果，无视其5%的防御，至多20%。",
       "weaponBrand": "【莱娜·烙印增效】\n对瓦良格帮造成伤害提高2.5%，若目标拥有麻痹，额外提高2.5%。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "狮吼Lv.1",
@@ -2207,6 +2327,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763811116817.png",
       "weaponDesc": "攻击306【60级】 / 攻击加成15%",
       "weaponTrait": "破坏掩体时，获得速效屏障。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "霰弹施压Lv.1",
@@ -2243,6 +2365,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763810985559.png",
       "weaponDesc": "攻击327 【60级】/ 攻击加成15%",
       "weaponTrait": "若造成范围伤害，则施加1个减益效果，持续1回合。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "定点射击Lv.1",
@@ -2279,6 +2403,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763810652901.png",
       "weaponDesc": "攻击313 【60级】/ 攻击加成15%",
       "weaponTrait": "主动攻击每造成3次击杀，则获得1次行动追加（每回合至多触发1次）。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "正面交锋Lv.1",
@@ -2315,6 +2441,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763810270078.png",
       "weaponDesc": "攻击320【60级】 / 攻击加成15%",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
+      "quality": "SSR",
+      "isPermanent": "true",
       "skills": [
         {
           "level": "集群作战Lv.1",
@@ -2351,6 +2479,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763810187535.png",
       "weaponDesc": "攻击327 【60级】/ 攻击加成15%",
       "weaponTrait": "攻击无视1点稳态指数，拥有洞察时，额外无视1点稳态指数。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "单兵突破Lv.1",
@@ -2387,6 +2517,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1763810042825.png",
       "weaponDesc": "攻击292【60级】 / 攻击加成15%",
       "weaponTrait": "若移动5格及以上，则下次行动开始时，获得移动提升II，持续1回合。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "战场奔袭Lv.1",
@@ -2423,6 +2555,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1778838335829.png",
       "weaponDesc": "攻击223【60级】",
       "weaponTrait": "累计受到30%初始生命值的伤害时，造成的伤害提高10%。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "推理范式Lv.1",
@@ -2456,9 +2590,11 @@
       "weaponEnName": "",
       "weaponType": "手枪",
       "weaponBullet": "轻型弹",
-      "weaponIcon": "https://gf2.mcc.wiki/image/weapon/Weapon_BpHRssr001_5_1024.png",
+      "weaponIcon": "https://gf2.mcc.wiki/static/image/weapon/Weapon_BpHRssr001_5_1024.png",
       "weaponDesc": "攻击285【60级】 / 攻击加成15%",
       "weaponTrait": "普通攻击射程增加1格，攻击后获得1点导染指数。",
+      "quality": "SSR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "机动掩护Lv.1",
@@ -2495,6 +2631,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1776943583657.png",
       "weaponDesc": "攻击272【60级】",
       "weaponTrait": "自身及自身的召唤物造成的伤害提高5%，若造成的是浊刻伤害，提高10%。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "模仿本能Lv.1",
@@ -2531,6 +2669,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1769769809952.png",
       "weaponDesc": "生命值675【60级】",
       "weaponTrait": "行动结束时，自身实体召唤物获得1个随机增益效果，持续2回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "助阵Lv.1",
@@ -2567,6 +2707,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1775522288787.png",
       "weaponDesc": "攻击278【60级】",
       "weaponTrait": "对位于燃烧类地格或冷凝类地格上的敌人造成的伤害提高5%，若此次伤害为燃烧伤害或冷凝伤害，则提升至10%。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "针对性预演Lv.1",
@@ -2603,6 +2745,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1773403457308.png",
       "weaponDesc": "攻击265【60级】",
       "weaponTrait": "若产生克制，则无视目标20%的防御力。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "契约赦令Lv.1",
@@ -2639,6 +2783,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1771775440887.png",
       "weaponDesc": "攻击244【60级】",
       "weaponTrait": "友方单位（不包含自身）使用主动技能前，若自身导染指数小于等于5点，则技能后自身获得1点导染指数，每回合至多触发1次。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "暗夜降临Lv.1",
@@ -2675,6 +2821,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1767972834874.png",
       "weaponDesc": "攻击244【60级】",
       "weaponTrait": "自身和自身的召唤物造成的范围伤害提高5%，若造成酸蚀范围伤害，则造成的范围伤害额外提高5%。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "街头明星Lv.1",
@@ -2711,6 +2859,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1766129167308.png",
       "weaponDesc": "攻击285【60级】",
       "weaponTrait": "攻击防御力小于等于0的敌方目标后，造成1点固定稳态伤害。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "遥远守望Lv.1",
@@ -2747,6 +2897,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764320244170.png",
       "weaponDesc": "攻击244【60级】",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "扬声Lv.1",
@@ -2783,6 +2935,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764320115495.png",
       "weaponDesc": "攻击230【60级】",
       "weaponTrait": "治疗后，自身恢复2点稳态指数，每回合至多触发1次。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "双效提振Lv.1",
@@ -2819,6 +2973,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764320389215.png",
       "weaponDesc": "攻击244【60级】",
       "weaponTrait": "回合外攻击射程增加1格，造成的稳态伤害增加1点。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "热效递进Lv.1",
@@ -2855,6 +3011,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764320467466.png",
       "weaponDesc": "攻击230【60级】",
       "weaponTrait": "破坏掩体时，获得速效屏障。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "谢谢款待Lv.1",
@@ -2891,6 +3049,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764320567720.png",
       "weaponDesc": "攻击265【60级】",
       "weaponTrait": "行动结束时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "摧锋Lv.1",
@@ -2927,6 +3087,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764320664085.png",
       "weaponDesc": "攻击237【60级】",
       "weaponTrait": "若移动5格及以上，则下次行动开始时，获得移动提升II，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "有益发明Lv.1",
@@ -2963,6 +3125,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764320853936.png",
       "weaponDesc": "攻击272【60级】",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "耐行Lv.1",
@@ -2999,6 +3163,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764321038234.png",
       "weaponDesc": "攻击272【60级】",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "聚光灯Lv.1",
@@ -3035,6 +3201,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764321163053.png",
       "weaponDesc": "攻击251【60级】",
       "weaponTrait": "若造成范围伤害，则施加1个减益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "共聚焦Lv.1",
@@ -3071,6 +3239,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764321512655.png",
       "weaponDesc": "攻击216【60级】",
       "weaponTrait": "行动结束时，若自身拥有3层或以上掩护，则恢复1点稳态指数。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "逆境转袭Lv.1",
@@ -3107,6 +3277,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764321580432.png",
       "weaponDesc": "攻击230【60级】",
       "weaponTrait": "破坏掩体时，获得速效屏障。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "盛装登场Lv.1",
@@ -3143,6 +3315,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764324327811.png",
       "weaponDesc": "攻击209【60级】",
       "weaponTrait": "普通攻击射程增加1格，攻击后获得1点导染指数。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "灵巧后援Lv.1",
@@ -3179,6 +3353,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764324532801.png",
       "weaponDesc": "攻击278【60级】",
       "weaponTrait": "攻击无视1点稳态指数，拥有洞察时，额外无视1点稳态指数。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "殁兆宣祷Lv.1",
@@ -3215,6 +3391,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764324622619.png",
       "weaponDesc": "攻击244【60级】",
       "weaponTrait": "主动攻击每造成3次击杀，则获得1次行动追加（每回合至多触发1次）。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "原野猎手Lv.1",
@@ -3251,6 +3429,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1765008081243.png",
       "weaponDesc": "攻击265【60级】",
       "weaponTrait": "行动结束时，若自身导染指数不满，则获得1个随机增益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "不熄终曲Lv.1",
@@ -3287,6 +3467,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1765008637141.png",
       "weaponDesc": "攻击251【60级】",
       "weaponTrait": "造成范围伤害提高5%，若造成酸蚀范围伤害，则造成的范围伤害额外提高5%。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "算力再分配Lv.1",
@@ -3323,6 +3505,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764324749101.png",
       "weaponDesc": "攻击258【60级】",
       "weaponTrait": "若产生克制，则无视目标10%防御，产生燃烧克制时，额外无视其10%防御。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "焰樱Lv.1",
@@ -3359,6 +3543,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764324923233.png",
       "weaponDesc": "攻击216【60级】",
       "weaponTrait": "造成的稳态伤害增加1点。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "霜华缭乱Lv.1",
@@ -3395,6 +3581,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764325005829.png",
       "weaponDesc": "攻击278【60级】",
       "weaponTrait": "攻击防御力小于等于0的敌方目标后，造成1点固定稳态伤害。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "剔骨之牙Lv.1",
@@ -3431,6 +3619,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764325077179.png",
       "weaponDesc": "攻击251【60级】",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "完美后备Lv.1",
@@ -3467,6 +3657,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764325149551.png",
       "weaponDesc": "攻击251【60级】",
       "weaponTrait": "使用主动技能前，驱散自身1个减益效果，若驱散成功，则获得1个随机增益，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "服从之心Lv.1",
@@ -3503,6 +3695,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764403618909.png",
       "weaponDesc": "攻击278【60级】",
       "weaponTrait": "若产生克制，则无视目标10%防御，产生燃烧克制时，额外无视其10%防御。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "绘梦Lv.1",
@@ -3539,6 +3733,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764325720094.png",
       "weaponDesc": "攻击223【60级】",
       "weaponTrait": "攻击防御力小于等于0的敌方目标后，造成1点固定稳态伤害。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "机械天赋Lv.1",
@@ -3575,6 +3771,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764326085996.png",
       "weaponDesc": "攻击265【60级】",
       "weaponTrait": "造成范围伤害提高5%，若造成酸蚀范围伤害，则造成的范围伤害额外提高5%。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "刀魂Lv.1",
@@ -3611,6 +3809,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764326200082.png",
       "weaponDesc": "攻击278【60级】",
       "weaponTrait": "造成范围伤害提高5%，若造成酸蚀范围伤害，则造成的范围伤害额外提高5%。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "激素特化Lv.1",
@@ -3647,6 +3847,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764326284745.png",
       "weaponDesc": "攻击278【60级】",
       "weaponTrait": "攻击防御力小于等于0的敌方目标后，造成1点固定稳态伤害。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "优势追击Lv.1",
@@ -3683,6 +3885,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764328297175.png",
       "weaponDesc": "攻击278【60级】",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "出击的决心Lv.1",
@@ -3719,6 +3923,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764328388752.png",
       "weaponDesc": "攻击278【60级】",
       "weaponTrait": "造成的稳态伤害提高1点，若目标为首领单位，则额外提高1点。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "优势利用Lv.1",
@@ -3755,6 +3961,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764328485290.png",
       "weaponDesc": "攻击278【60级】",
       "weaponTrait": "攻击无视1点稳态指数，拥有洞察时，额外无视1点稳态指数。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "警诫Lv.1",
@@ -3791,6 +3999,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764328957843.png",
       "weaponDesc": "攻击251【60级】",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "坚定之心Lv.1",
@@ -3827,6 +4037,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764329034952.png",
       "weaponDesc": "攻击230【60级】",
       "weaponTrait": "受到伤害时，攻击者每拥有1个燃烧类减益，自身受到伤害降低2%，至多降低6%。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "无间勇气Lv.1",
@@ -3863,6 +4075,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764329298772.png",
       "weaponDesc": "攻击278【60级】",
       "weaponTrait": "若产生克制，则无视目标10%防御，产生酸蚀克制时，额外无视其10%防御。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "无情推演Lv.1",
@@ -3899,6 +4113,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764329595864.png",
       "weaponDesc": "攻击244【60级】",
       "weaponTrait": "行动结束时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "诡原梦境Lv.1",
@@ -3935,6 +4151,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764329668989.png",
       "weaponDesc": "攻击251【60级】",
       "weaponTrait": "若移动5格及以上，则下次行动开始时，获得移动提升II，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "破风追云Lv.1",
@@ -3971,6 +4189,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764332134594.png",
       "weaponDesc": "攻击251【60级】",
       "weaponTrait": "使用主动技能前，驱散自身1个减益效果，若驱散成功，则获得1个随机攻击增益，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "燃薪Lv.1",
@@ -4007,6 +4227,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764332622582.png",
       "weaponDesc": "攻击230【60级】",
       "weaponTrait": "治疗后，自身恢复2点稳态指数，每回合至多触发1次。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "无声共情Lv.1",
@@ -4043,6 +4265,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764332700250.png",
       "weaponDesc": "攻击251【60级】",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "撒娇绝技Lv.1",
@@ -4079,6 +4303,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764332784994.png",
       "weaponDesc": "攻击251【60级】",
       "weaponTrait": "行动开始时，若自身满生命值，则随机获得1个增益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "黯然Lv.1",
@@ -4115,6 +4341,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764332887869.png",
       "weaponDesc": "攻击244【60级】",
       "weaponTrait": "使自身周围半径3格内的敌方单位受到的稳态伤害提高1点。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "碎形Lv.1",
@@ -4151,6 +4379,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764403534802.png",
       "weaponDesc": "攻击223【60级】",
       "weaponTrait": "受到伤害时目标每有1个电导类减益降低2%伤害，最大6%。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "稳健策略Lv.1",
@@ -4187,6 +4417,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764333057109.png",
       "weaponDesc": "攻击278【60级】",
       "weaponTrait": "破坏掩体时，获得速效屏障。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "展翼Lv.1",
@@ -4223,6 +4455,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764333139274.png",
       "weaponDesc": "攻击265【60级】",
       "weaponTrait": "造成伤害时，目标每拥有1个减益效果，无视其5%的防御，至多20%。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "高级通缉Lv.1",
@@ -4259,6 +4493,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764319519961.png",
       "weaponDesc": "攻击223【60级】",
       "weaponTrait": "若移动5格及以上，则下次行动开始时，获得移动提升II，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "雪中送炭Lv.1",
@@ -4295,6 +4531,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764333241014.png",
       "weaponDesc": "攻击265【60级】",
       "weaponTrait": "若造成范围伤害，则施加1个减益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "慎行Lv.1",
@@ -4331,6 +4569,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764333345725.png",
       "weaponDesc": "攻击244【60级】",
       "weaponTrait": "主动攻击后自身获得1点导染，每回合至多触发1次。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "捕狩Lv.1",
@@ -4367,6 +4607,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764333419539.png",
       "weaponDesc": "攻击216【60级】",
       "weaponTrait": "普通攻击射程增加1格，攻击后获得1点导染指数。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "激情消费Lv.1",
@@ -4403,6 +4645,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764333508499.png",
       "weaponDesc": "攻击251【60级】",
       "weaponTrait": "施加异位属性类减益效果后，自身随机获得1个增益效果，持续1回合。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "摧锋Lv.1",
@@ -4439,6 +4683,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764333587859.png",
       "weaponDesc": "攻击278【60级】",
       "weaponTrait": "攻击无视目标10%防御，若目标拥有冷凝类减益，额外无视其10%防御。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "全盛态势Lv.1",
@@ -4475,6 +4721,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764333657036.png",
       "weaponDesc": "攻击272【60级】",
       "weaponTrait": "攻击无视1点稳态指数，拥有洞察时，额外无视1点稳态指数。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "趁热打铁Lv.1",
@@ -4511,6 +4759,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764333732572.png",
       "weaponDesc": "攻击251【60级】",
       "weaponTrait": "若产生克制，则无视目标10%防御，产生冷凝克制时，额外无视其10%防御。",
+      "quality": "SR",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "裁决时刻Lv.1",
@@ -4547,6 +4797,8 @@
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764333809891.png",
       "weaponDesc": "攻击223【60级】",
       "weaponTrait": "造成伤害时，目标每拥有1个减益效果，无视其5%的防御，至多20%。",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "锐牙Lv.1",
@@ -4582,6 +4834,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1776943847652.png",
       "weaponDesc": "攻击188【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -4617,6 +4871,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1778838273408.png",
       "weaponDesc": "攻击153【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -4652,6 +4908,8 @@
       "weaponBullet": "",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1771775622561.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -4687,6 +4945,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1775213030248.png",
       "weaponDesc": "攻击195【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -4722,6 +4982,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1773403599548.png",
       "weaponDesc": "攻击188【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -4757,6 +5019,8 @@
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764398018655.png",
       "weaponDesc": "攻击195【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -4792,6 +5056,8 @@
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1769769948457.png",
       "weaponDesc": "生命值473【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -4827,6 +5093,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1767972577600.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "援助武装Lv.1",
@@ -4862,6 +5130,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764397930658.png",
       "weaponDesc": "攻击160【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "援助武装Lv.1",
@@ -4897,6 +5167,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764398300583.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -4932,6 +5204,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764398509650.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -4967,6 +5241,8 @@
       "weaponBullet": "霰弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764398614955.png",
       "weaponDesc": "攻击160【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "防御武装Lv.1",
@@ -5002,6 +5278,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764398743500.png",
       "weaponDesc": "攻击188【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5037,6 +5315,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764398855288.png",
       "weaponDesc": "攻击167【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5072,6 +5352,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764398990852.png",
       "weaponDesc": "攻击188【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5107,6 +5389,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764399126041.png",
       "weaponDesc": "攻击188【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5142,6 +5426,8 @@
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764399238923.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5177,6 +5463,8 @@
       "weaponBullet": "",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764399318823.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5212,6 +5500,8 @@
       "weaponBullet": "霰弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764399455084.png",
       "weaponDesc": "攻击160【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5247,6 +5537,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764399525334.png",
       "weaponDesc": "攻击153【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "防御武装Lv.1",
@@ -5282,6 +5574,8 @@
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1766129292141.png",
       "weaponDesc": "攻击202【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5317,6 +5611,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764399577123.png",
       "weaponDesc": "攻击146【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "援助武装Lv.1",
@@ -5352,6 +5648,8 @@
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1765008742620.png",
       "weaponDesc": "攻击188【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5387,6 +5685,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764399657612.png",
       "weaponDesc": "攻击181【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5422,6 +5722,8 @@
       "weaponBullet": "霰弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764399733952.png",
       "weaponDesc": "攻击153【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "援助武装Lv.1",
@@ -5457,6 +5759,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764400109887.png",
       "weaponDesc": "攻击195【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5492,6 +5796,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764400164916.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5527,6 +5833,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764400225409.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "援助武装Lv.1",
@@ -5562,6 +5870,8 @@
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764400306513.png",
       "weaponDesc": "攻击195【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5597,6 +5907,8 @@
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764400385033.png",
       "weaponDesc": "攻击153【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5632,6 +5944,8 @@
       "weaponBullet": "",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764402809401.png",
       "weaponDesc": "攻击188【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5667,6 +5981,8 @@
       "weaponBullet": "霰弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764400494165.png",
       "weaponDesc": "攻击195【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5702,6 +6018,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764400655018.png",
       "weaponDesc": "攻击195【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5737,6 +6055,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764400726448.png",
       "weaponDesc": "攻击195【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5772,6 +6092,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764400826011.png",
       "weaponDesc": "攻击195【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5807,6 +6129,8 @@
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764400874386.png",
       "weaponDesc": "攻击195【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5842,6 +6166,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764400978015.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5877,6 +6203,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401025703.png",
       "weaponDesc": "攻击160【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5912,6 +6240,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401084421.png",
       "weaponDesc": "攻击195【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5947,6 +6277,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401242026.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -5982,6 +6314,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401143442.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6017,6 +6351,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1765008853033.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6052,6 +6388,8 @@
       "weaponBullet": "霰弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401203067.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6087,6 +6425,8 @@
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401309706.png",
       "weaponDesc": "攻击160【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "援助武装Lv.1",
@@ -6122,6 +6462,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401372615.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6157,6 +6499,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401466949.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6192,6 +6536,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401511503.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6227,6 +6573,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401606310.png",
       "weaponDesc": "攻击160【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "防御武装Lv.1",
@@ -6262,6 +6610,8 @@
       "weaponBullet": "霰弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401701854.png",
       "weaponDesc": "攻击195【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6297,6 +6647,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764403028556.png",
       "weaponDesc": "攻击188【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6332,6 +6684,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401753102.png",
       "weaponDesc": "攻击153【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6367,6 +6721,8 @@
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401793884.png",
       "weaponDesc": "攻击188【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6402,6 +6758,8 @@
       "weaponBullet": "",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401840813.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6437,6 +6795,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764401887830.png",
       "weaponDesc": "攻击153【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "援助武装Lv.1",
@@ -6472,6 +6832,8 @@
       "weaponBullet": "中型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764402198457.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6507,6 +6869,8 @@
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764402237902.png",
       "weaponDesc": "攻击195【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6542,6 +6906,8 @@
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764402287317.png",
       "weaponDesc": "攻击188【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6577,6 +6943,8 @@
       "weaponBullet": "重型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764402352031.png",
       "weaponDesc": "攻击174【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
@@ -6612,6 +6980,8 @@
       "weaponBullet": "轻型弹",
       "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1764402412541.png",
       "weaponDesc": "攻击153【60级】",
+      "quality": "R",
+      "isPermanent": "false",
       "skills": [
         {
           "level": "火力武装Lv.1",
