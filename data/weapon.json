@@ -7,16 +7,114 @@
       "weaponEnName": "沙漠之鹰",
       "weaponType": "手枪",
       "weaponBullet": "轻型弹",
-      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/char/WEAPON-10813.png",
-      "weaponDesc": "",
-      "weaponTrait": "若技能不消耗导染指数，则暴击伤害提高",
-      "weaponBrand": "对持有防御类减益的目标造成伤害提高2.5%，对帕拉蒂斯造成的伤害提高2.5%。",
+      "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1786118924161.png",
+      "weaponDesc": "攻击390【60级】 / 暴击伤害25%",
+      "weaponTrait": "若技能不消耗导染指数，则暴击伤害提高10%。",
+      "weaponBrand": "对持有冷凝类减益的目标造成伤害提高2.5%，对瓦良格帮造成的伤害提高2.5%。",
       "quality": "SSR",
       "isPermanent": "false",
       "skills": [
         {
           "level": "逐风Lv.1",
-          "description": "造成冷凝伤害提高，若技能不消耗导染指数，且对处于冷凝类地格上的敌方目标造成伤害时，无视目标部分防御力。"
+          "description": "造成的冷凝伤害提高20%。若技能不消耗导染指数，且对处于冷凝类地格上的敌方目标造成伤害时，无视目标5%防御力。"
+        },
+        {
+          "level": "逐风Lv.2",
+          "description": "造成的冷凝伤害提高25%。若技能不消耗导染指数，且对处于冷凝类地格上的敌方目标造成伤害时，无视目标5%防御力。"
+        },
+        {
+          "level": "逐风Lv.3",
+          "description": "造成的冷凝伤害提高30%。若技能不消耗导染指数，且对处于冷凝类地格上的敌方目标造成伤害时，无视目标5%防御力。"
+        },
+        {
+          "level": "逐风Lv.4",
+          "description": "造成的冷凝伤害提高35%。若技能不消耗导染指数，且对处于冷凝类地格上的敌方目标造成伤害时，无视目标5%防御力。"
+        },
+        {
+          "level": "逐风Lv.5",
+          "description": "造成的冷凝伤害提高40%。若技能不消耗导染指数，且对处于冷凝类地格上的敌方目标造成伤害时，无视目标5%防御力。"
+        },
+        {
+          "level": "逐风Lv.6",
+          "description": "造成的冷凝伤害提高45%。若技能不消耗导染指数，且对处于冷凝类地格上的敌方目标造成伤害时，无视目标5%防御力。"
+        }
+      ]
+    },
+    {
+      "weaponId": 10812,
+      "weaponName": "沙漠之鹰",
+      "weaponEnName": "沙漠之鹰",
+      "weaponType": "手枪",
+      "weaponBullet": "轻型弹",
+      "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1786119137308.png",
+      "weaponDesc": "攻击278【60级】",
+      "weaponTrait": "若技能不消耗导染指数，则暴击伤害提高10%。",
+      "weaponBrand": "",
+      "quality": "SR",
+      "isPermanent": "false",
+      "skills": [
+        {
+          "level": "掠影Lv.1",
+          "description": "造成的冷凝伤害提高10%。"
+        },
+        {
+          "level": "掠影Lv.2",
+          "description": "造成的冷凝伤害提高12%。"
+        },
+        {
+          "level": "掠影Lv.3",
+          "description": "造成的冷凝伤害提高14%。"
+        },
+        {
+          "level": "掠影Lv.4",
+          "description": "造成的冷凝伤害提高16%。"
+        },
+        {
+          "level": "掠影Lv.5",
+          "description": "造成的冷凝伤害提高18%。"
+        },
+        {
+          "level": "掠影Lv.6",
+          "description": "造成的冷凝伤害提高20%。"
+        }
+      ]
+    },
+    {
+      "weaponId": 10811,
+      "weaponName": "旧式沙漠之鹰",
+      "weaponEnName": "沙漠之鹰",
+      "weaponType": "手枪",
+      "weaponBullet": "轻型弹",
+      "weaponIcon": "https://community-cdn.exiliumgf.com/prod/1786119225437.png",
+      "weaponDesc": "攻击195【60级】",
+      "weaponTrait": "",
+      "weaponBrand": "",
+      "quality": "R",
+      "isPermanent": "false",
+      "skills": [
+        {
+          "level": "火力武装Lv.1",
+          "description": "造成伤害提高1%。"
+        },
+        {
+          "level": "火力武装Lv.2",
+          "description": "造成伤害提高2%。"
+        },
+        {
+          "level": "火力武装Lv.3",
+          "description": "造成伤害提高3%。"
+        },
+        {
+          "level": "火力武装Lv.4",
+          "description": "造成伤害提高4%。"
+        },
+        {
+          "level": "火力武装Lv.5",
+          "description": "造成伤害提高5%。"
+        },
+        {
+          "level": "火力武装Lv.6",
+          "description": "造成伤害提高6%。"
         }
       ]
     },
