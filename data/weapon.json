@@ -2,6 +2,25 @@
   "code": 0,
   "data": [
     {
+      "weaponId": 10823,
+      "weaponName": "斯诺特拉",
+      "weaponEnName": "G36",
+      "weaponType": "突击步枪",
+      "weaponBullet": "中型弹",
+      "weaponIcon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/char/WEAPON-10823.png",
+      "weaponDesc": "",
+      "weaponTrait": "持有护盾时造成的伤害提高，若造成燃烧伤害，则造成的伤害额外提高。",
+      "weaponBrand": "",
+      "quality": "SSR",
+      "isPermanent": "false",
+      "skills": [
+        {
+          "level": "孤羽归群Lv.1",
+          "description": "持有护盾时造成的伤害提高，暴击伤害提高，且行动支援造成燃烧伤害后，自身获得导染指数。"
+        }
+      ]
+    },
+    {
       "weaponId": 10813,
       "weaponName": "银翼匹丝缇",
       "weaponEnName": "沙漠之鹰",
