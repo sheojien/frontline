@@ -3,7 +3,7 @@
   "data": [
     {
       "bannerId": 1,
-      "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/NEW_CHAR_1082.png",
+      "bannerView": "https://i-blog.csdnimg.cn/direct/4c46b253a9554d3f88b2f317184a84cb.png",
       "jump": "/pages/character/character?id=1082",
       "isShow": true
     },
