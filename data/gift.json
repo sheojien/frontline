@@ -2,6 +2,24 @@
   "code": 0,
   "data": [
     {
+      "giftId": 3,
+      "title": "北兰岛避难所广播第三十五期",
+      "background": "",
+      "expTime": "2026年9月17日 18:00",
+      "codes": [
+        {
+          "code": "E8DTQTNXX8",
+          "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/KIN.png",
+          "count": 100
+        },
+        {
+          "code": "93TJY3HJZD",
+          "icon": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/mate/KIN.png",
+          "count": 100
+        }
+      ]
+    },
+    {
       "giftId": 2,
       "title": "艾莫号修复企划 直播兑换码",
       "background": "",
