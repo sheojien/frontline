@@ -1,26 +1,33 @@
 {
   "code": 0,
   "data": [
+
     {
       "bannerId": 1,
+      "bannerView": "https://i-blog.csdnimg.cn/direct/0f2706f9b00e4bf2908737b30a74b8bf.png",
+      "jump": "/pages/character/character?id=1084",
+      "isShow": true
+    },
+    {
+      "bannerId": 2,
       "bannerView": "https://i-blog.csdnimg.cn/direct/320c7e384fa2401fb93bed3f64911e04.png",
       "jump": "/pages/character/character?id=1083",
       "isShow": true
     },
     {
-      "bannerId": 2,
+      "bannerId": 3,
       "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/SEARCH_BANNER.jpg",
       "jump": "/pages/search/search",
       "isShow": true
     },
     {
-      "bannerId": 3,
+      "bannerId": 4,
       "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/HEADHUNTER.jpg",
       "jump": "/pages/hunter/hunter",
       "isShow": true
     },
     {
-      "bannerId": 4,
+      "bannerId": 5,
       "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/TERMS_DEFINITION.jpg",
       "jump": "/pages/definition/definition",
       "isShow": true
