@@ -1,1 +1,1 @@
-{"code":0,"data":{"keyId":"10836","keyType":"固键","keyName":"提裙愈步","keyIcon":"https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/keys/common/A.png","keyDesc":"自身行动结束时，恢复自身周围所有拥有[铁血覆写】的单位和拥有铁血的友方人形生命值。","keyParam":null,"keySource":"代理人"},"msg":"成功"}
+{"code":0,"data":{"keyId":"10836","keyType":"固键","keyName":"提裙愈步","keyIcon":"https://community-cdn.exiliumgf.com/prod/1789980208392.png","keyDesc":"自身行动结束时，恢复自身周围半径8格内所有拥有铁血覆写的单位和拥有铁血的友方人形15%最大生命值的生命值。","keyParam":"","keySource":"代理人"},"msg":"成功"}

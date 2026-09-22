@@ -1,1 +1,1 @@
-{"code":0,"data":{"keyId":"10837","keyType":"共键","keyName":"即刻清理指令","keyIcon":"https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/keys/common/SSR.png","keyDesc":"自身造成的范围伤害提高。累计造成10次范围伤害后，造成的范围伤害额外提高。","keyParam":null,"keySource":"代理人"},"msg":"成功"}
+{"code":0,"data":{"keyId":"10837","keyType":"共键","keyName":"即刻清理指令","keyIcon":"https://community-cdn.exiliumgf.com/prod/1789980062071.png","keyDesc":"自身造成的范围伤害提高5%。累计造成10次范围伤害后，造成的范围伤害额外提高5%。","keyParam":"攻击加成5%  ","keySource":"代理人"},"msg":"成功"}
