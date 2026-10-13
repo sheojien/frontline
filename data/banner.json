@@ -9,12 +9,6 @@
       "isShow": true
     },
     {
-      "bannerId": 2,
-      "bannerView": "https://i-blog.csdnimg.cn/direct/320c7e384fa2401fb93bed3f64911e04.png",
-      "jump": "/pages/character/character?id=1083",
-      "isShow": true
-    },
-    {
       "bannerId": 3,
       "bannerView": "https://cdn.jsdelivr.net/gh/sheojien/frontline@main/source/banner/SEARCH_BANNER.jpg",
       "jump": "/pages/search/search",
