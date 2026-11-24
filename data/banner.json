@@ -6,7 +6,7 @@
       "bannerId": 1,
       "bannerView": "https://i-blog.csdnimg.cn/direct/302bc63080904611ae0ab95aee7380f1.png",
       "jump": "/pages/character/character?id=1088",
-      "isShow": true
+      "isShow": false
     },
     {
       "bannerId": 3,
